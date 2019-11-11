@@ -1,0 +1,44 @@
+List of attributes to scrape
+From Wikipedia (https://wikipedia.readthedocs.io/en/latest/code.html#wikipedia.WikipediaPage.summary)
+- Title (wikipedia)
+- Release Year
+- Imdb Id (wikipedia)
+- Poster (wikipedia)
+- Wikipedia Plot (wikipedia)
+- Wikipedia Link (wikipedia)
+
+From IMDB dump (https://www.imdb.com/interfaces/)
+title.basics.tsv.gz
+- Genre
+- runtime
+- Release year
+- isadult
+title.ratings.tsv.gz
+- Imdb Rating
+- Imdb Votes
+title.crew.tsv.gz
+- Director(s)
+- Writer(s)
+title.principals.tsv.gz
+- cast info
+- crew info
+
+From Scraping IMDB
+- summary text (basic plot)
+- storyline
+
+From API (rapid api)
+- Release Date
+- Runtime (-)
+- Genre (-)
+- Director(s) (-)
+- Writer(s) (-)
+- Actors (-)
+- Imdb Plot
+- Language
+- Imdb Rating (-)
+- Imdb Votes (-)
+- Awards
+- Production Company
+
+Alternative: TMDB API (40 per 10 sec)
