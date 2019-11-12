@@ -1,21 +1,22 @@
 List of attributes to scrape
+Experimenting with wptools instead of wikipedia to reduce the no. of requests
 From Wikipedia (https://wikipedia.readthedocs.io/en/latest/code.html#wikipedia.WikipediaPage.summary)
-- Title (wikipedia)
+- Title (wikipedia) (+)
 - Release Year
-- Imdb Id (wikipedia)
-- Poster (wikipedia)
+- Imdb Id (wikipedia) (+)
+- Poster (wikipedia) (+)
 - Wikipedia Plot (wikipedia)
-- Wikipedia Link (wikipedia)
+- Wikipedia Link (wikipedia) (+)
 
 From IMDB dump (https://www.imdb.com/interfaces/)
 title.basics.tsv.gz
-- Genre
-- runtime
-- Release year
-- isadult
+- Genre (+)
+- runtime (+)
+- Release year (+)
+- isadult (+)
 title.ratings.tsv.gz
-- Imdb Rating
-- Imdb Votes
+- Imdb Rating (+)
+- Imdb Votes (+)
 title.crew.tsv.gz
 - Director(s)
 - Writer(s)
@@ -42,3 +43,10 @@ From API (rapid api)
 - Production Company
 
 Alternative: TMDB API (40 per 10 sec)
+
+Procedure:
+1. Scrape Wikipedia for Title, Poster, Imdb Id and Wikipedia Link - 1 request from wptools (1*1003)
+2. Create a list of all the IMDB Id's in the Dataset
+3. Start with a fixed chunk size of 2,00,000 from IMDB dump and interate over the pandas df (32 iterations)
+	3.a If any IMDB id matches with the current 'chunk size iteration' in the dump, store it's values in the Table
+	3.b Move to the next chunk size
