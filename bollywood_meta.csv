@@ -1,0 +1,930 @@
+imdb_id,title,original_title,is_adult,year_of_release,runtime,genres
+tt0073707,Sholay,Sholay,0,1975,198,Action|Adventure|Comedy
+tt0246825,Om Dar-B-Dar,Om Dar-B-Dar,0,1988,101,Drama
+tt0403935,Action Jackson,Action Jackson,0,2014,144,Action|Thriller
+tt0443331,Milenge Milenge,Milenge Milenge,0,2010,109,Drama|Romance
+tt0839742,Bhopal: A Prayer for Rain,Bhopal: A Prayer for Rain,0,2014,96,Drama
+tt0988655,A Flat,A Flat,0,2010,103,Drama|Horror|Romance
+tt10017956,Gone Kesh,Gone Kesh,0,2019,110,Drama
+tt10196464,Ramprasad Ki Tehrvi,Ramprasad Ki Tehrvi,0,\N,\N,Comedy|Drama
+tt10324144,Article 15,Article 15,0,2019,130,Crime|Drama
+tt10443846,Yeh Saali Aashiqui,Yeh Saali Aashiqui,0,2019,\N,Thriller
+tt10635372,Dee Saturday Night,Dee Saturday Night,0,2014,\N,Drama
+tt10816510,P Se Pyaar F Se Faraar,P Se Pyaar F Se Faraar,0,2019,131,Crime|Drama|Romance
+tt11007050,#Yaaram,#Yaaram,0,2019,\N,Comedy|Romance
+tt11046300,Ujda Chaman,Ujda Chaman,0,2019,120,Comedy
+tt1124386,Pankh,Pankh,0,2010,98,Drama
+tt1127220,Mr Bhatti on Chutti,Mr Bhatti on Chutti,0,2012,\N,Comedy
+tt1172587,Delhi Safari,Delhi Safari,0,2012,96,Animation|Comedy|Drama
+tt1182884,Dulha Mil Gaya,Dulha Mil Gaya,0,2010,152,Comedy|Drama|Romance
+tt1183917,Teen Patti,Teen Patti,0,2010,142,Crime|Drama|Thriller
+tt1183944,Sadiyaan: Boundaries Divide... Love Unites,Sadiyaan: Boundaries Divide... Love Unites,0,2010,200,Drama|Romance
+tt1185412,Veer,Veer,0,2010,169,Action|Adventure|Drama
+tt1188982,Jai Ho,Jai Ho,0,2014,135,Action|Drama
+tt1188996,My Name Is Khan,My Name Is Khan,0,2010,165,Drama
+tt1189006,Toonpur Ka Superrhero,Toonpur Ka Superrhero,0,2010,95,Action|Adventure|Animation
+tt1191118,Hello Darling,Hello Darling,0,2010,\N,Comedy|Drama
+tt1191130,Right Yaaa Wrong,Right Yaaa Wrong,0,2010,135,Crime|Drama|Thriller
+tt1194232,Jaane Kahan Se Aayi Hai,Jaane Kahan Se Aayi Hai,0,2010,94,Comedy|Drama|Fantasy
+tt1194236,Paathshaala,Get Educated: Paathshaala,0,2010,122,Drama|Family
+tt1198101,Kites,Kites,0,2010,123,Action|Drama|Romance
+tt1221147,Tera Kya Hoga Johnny,Tera Kya Hoga Johnny,0,2009,155,Crime|Drama|Thriller
+tt1227524,Aashayein,Aashayein,0,2010,120,Drama
+tt1239276,Colours of Passion,Rang Rasiya,0,2008,132,Biography|Drama|Romance
+tt1244093,Hisss,Hisss,0,2010,98,Comedy|Drama|Horror
+tt1245732,Red Alert: The War Within,Red Alert: The War Within,0,2009,120,Action|Drama|Thriller
+tt1279105,Ramaa: The Saviour,Ramaa: The Saviour,0,2010,120,Action|Adventure|Drama
+tt1285241,Don 2,Don 2,0,2011,148,Action|Crime|Thriller
+tt1285245,Lahore,Lahore,0,2010,145,Action|Drama|Sport
+tt1286766,Fatso!,Fatso!,0,2012,98,Comedy|Fantasy|Romance
+tt1292642,People of Allah,Allah Ke Banday,0,2010,123,Action|Crime|Drama
+tt1309561,Lamhaa: The Untold Story of Kashmir,Lamhaa: The Untold Story of Kashmir,0,2010,152,Action|Drama|Thriller
+tt1319716,It's a Wonderful Afterlife,It's a Wonderful Afterlife,0,2010,100,Comedy|Drama|Fantasy
+tt1322257,Jhootha Hi Sahi,Jhootha Hi Sahi,0,2010,142,Comedy|Drama|Romance
+tt1334470,Raavan,Raavan,0,2010,130,Action|Adventure|Drama
+tt1345777,Ishqiya,Ishqiya,0,2010,118,Comedy|Drama|Romance
+tt1351224,Pyaar Impossible!,Pyaar Impossible!,0,2010,140,Comedy|Romance
+tt1363125,Naughty @ 40,Naughty @ 40,0,2011,108,Comedy|Drama
+tt1363363,Chatur Singh Two Star,Chatur Singh Two Star,0,2011,150,Action|Adventure|Comedy
+tt1368453,Chargesheet,Chargesheet,0,2011,\N,Drama|Thriller
+tt1373156,Karthik Calling Karthik,Karthik Calling Karthik,0,2010,135,Drama|Mystery|Thriller
+tt1375789,Race 2,Race 2,0,2013,150,Action|Crime|Thriller
+tt1388903,Mirch,Mirch,0,2010,105,Comedy|Drama|Fantasy
+tt1392744,Chance Pe Dance,Chance Pe Dance,0,2010,122,Comedy|Drama|Music
+tt1395025,Agent Vinod,Agent Vinod,0,2012,157,Action|Adventure|Thriller
+tt1395054,Once Upon a Time in Mumbai,Once Upon a Time in Mumbaai,0,2010,134,Action|Crime|Drama
+tt1396208,Action Replay,Action Replayy,0,2010,129,Comedy|Romance|Sci-Fi
+tt1397492,Well Done Abba!,Well Done Abba!,0,2009,144,Comedy
+tt1425618,Apartment: Rent at Your Own Risk,Apartment: Rent at Your Own Risk,0,2010,97,Drama|Mystery|Thriller
+tt1431122,No Problem,No Problem,0,2010,139,Action|Comedy|Crime
+tt1433810,Dhobi Ghat,Dhobi Ghat,0,2010,100,Drama
+tt1437367,Thanks Maa,Thanks Maa,0,2009,120,Crime|Drama
+tt1438298,Guzaarish,Guzaarish,0,2010,126,Drama
+tt1442583,Tum Milo Toh Sahi,Tum Milo Toh Sahi,0,2010,128,Comedy|Drama
+tt1447508,Peepli (Live),Peepli (Live),0,2010,95,Comedy|Drama
+tt1451797,Rann,Rann,0,2010,137,Drama|Mystery|Thriller
+tt1455811,Khatta Meetha,Khatta Meetha,0,2010,157,Comedy|Crime|Drama
+tt1455816,Prince,Prince,0,2010,138,Action|Sci-Fi|Thriller
+tt1465488,Happy Husbands,Happy Husbands,0,2011,134,Comedy|Drama
+tt1465493,Hum Tum Aur Ghost,Hum Tum Aur Ghost,0,2010,125,Comedy|Drama|Fantasy
+tt1471247,Road to Sangam,Road to Sangam,0,2010,135,Drama|Thriller
+tt1499201,Anjaana Anjaani,Anjaana Anjaani,0,2010,151,Comedy|Drama|Musical
+tt1503640,Damadamm!,Damadamm!,0,2011,122,Comedy|Drama|Romance
+tt1512220,My Friend Pinto,My Friend Pinto,0,2011,100,Comedy|Crime|Drama
+tt1535467,Patiala House,Patiala House,0,2011,140,Drama|Sport
+tt1558578,Knock Out,Knock Out,0,2010,117,Action|Crime|Drama
+tt1562871,Ra.One,Ra.One,0,2011,156,Action|Adventure|Sci-Fi
+tt1562872,Zindagi Na Milegi Dobara,Zindagi Na Milegi Dobara,0,2011,155,Comedy|Drama
+tt1563732,5 Ghantey Mien 5 Crore,5 Ghantey Mien 5 Crore,0,2012,111,Thriller
+tt1572311,Tees Maar Khan,Tees Maar Khan,0,2010,135,Comedy|Crime
+tt1573072,Housefull,Housefull,0,2010,144,Comedy
+tt1573482,Striker,Striker,0,2010,128,Action|Crime|Drama
+tt1578261,Break Ke Baad,Break Ke Baad,0,2010,118,Comedy|Drama|Romance
+tt1594964,Chase,Chase,0,2010,103,Action|Crime|Drama
+tt1596723,Click,Click,0,2010,127,Drama|Horror|Mystery
+tt1600439,Shaapit: The Cursed,Shaapit: The Cursed,0,2010,145,Adventure|Horror|Romance
+tt1605778,Toh Baat Pakki!,Toh Baat Pakki!,0,2010,122,Comedy|Drama
+tt1605790,Zokkomon,Zokkomon,0,2011,109,Action|Adventure
+tt1606162,Aakhari Decision,Aakhari Decision,0,2010,\N,Action|Drama|Thriller
+tt1606267,Lafangey Parindey,Lafangey Parindey,0,2010,126,Action|Drama|Romance
+tt1607607,Mittal v/s Mittal,Mittal v/s Mittal,0,2010,\N,Drama
+tt1608768,City of Gold - Mumbai 1982: Ek Ankahee Kahani,City of Gold - Mumbai 1982: Ek Ankahee Kahani,0,2010,145,Crime|Drama
+tt1608777,LSD: Love Sex Aur Dhokha,LSD: Love Sex Aur Dhokha,0,2010,155,Comedy|Crime|Drama
+tt1609147,Malik Ek,Malik Ek,0,2010,\N,Biography|Drama|History
+tt1610418,Prem Kaa Game,Prem Kaa Game,0,2010,\N,Comedy|Drama
+tt1610452,Band Baaja Baaraat,Band Baaja Baaraat,0,2010,139,Comedy|Drama|Romance
+tt1612573,Rokkk,Rokkk,0,2010,180,Drama|Horror|Mystery
+tt1612611,Phoonk 2,Phoonk 2,0,2010,110,Drama|Horror|Mystery
+tt1618430,Dum Maaro Dum,Dum Maaro Dum,0,2011,128,Action|Crime|Drama
+tt1620620,The Japanese Wife,The Japanese Wife,0,2010,105,Drama|Romance
+tt1620719,Fearless,Dabangg,0,2010,126,Action|Comedy
+tt1620907,Na Ghar Ke Na Ghaat Ke,Na Ghar Ke Na Ghaat Ke,0,2010,\N,Comedy|Drama
+tt1620933,Paan Singh Tomar,Paan Singh Tomar,0,2012,135,Action|Biography|Crime
+tt1620971,Sukhmani,Sukhmani,0,2010,\N,Drama
+tt1627924,Mausam,Mausam,0,2011,161,Drama|Romance|War
+tt1629241,Bumm Bumm Bole,Bumm Bumm Bole,0,2010,124,Drama|Family|Thriller
+tt1629260,Ek Second... Jo Zindagi Badal De...,Ek Second... Jo Zindagi Badal De...,0,2010,\N,Drama|Romance|Thriller
+tt1629295,I Am,I Am,0,2010,95,Drama
+tt1629376,Seven Sins Forgiven,7 Khoon Maaf,0,2011,137,Drama|Mystery|Thriller
+tt1629391,Tere Bin Laden,Tere Bin Laden,0,2010,95,Comedy|Drama
+tt1629424,Trump Card,Trump Card,0,2010,\N,Action|Drama|Mystery
+tt1629715,Miss Lovely,Miss Lovely,0,2012,113,Crime|Drama|Romance
+tt1630282,Sahi Dhandhe Galat Bande,Sahi Dhandhe Galat Bande,0,2011,119,Action|Comedy|Drama
+tt1630613,Soch Lo,Soch Lo,0,2010,\N,Action|Crime|Drama
+tt1639426,Udaan,Udaan,0,2010,134,Drama
+tt1646217,Mr. Singh/Mrs. Mehta,Mr. Singh/Mrs. Mehta,0,2010,118,Drama
+tt1649760,The Film Emotional Atyachar,The Film Emotional Atyachar,0,2010,87,Comedy|Crime|Drama
+tt1663647,Help,Help,0,2010,109,Horror|Thriller
+tt1666184,Turning 30!!!,Turning 30!!!,0,2011,121,Comedy|Drama|Romance
+tt1667076,F.A.L.T.U,F.A.L.T.U,0,2011,120,Comedy|Drama
+tt1667838,I Hate Luv Storys,I Hate Luv Storys,0,2010,129,Comedy|Drama|Romance
+tt1673411,Kushti,Kushti,0,2010,121,Comedy
+tt1680317,Will You Marry Me,Will You Marry Me,0,\N,\N,Drama
+tt1694542,Tanu Weds Manu,Tanu Weds Manu,0,2011,113,Comedy|Drama|Romance
+tt1695793,Love U... Mr. Kalakaar!,Love U... Mr. Kalakaar!,0,2011,152,Drama|Romance
+tt1696191,Tere Mere Phere,Tere Mere Phere,0,2011,120,Comedy|Drama|Romance
+tt1703958,Ek Main Aur Ekk Tu,Ek Main Aur Ekk Tu,0,2012,110,Comedy|Drama|Romance
+tt1704680,A Decent Arrangement,A Decent Arrangement,0,2011,96,Comedy|Drama
+tt1706317,Tezz,Tezz,0,2012,121,Action|Crime|Drama
+tt1708453,Aakrosh,Aakrosh,0,2010,115,Action|Crime|Thriller
+tt1714832,Do Dooni Chaar,Do Dooni Chaar,0,2010,112,Comedy|Drama
+tt1720254,Thank You,Thank You,0,2011,125,Comedy
+tt1722425,Antardwand,Antardwand,0,2008,114,Drama
+tt1727496,Dil Toh Baccha Hai Ji,Dil Toh Baccha Hai Ji,0,2011,143,Comedy|Drama|Romance
+tt1728239,Double Dhamaal,Double Dhamaal,0,2011,138,Comedy|Crime|Drama
+tt1728986,Bol Bachchan,Bol Bachchan,0,2012,155,Action|Comedy
+tt1729637,Bodyguard,Bodyguard,0,2011,130,Action|Comedy|Romance
+tt1734110,No One Killed Jessica,No One Killed Jessica,0,2011,136,Biography|Crime|Drama
+tt1736552,Breakaway,Breakaway,0,2011,101,Comedy|Drama|Sport
+tt1738293,Khichdi: The Movie,Khichdi: The Movie,0,2010,120,Comedy|Family
+tt1740710,Mere Brother Ki Dulhan,Mere Brother Ki Dulhan,0,2011,139,Comedy|Family|Romance
+tt1742307,Dunno Y Na Jaane Kyun...,Dunno Y Na Jaane Kyun...,0,2010,137,Drama|Romance
+tt1744641,Ramayana: The Epic,Ramayana: The Epic,0,2010,98,Adventure|Animation|Family
+tt1745753,Life Express,Life Express,0,2010,125,Drama
+tt1753640,Crook: It's Good to Be Bad,Crook: It's Good to Be Bad,0,2010,121,Action|Drama|Thriller
+tt1772872,Game,Game,0,2011,135,Action|Crime|Drama
+tt1773015,Phas Gaye Re Obama,Phas Gaye Re Obama,0,2010,108,Comedy|Crime|Drama
+tt1773109,Yamla Pagla Deewana,Yamla Pagla Deewana,0,2011,163,Action|Comedy|Drama
+tt1773764,Ship of Theseus,Ship of Theseus,0,2012,140,Drama
+tt1781838,Isi Life Mein...!,Isi Life Mein...!,0,2010,139,Comedy|Drama|Romance
+tt1784589,Players,Players,0,2012,163,Action|Crime|Thriller
+tt1785333,Chittagong,Chittagong,0,2012,105,Action|Drama|War
+tt1787988,Talaash,Talaash,0,2012,140,Crime|Drama|Mystery
+tt1801521,Khap,Khap,0,2011,125,Drama|Thriller
+tt1805263,I Am Kalam,I Am Kalam,0,2010,88,Comedy|Drama|Family
+tt1806913,Golmaal Again,Golmaal Again,0,2017,140,Action|Comedy|Fantasy
+tt1808221,Kaalo,Kaalo,0,2010,79,Action|Drama|Horror
+tt1809399,Utt Pataang,Utt Pataang,0,2011,120,Comedy|Drama
+tt1814619,Aashiqui.in,Aashiqui.in,0,2011,109,Drama|Romance
+tt1821480,Kahaani,Kahaani,0,2012,122,Mystery|Thriller
+tt1821692,United Six,United Six,0,2011,\N,Action|Drama|Thriller
+tt1825655,Angel,Angel,0,2011,114,Action|Drama
+tt1825801,Hostel,Hostel,0,2011,111,Action|Crime|Drama
+tt1826051,Yeh Dooriyan,Yeh Dooriyan,0,2011,107,Drama|Romance
+tt1826763,Mumbhai Connection,Mumbhai Connection,0,2011,90,Comedy|Crime|Thriller
+tt1828289,Shagird,Shagird,0,2011,143,Action|Crime|Drama
+tt1830786,Rascals,Rascals,0,2011,128,Action|Comedy|Crime
+tt1833673,Dhoom 3,Dhoom:3,0,2013,172,Action|Thriller
+tt1836912,Shaitan,Shaitan,0,2011,121,Action|Crime|Drama
+tt1839596,Rockstar,Rockstar,0,2011,159,Drama|Music|Musical
+tt1841542,Chillar Party,Chillar Party,0,2011,135,Comedy|Drama|Family
+tt1847736,U R My Jaan,U R My Jaan,0,2011,140,Romance
+tt1848771,Aarakshan,Aarakshan,0,2011,164,Drama
+tt1849718,Agneepath,Agneepath,0,2012,174,Action|Drama
+tt1855268,Main Krishna Hoon,Main Krishna Hoon,0,2013,134,Animation|Family|Musical
+tt1867064,Strings of Passion,Strings of Passion,0,2014,100,Drama
+tt1867070,Teen Thay Bhai,Teen Thay Bhai,0,2011,\N,Comedy|Drama
+tt1869296,Bbuddah... Hoga Terra Baap,Bbuddah... Hoga Terra Baap,0,2011,114,Action|Crime|Thriller
+tt1877691,Love Breakups Zindagi,Love Breakups Zindagi,0,2011,156,Comedy|Drama|Romance
+tt1883121,404: Error Not Found,404: Error Not Found,0,2011,121,Drama|Mystery|Thriller
+tt1884268,Chalo Dilli,Chalo Dilli,0,2011,155,Comedy|Drama
+tt1886663,Satrangee Parachute,Satrangee Parachute,0,2011,115,Comedy|Drama|Family
+tt1887763,Haunted - 3D,Haunted - 3D,0,2011,143,Horror|Mystery|Thriller
+tt1887817,Monica,Monica,0,2011,124,Biography|Drama|Thriller
+tt1890363,Buddha in a Traffic Jam,Buddha in a Traffic Jam,0,2016,114,Crime|Thriller
+tt1890513,Ragini MMS,Ragini MMS,0,2011,93,Drama|Horror|Mystery
+tt1891884,Once Upon a Time in Mumbai Dobaara!,Once Upon a Time in Mumbai Dobaara!,0,2013,160,Action|Crime|Drama
+tt1895476,Memories in March,Memories in March,0,2010,104,Drama
+tt1900937,Mumbai Mast Kallander,Mumbai Mast Kallander,0,2011,\N,Action|Comedy|Crime
+tt1907761,Stanley Ka Dabba,Stanley Ka Dabba,0,2011,96,Comedy|Drama|Family
+tt1916728,Shor in the City,Shor in the City,0,2010,112,Crime|Drama
+tt1918886,Joker,Joker,0,2012,104,Comedy|Family|Sci-Fi
+tt1918965,Murder 2,Murder 2,0,2011,127,Action|Drama|Horror
+tt1920986,Khuda Kasam,Khuda Kasam,0,2010,160,Action|Crime|Drama
+tt1926313,Pyaar Ka Punchnama,Pyaar Ka Punchnama,0,2011,149,Comedy|Drama|Romance
+tt1934231,Delhi Belly,Delhi Belly,0,2011,103,Action|Comedy|Crime
+tt1937092,Always Kabhi Kabhi,Always Kabhi Kabhi,0,2011,126,Comedy|Crime|Drama
+tt1939654,Bheja Fry 2,Bheja Fry 2,0,2011,129,Comedy|Drama
+tt1941638,Sadda Adda,Sadda Adda,0,2012,130,Comedy|Drama|Romance
+tt1942905,Kucch Luv Jaisaa,Kucch Luv Jaisaa,0,2011,105,Drama
+tt1947973,Bin Bulaye Baraati,Bin Bulaye Baraati,0,2011,133,Action|Comedy|Crime
+tt1948047,Impatient Vivek,Impatient Vivek,0,2011,\N,Comedy|Drama|Romance
+tt1948150,Singham,Singham,0,2011,143,Action|Drama
+tt1949548,Heroine,Heroine,0,2012,149,Drama
+tt1954206,The Dirty Picture,The Dirty Picture,0,2011,144,Biography|Drama
+tt1954470,Gangs of Wasseypur,Gangs of Wasseypur,0,2012,321,Action|Comedy|Crime
+tt1954470,Gangs of Wasseypur,Gangs of Wasseypur,0,2012,321,Action|Comedy|Crime
+tt1954598,Ladies vs. Ricky Bahl,Ladies vs. Ricky Bahl,0,2011,140,Comedy|Drama|Romance
+tt1956433,Ata Pata Lapatta,Ata Pata Lapatta,0,2012,120,Comedy|Musical
+tt1961530,Tell Me O Kkhuda,Tell Me O Kkhuda,0,2011,125,Action|Crime|Drama
+tt1971310,5 Weddings,5 Weddings,0,2018,90,Comedy|Drama|Romance
+tt1971365,Dangerous Ishq,Dangerous Ishhq,0,2012,130,Fantasy|Mystery|Romance
+tt1980970,Gandhi to Hitler,Gandhi to Hitler,0,2011,108,Drama|History|War
+tt1980986,Housefull 2,Housefull 2,0,2012,145,Action|Comedy|Musical
+tt1985981,Desi Boyz,Desi Boyz,0,2011,122,Comedy|Drama
+tt1986040,Ishkq in Paris,Ishkq in Paris,0,2013,95,Comedy|Romance
+tt1992138,Force,Force,0,2011,137,Action|Thriller
+tt1999935,Not a Love Story,Not a Love Story,0,2011,100,Crime|Drama|Thriller
+tt2009592,The Blueberry Hunt,The Blueberry Hunt,0,2016,110,Action|Thriller
+tt2012576,Bubble Gum,Bubble Gum,0,2011,116,Drama
+tt2016894,Ek Tha Tiger,Ek Tha Tiger,0,2012,132,Action|Romance|Thriller
+tt2023645,Phhir,Phhir,0,2011,100,Drama|Mystery|Romance
+tt2027138,Kyaa Super Kool Hain Hum,Kyaa Super Kool Hain Hum,0,2012,136,Comedy
+tt2032530,Shabri,Shabri,0,2011,\N,Action|Crime|Drama
+tt2033947,Aazaan,Aazaan,0,2011,125,Action|Drama|Mystery
+tt2034011,Hum Tum Shabana,Hum Tum Shabana,0,2011,126,Comedy|Crime|Drama
+tt2057441,Mujhse Fraaandship Karoge,Mujhse Fraaandship Karoge,0,2011,106,Comedy|Romance
+tt2063745,Kya Dilli Kya Lahore,Kya Dilli Kya Lahore,0,2014,98,Drama|History|War
+tt2066062,Shortcut Romeo,Shortcut Romeo,0,2013,146,Action|Crime|Romance
+tt2066925,Mummy Punjabi: Superman Ki Bhi Maa!!,Mummy Punjabi: Superman Ki Bhi Maa!!,0,2011,121,Comedy|Drama
+tt2072227,Shanghai,Shanghai,0,2012,120,Crime|Mystery|Thriller
+tt2073070,Saheb Biwi Aur Gangster,Saheb Biwi Aur Gangster,0,2011,118,Action|Crime|Drama
+tt2082197,Barfi!,Barfi!,0,2012,151,Comedy|Drama|Romance
+tt2094854,Inkaar,Inkaar,0,2013,125,Drama|Romance|Thriller
+tt2100543,Hum Hai Raahi CAR Ke,Hum Hai Raahi CAR Ke,0,2013,\N,Comedy|Romance
+tt2104937,Miley - Naa Miley - Hum,Miley - Naa Miley - Hum,0,2011,114,Comedy|Drama|Romance
+tt2106537,Matru ki Bijlee ka Mandola,Matru ki Bijlee ka Mandola,0,2013,151,Comedy|Drama
+tt2112124,Chennai Express,Chennai Express,0,2013,141,Action|Comedy
+tt2112131,Dabangg 2,Dabangg 2,0,2012,120,Action|Comedy
+tt2112978,Jo Hum Chahein,Jo Hum Chahein,0,2011,\N,Drama|Romance
+tt2122340,Ferrari Ki Sawaari,Ferrari Ki Sawaari,0,2012,140,Comedy|Drama|Family
+tt2126282,Ekk Deewana Tha,Ekk Deewana Tha,0,2012,136,Drama|Romance
+tt2130242,Tere Naal Love Ho Gaya,Tere Naal Love Ho Gaya,0,2012,130,Comedy|Drama|Romance
+tt2137241,Rock On 2,Rock On 2,0,2016,143,Drama|Music
+tt2140465,Tanu Weds Manu Returns,Tanu Weds Manu Returns,0,2015,128,Comedy|Drama|Romance
+tt2140465,Tanu Weds Manu Returns,Tanu Weds Manu Returns,0,2015,128,Comedy|Drama|Romance
+tt2150177,Brother Superhit!,Bhaiaji Superhit,0,2018,139,Action|Comedy|Drama
+tt2156785,Gattu,Gattu,0,2011,90,Drama
+tt2158633,Married 2 America,Married 2 America,0,2012,\N,Thriller
+tt2164702,Zindagi Tere Naam,Zindagi Tere Naam,0,2012,120,Romance
+tt2168910,Cocktail,Cocktail,0,2012,146,Comedy|Drama|Romance
+tt2171454,Zila Ghaziabad,Zila Ghaziabad,0,2013,142,Action|Crime|Thriller
+tt2172071,Student of the Year,Student of the Year,0,2012,146,Comedy|Drama|Romance
+tt2175671,Ghost,Ghost,0,2012,118,Horror
+tt2176013,Jab Tak Hai Jaan,Jab Tak Hai Jaan,0,2012,176,Drama|Romance
+tt2178470,Yeh Jawaani Hai Deewani,Yeh Jawaani Hai Deewani,0,2013,160,Comedy|Drama|Musical
+tt2178508,Son of Sardaar,Son of Sardaar,0,2012,141,Action|Comedy
+tt2181831,Shahid,Shahid,0,2012,129,Biography|Crime|Drama
+tt2181931,English Vinglish,English Vinglish,0,2012,134,Comedy|Drama|Family
+tt2184125,Chaalis Chauraasi,Chaalis Chauraasi,0,2012,120,Comedy|Crime
+tt2185084,From Sydney with Love,From Sydney with Love,0,2012,\N,Comedy|Romance
+tt2186731,Department,Department,0,2012,141,Action|Crime|Thriller
+tt2187972,Shirin Farhad Ki Toh Nikal Padi,Shirin Farhad Ki Toh Nikal Padi,0,2012,111,Romance
+tt2188805,Login,Login,0,2012,125,Drama|Thriller
+tt2188811,Luv U Soniyo,Luv U Soniyo,0,2012,144,Comedy|Romance
+tt2188893,Staying Alive,Staying Alive,0,2012,89,Drama
+tt2190820,Charlie Kay Chakkar Mein,Charlie Kay Chakkar Mein,0,2015,102,Thriller
+tt2191164,Station,Station,0,2014,103,Crime|Drama|Thriller
+tt2191641,Chaar Din Ki Chandni,Chaar Din Ki Chandni,0,2012,131,Comedy|Romance
+tt2191721,Jodi Breakers,Jodi Breakers,0,2012,127,Comedy|Musical|Romance
+tt2196638,Gulabi Gang,Gulabi Gang,0,2012,96,Documentary
+tt2198235,Monsoon Shootout,Monsoon Shootout,0,2013,92,Action|Crime|Drama
+tt2199711,Vishwaroopam,Vishwaroopam,0,2013,148,Action|Thriller
+tt2202086,Ab Tak Chhappan 2,Ab Tak Chhappan 2,0,2015,106,Action|Crime|Thriller
+tt2203308,Aashiqui 2,Aashiqui 2,0,2013,132,Drama|Music|Musical
+tt2208248,Machhli Jal Ki Rani Hai,Machhli Jal Ki Rani Hai,0,2014,120,Horror
+tt2211133,Valentine's Night,Valentine's Night,0,2012,\N,Romance|Thriller
+tt2213054,Kai po che!,Kai po che!,0,2013,120,Drama|Sport
+tt2215163,Issaq,Issaq,0,2013,148,Drama|Romance
+tt2215477,Goliyon Ki Rasleela Ram-Leela,Goliyon Ki Rasleela Ram-Leela,0,2013,150,Drama|Musical|Romance
+tt2216852,Main Aur Mr. Riight,Main Aur Mr. Riight,0,2014,130,Comedy|Romance
+tt2222550,1920: Evil Returns,1920: Evil Returns,0,2012,124,Drama|Horror|Romance
+tt2222716,Baat Bann Gayi,Baat Bann Gayi,0,2013,108,Comedy|Romance
+tt2224313,Listen... Amaya,Listen... Amaya,0,2013,108,Drama
+tt2224317,Lootera,Lootera,0,2013,136,Drama|Romance
+tt2229842,Table No. 21,Table No.21,0,2013,108,Adventure|Thriller
+tt2229848,Chashme Baddoor,Chashme Baddoor,0,2013,121,Comedy|Drama
+tt2232524,Mere Dost Picture Abhi Baaki Hai,Mere Dost Picture Abhi Baaki Hai,0,2012,180,Comedy
+tt2243336,Aalaap,Aalaap,0,2012,116,Sci-Fi
+tt2246595,Blood Money,Blood Money,0,2012,109,Action|Drama|Thriller
+tt2246724,Ghanchakkar,Ghanchakkar,0,2013,137,Comedy|Crime|Thriller
+tt2251552,Challo Driver,Challo Driver,0,2012,95,Comedy
+tt2255934,Aiyyaa,Aiyyaa,0,2012,152,Comedy|Romance
+tt2256514,Rush,Rush,0,2012,110,Crime|Thriller
+tt2265191,Bumboo,Bumboo,0,2012,126,Comedy
+tt2275794,Gori Tere Pyaar Mein!,Gori Tere Pyaar Mein!,0,2013,150,Comedy|Drama|Romance
+tt2275802,Satyagraha,Satyagraha,0,2013,152,Drama
+tt2283748,OMG: Oh My God!,OMG: Oh My God!,0,2012,125,Comedy|Drama|Fantasy
+tt2283894,Riyasat,Riyasat,0,2014,80,Crime
+tt2292625,Chakravyuh,Chakravyuh,0,2012,152,Action|Drama|Thriller
+tt2294685,Jeena Hai Toh Thok Daal,Jeena Hai Toh Thok Daal,0,2012,123,Drama
+tt2302416,In the Shadows,Gali Guleiyan,0,2017,117,Drama|Thriller
+tt2306635,Love in Bombay,Love in Bombay,0,1974,\N,\N
+tt2308773,Ishaqzaade,Ishaqzaade,0,2012,120,Action|Drama|Romance
+tt2309764,Singham Returns,Singham Returns,0,2014,142,Action|Drama
+tt2309987,Hate Story,Hate Story,0,2012,140,Drama|Thriller
+tt2317103,Sons of Ram,Sons of Ram,0,2012,85,Animation|Drama|Musical
+tt2317135,Tamanchey: Pyar Mein Dil Pe Maar De Goli,Tamanchey: Pyar Mein Dil Pe Maar De Goli,0,2014,113,Crime|Romance
+tt2317337,Vicky Donor,Vicky Donor,0,2012,126,Comedy|Romance
+tt2318401,Bandook,Bandook,0,2013,132,Crime|Thriller
+tt2321492,Krishna Aur Kans,Krishna Aur Kans,0,2012,117,Action|Adventure|Animation
+tt2323964,Mere Dad Ki Maruti,Mere Dad Ki Maruti,0,2013,101,Comedy|Drama|Romance
+tt2327389,Life Ki Toh Lag Gayi,Life Ki Toh Lag Gayi,0,2012,155,Comedy
+tt2334779,Qissa: The Tale of a Lonely Ghost,Qissa: The Tale of a Lonely Ghost,0,2013,109,Drama|Fantasy
+tt2337292,Chor Chor Super Chor,Chor Chor Super Chor,0,2013,99,Comedy|Drama|Thriller
+tt2338151,PK,PK,0,2014,153,Comedy|Drama|Fantasy
+tt2339549,Maximum,Maximum,0,2012,110,Action|Crime|Drama
+tt2341766,Nautanki Saala!,Nautanki Saala!,0,2013,119,Comedy
+tt2344678,Himmatwala,Himmatwala,0,2013,150,Action|Comedy
+tt2346744,Cigarette Ki Tarah,Cigarette Ki Tarah,0,2012,107,Romance|Thriller
+tt2347289,Bittoo Boss,Bittoo Boss,0,2012,116,Romance
+tt2350496,The Lunchbox,Dabba,0,2013,104,Drama|Romance
+tt2354407,Teri Meri Kahaani,Teri Meri Kahaani,0,2012,117,Comedy|Drama|Romance
+tt2356180,Bhaag Milkha Bhaag,Bhaag Milkha Bhaag,0,2013,186,Biography|Drama|Sport
+tt2356959,Ajab Gazabb Love,Ajab Gazabb Love,0,2012,116,Comedy|Romance
+tt2357926,Ramaiya Vastavaiya,Ramaiya Vastavaiya,0,2013,148,Action|Drama|Romance
+tt2359810,Raanjhanaa,Raanjhanaa,0,2013,140,Drama|Romance
+tt2361746,Haraamkhor,Haraamkhor,0,2015,90,Drama|Romance
+tt2362778,Saheb Biwi Aur Gangster Returns,Saheb Biwi Aur Gangster Returns,0,2013,142,Action|Crime|Drama
+tt2367056,Chal Pichchur Banate Hain,Chal Pichchur Banate Hain,0,2012,115,Comedy|Drama
+tt2372222,Kick,Kick,0,2014,146,Action|Comedy
+tt2372678,2 States,2 States,0,2014,149,Comedy|Drama|Romance
+tt2375567,Super Model,Super Model,0,2013,83,Drama|Mystery|Romance
+tt2377938,Special 26,Special Chabbis,0,2013,144,Crime|Drama|Thriller
+tt2378057,?: A Question Mark,?: A Question Mark,0,2012,82,Horror|Mystery|Thriller
+tt2385104,D-Day,D-Day,0,2013,153,Action|Thriller
+tt2387495,Jalpari: The Desert Mermaid,Jalpari: The Desert Mermaid,0,2012,94,Drama|Family|Mystery
+tt2389486,Mai,Mai,0,2013,105,Drama|Family
+tt2392447,Finger,Ungli,0,2014,114,Crime|Drama|Thriller
+tt2395469,Gully Boy,Gully Boy,0,2019,153,Drama|Music
+tt2401719,Prague,Prague,0,2013,109,Mystery|Romance|Thriller
+tt2402131,Kismet Love Paisa Dilli,Kismet Love Paisa Dilli,0,2012,129,Adventure|Comedy|Crime
+tt2402745,Yeh Khula Aasmaan,Yeh Khula Aasmaan,0,2012,\N,Family
+tt2404027,Arjun: The Warrior Prince,Arjun: The Warrior Prince,0,2012,96,Action|Adventure|Animation
+tt2404187,Bloody Isshq,Bloody Isshq,0,2013,\N,Drama|Romance
+tt2404519,3G - A Killer Connection,3G - A Killer Connection,0,2013,125,Horror|Sci-Fi|Thriller
+tt2406636,Bhoot Returns,Bhoot Returns,0,2012,85,Horror|Mystery|Thriller
+tt2406676,Ek Thi Daayan,Ek Thi Daayan,0,2013,135,Horror|Romance|Thriller
+tt2408040,B.A. Pass,B.A. Pass,0,2012,95,Crime|Drama
+tt2417560,Filmistaan,Filmistaan,0,2012,117,Comedy
+tt2423132,Akaash Vani,Akaash Vani,0,2013,149,Drama|Romance
+tt2424988,Gabbar is Back,Gabbar is Back,0,2015,128,Action
+tt2424988,Gabbar is Back,Gabbar is Back,0,2015,128,Action
+tt2429640,Murder 3,Murder 3,0,2013,124,Drama|Mystery|Thriller
+tt2429930,Khwaabb,Khwaabb,0,2014,90,Drama|Romance|Sport
+tt2436516,Go Goa Gone,Go Goa Gone,0,2013,108,Action|Adventure|Comedy
+tt2437954,Singh Saab the Great,Singh Saab the Great,0,2013,134,Action|Drama
+tt2438764,Rajjo,Rajjo,0,2013,123,Drama|Romance
+tt2461132,Happy New Year,Happy New Year,0,2014,180,Action|Comedy|Music
+tt2476154,Grand Masti,Grand Masti,0,2013,137,Comedy|Drama|Romance
+tt2551378,Bullett Raja,Bullett Raja,0,2013,138,Action|Crime|Drama
+tt2554042,Maazii,Maazii,0,2013,123,Thriller
+tt2556308,Holiday,Holiday,0,2014,160,Action|Thriller
+tt2571140,Boss,Boss,0,2013,143,Action
+tt2573750,Gulaab Gang,Gulaab Gang,0,2014,139,Action|Drama
+tt2574698,Gunday,Gunday,0,2014,152,Action|Drama|Romance
+tt2585654,Mere Genie Uncle,Mere Genie Uncle,0,2015,\N,Comedy
+tt2609218,Ragini MMS 2,Ragini MMS 2,0,2014,119,Horror
+tt2612924,Lucky Kabootar,Lucky Kabootar,0,2014,117,Comedy
+tt2613942,Dehraadun Diary,Dehraadun Diary,0,2013,\N,Thriller
+tt2614722,Umrika,Umrika,0,2015,98,Comedy|Drama
+tt2615584,Phata Poster Nikhla Hero,Phata Poster Nikhla Hero,0,2013,146,Action|Comedy
+tt2621000,Jolly LLB,Jolly LLB,0,2013,135,Comedy|Drama
+tt2622130,Jayantabhai Ki Luv Story,Jayantabhai Ki Luv Story,0,2013,130,Action|Comedy|Romance
+tt2624852,Gangoobai,Gangoobai,0,2013,110,Drama|Family
+tt2630076,Super Nani,Super Nani,0,2014,133,Comedy|Drama|Family
+tt2658126,Commando,Commando,0,2013,124,Action|Thriller
+tt2675978,Dedh Ishqiya,Dedh Ishqiya,0,2014,152,Comedy|Drama|Romance
+tt2679480,Sulemani Keeda,Sulemani Keeda,0,2014,89,Comedy|Romance
+tt2691010,Mumbai 125 KM 3D,Mumbai 125 KM 3D,0,2014,100,Drama|Horror|Mystery
+tt2699840,John Day,John Day,0,2013,138,Drama
+tt2706264,Rangrezz,Rangrezz,0,2013,144,Action|Drama
+tt2708550,Jal,Jal,0,2013,126,Drama
+tt2708644,I Love NY,I Love NY,0,2015,127,Comedy|Romance
+tt2727028,Total Chaos,Total Siyapaa,0,2014,108,Comedy|Drama|Romance
+tt2759338,Dassehra,Dassehra,0,2018,131,Action|Thriller
+tt2762334,I'm Your Hero,Main Tera Hero,0,2014,128,Action|Comedy|Romance
+tt2767712,Badlapur Boys,Badlapur Boys,0,2014,123,Drama
+tt2796318,Mickey Virus,Mickey Virus,0,2013,135,Comedy|Thriller
+tt2797242,Bombay Talkies,Bombay Talkies,0,2013,127,Drama
+tt2800452,Dilliwaali Zaalim Girlfriend,Dilliwaali Zaalim Girlfriend,0,2015,121,Comedy|Drama
+tt2802062,Ishqeria,Ishqeria,0,2018,118,Comedy|Romance
+tt2804026,Aurangzeb,Aurangzeb,0,2013,137,Action|Drama|Thriller
+tt2806788,Fukrey,Fukrey,0,2013,139,Comedy|Drama|Romance
+tt2814372,Gippi,Gippi,0,2013,95,Comedy|Drama
+tt2848824,Bajatey Raho,Bajatey Raho,0,2013,107,Comedy|Drama|Thriller
+tt2855648,Madras Cafe,Madras Cafe,0,2013,130,Action|Drama|Thriller
+tt2857500,Saare Jahaan Se Mehnga...,Saare Jahaan Se Mehnga...,0,2013,120,Comedy|Drama
+tt2861320,Policegiri,Policegiri,0,2013,141,Action|Comedy
+tt2871010,Sonali Cable,Sonali Cable,0,2014,127,Comedy|Drama
+tt2872050,Jai Jawaan Jai Kisaan,Jai Jawaan Jai Kisaan,0,2015,100,Biography|Drama|History
+tt2876408,Calling Mr. Joe B Carvalho,Calling Mr. Joe B Carvalho,0,2014,130,Action|Comedy|Mystery
+tt2882328,Ugly,Ugly,0,2013,128,Crime|Drama|Mystery
+tt2905838,Bang Bang,Bang Bang,0,2014,153,Action|Adventure|Comedy
+tt2907156,Paranthe Wali Gali,Paranthe Wali Gali,0,2014,101,Drama|Romance
+tt2909396,Santa Banta Pvt Ltd,Santa Banta Pvt Ltd,0,2016,112,Comedy|Crime|Drama
+tt2912578,Ankur Arora Murder Case,Ankur Arora Murder Case,0,2013,129,Drama|Thriller
+tt2929690,Margarita with a Straw,Margarita with a Straw,0,2014,100,Drama
+tt2929840,Zindagi 50 50,Zindagi 50 50,0,2013,130,Comedy|Drama
+tt2932606,Siddharth,Siddharth,0,2013,96,Drama
+tt2939912,Traffic,Traffic,0,2016,104,Adventure|Drama|Thriller
+tt2941856,Enemmy,Enemmy,0,2013,\N,Action|Crime|Drama
+tt2951576,One by Two,One by Two,0,2014,139,Comedy|Drama|Romance
+tt2962230,Kaagaz Ke Fools,Kaagaz Ke Fools,0,2015,109,Comedy
+tt2963974,M Cream,M Cream,0,2014,112,Adventure|Comedy|Drama
+tt2976172,Sixteen,Sixteen,0,2013,138,Drama|Romance|Thriller
+tt2976176,Lakshmi,Lakshmi,0,2014,115,Drama
+tt2976182,Roy,Roy,0,2015,146,Action|Drama|Mystery
+tt2978626,It's Entertainment,It's Entertainment,0,2014,140,Action|Comedy
+tt2979920,Bombay Velvet,Bombay Velvet,0,2015,149,Action|Crime|Drama
+tt2980794,Highway,Highway,0,2014,133,Crime|Drama|Romance
+tt2988272,Shuddh Desi Romance,Shuddh Desi Romance,0,2013,141,Drama|Romance
+tt2998196,Kuku Mathur Ki Jhand Ho Gayi,Kuku Mathur Ki Jhand Ho Gayi,0,2014,109,Comedy|Romance
+tt3001638,Mary Kom,Mary Kom,0,2014,122,Action|Biography|Drama
+tt3005850,Sooper Se Ooper,Sooper Se Ooper,0,2013,\N,Comedy
+tt3017412,Happy Ending,Happy Ending,0,2014,135,Comedy|Romance
+tt3019620,Titli,Titli,0,2014,116,Action|Drama|Thriller
+tt3021244,Chaarfutiya Chhokare,Chaarfutiya Chhokare,0,2014,119,Drama|Thriller
+tt3036740,Humshakals,Humshakals,0,2014,159,Comedy
+tt3038772,Kaanchi,Kaanchi,0,2014,151,Drama|Musical|Romance
+tt3043252,Parched,Parched,0,2015,116,Drama
+tt3044882,Nasha,Nasha,0,2013,122,Drama|Thriller
+tt3056632,Manjunath,Manjunath,0,2014,130,Biography|Drama
+tt3059106,Satya 2,Satya 2,0,2013,142,Action|Crime|Drama
+tt3129282,War Chod Na Yaar,War Chod Na Yaar,0,2013,119,Comedy|War
+tt3142232,Heropanti,Heropanti,0,2014,146,Action|Romance
+tt3142688,Finding Fanny,Finding Fanny,0,2014,102,Adventure|Comedy|Drama
+tt3148502,Tamasha,Tamasha,0,2015,139,Comedy|Drama|Romance
+tt3159708,Welcome Back,Welcome Back,0,2015,152,Action|Comedy|Crime
+tt3166542,W,W,0,2014,137,Crime|Musical|Thriller
+tt3169676,Meinu Ek Ladki Chaahiye,Meinu Ek Ladki Chaahiye,0,2014,\N,Comedy|Crime|Drama
+tt3173910,Hasee Toh Phasee,Hasee Toh Phasee,0,2014,141,Comedy|Romance
+tt3175038,Ek Villain,Ek Villain,0,2014,129,Action|Crime|Drama
+tt3177332,Horror Story,Horror Story,0,2013,91,Horror
+tt3209826,Patel Ki Punjabi Shaadi,Patel Ki Punjabi Shaadi,0,2017,120,Comedy
+tt3224288,Beyond the Clouds,Beyond the Clouds,0,2017,120,Drama|Family
+tt3255586,P Se PM Tak,P Se PM Tak,0,2015,123,Comedy|Drama
+tt3261022,Kajarya,Kajarya,0,2013,132,Drama
+tt3290688,Revolver Rani,Revolver Rani,0,2014,132,Action|Comedy|Crime
+tt3302962,Shaadi Ke Side Effects,Shaadi Ke Side Effects,0,2014,145,Comedy|Romance
+tt3303416,Ya Rab,Ya Rab,0,2014,120,Drama
+tt3309662,Jackpot,Jackpot,0,2013,132,Comedy|Thriller
+tt3309844,Titoo MBA,Titoo MBA,0,2014,111,Comedy|Romance
+tt3311236,Calapor,Calapor,0,2013,120,Drama
+tt3322420,Queen,Queen,0,2013,146,Comedy|Drama
+tt3324810,Chhota Bheem and the Throne of Bali,Chhota Bheem and the Throne of Bali,0,2013,130,Animation
+tt3334348,Heartless,Heartless,0,2014,131,Drama|Family|Romance
+tt3337550,Rahasya,Rahasya,0,2015,123,Mystery|Thriller
+tt3338188,Jia aur Jia,Jia aur Jia,0,2017,93,Drama
+tt3357416,What the Fish,What the Fish,0,2013,98,Adventure|Comedy|Drama
+tt3359290,Bobby Jasoos,Bobby Jasoos,0,2014,121,Comedy|Drama|Thriller
+tt3368222,Angry Indian Goddesses,Angry Indian Goddesses,0,2015,115,Comedy|Drama
+tt3369670,Children of War,Children of War,0,2014,160,Drama|History|War
+tt3380264,Kill Dil,Kill Dil,0,2014,127,Action|Drama|Romance
+tt3382148,Yaariyan,Yaariyan,0,2014,145,Drama|Romance
+tt3390572,Haider,Haider,0,2014,160,Action|Crime|Drama
+tt3398048,Tevar,Tevar,0,2015,157,Action|Drama|Romance
+tt3398052,Invitation of Love,Daawat-e-Ishq,0,2014,118,Comedy|Drama|Romance
+tt3405236,Raees,Raees,0,2017,143,Action|Crime|Drama
+tt3410408,Rocky Handsome,Rocky Handsome,0,2016,119,Action|Thriller
+tt3422462,Bangistan,Bangistan,0,2015,135,Comedy|Drama
+tt3426144,Babloo Happy Hai,Babloo Happy Hai,0,2014,113,Comedy|Drama|Romance
+tt3431714,Mastram,Mastram,0,2013,98,Biography|Drama
+tt3431756,Rakhtbeej,Rakhtbeej,0,2012,120,Thriller
+tt3447364,Detective Byomkesh Bakshy!,Detective Byomkesh Bakshy!,0,2015,139,Action|Mystery|Thriller
+tt3449292,Manjhi: The Mountain Man,Manjhi: The Mountain Man,0,2015,120,Adventure|Biography|Drama
+tt3449320,Darr @ the Mall,Darr @ the Mall,0,2014,124,Horror|Thriller
+tt3453964,Jugni,Jugni,0,2016,115,Drama
+tt3465488,Karle Pyaar Karle,Karle Pyaar Karle,0,2014,110,Action|Romance
+tt3469244,Phantom,Phantom,0,2015,136,Action|Drama|Thriller
+tt3477214,Kaun Kitney Paani Mein,Kaun Kitney Paani Mein,0,2015,112,Comedy|Drama|Family
+tt3482198,Anuradha,Anuradha,0,2014,\N,Drama
+tt3483596,O Teri,O Teri,0,2014,107,Comedy|Drama
+tt3483612,Hamari Adhuri Kahani,Hamari Adhuri Kahani,0,2015,129,Drama|Romance
+tt3483646,Bewakoofiyaan,Bewakoofiyaan,0,2014,119,Comedy|Drama|Romance
+tt3483712,Raja Natwarlal,Raja Natwarlal,0,2014,141,Crime|Thriller
+tt3495000,Mardaani,Mardaani,0,2014,113,Action|Crime|Drama
+tt3495026,Fan,Fan,0,2016,138,Action|Drama|Thriller
+tt3495030,Dum Laga Ke Haisha,Dum Laga Ke Haisha,0,2015,110,Comedy|Drama|Romance
+tt3501994,Hawaa Hawaai,Hawaa Hawaai,0,2014,120,Drama|Family|Sport
+tt3514330,Youngistaan,Youngistaan,0,2014,133,Drama
+tt3524410,Yeh Hai Bakrapur,Yeh Hai Bakrapur,0,2014,95,Comedy|Drama
+tt3531604,Gang of Ghosts,Gang of Ghosts,0,2014,128,Comedy|Horror
+tt3531852,Bhoothnath Returns,Bhoothnath Returns,0,2014,155,Comedy|Drama|Fantasy
+tt3539966,Dishkiyaoon,Dishkiyaoon,0,2014,119,Action|Thriller
+tt3547616,All Is Well,All Is Well,0,2015,126,Adventure|Comedy|Drama
+tt3554418,Khoobsurat,Khoobsurat,0,2014,130,Comedy|Romance
+tt3565354,Karar: The Deal,Karar: The Deal,0,2014,115,Thriller
+tt3585758,Kahin Hai Mera Pyar,Kahin Hai Mera Pyar,0,2014,138,Drama|Musical|Romance
+tt3590416,Global Baba,Global Baba,0,2016,120,Thriller
+tt3595298,Prem Ratan Dhan Payo,Prem Ratan Dhan Payo,0,2015,164,Action|Drama|Musical
+tt3611266,Bank Chor,Bank Chor,0,2017,120,Action|Comedy|Thriller
+tt3614516,Ankhon Dekhi,Ankhon Dekhi,0,2013,107,Comedy|Drama
+tt3619710,Bhaag Johnny,Bhaag Johnny,0,2015,118,Action|Fantasy|Thriller
+tt3619772,Hate Story 2,Hate Story 2,0,2014,130,Drama|Thriller
+tt3619854,Creature,Creature,0,2014,134,Action|Horror|Sci-Fi
+tt3636776,Samrat & Co.,Samrat & Co.,0,2014,125,Mystery|Thriller
+tt3640942,Koyelaanchal,Koyelaanchal,0,2014,145,Action|Drama
+tt3645014,The Xpose,The Xpose,0,2014,113,Thriller
+tt3666258,Coffee Bloom,Coffee Bloom,0,2015,90,Drama
+tt3672618,Dekh Tamasha Dekh,Dekh Tamasha Dekh,0,2014,110,Comedy
+tt3678782,City of Revenge,Badlapur,0,2015,134,Action|Crime|Drama
+tt3678938,The Bride of Humpty Sharma,Humpty Sharma Ki Dulhania,0,2014,133,Comedy|Drama|Romance
+tt3679000,Any Body Can Dance 2,Any Body Can Dance 2,0,2015,154,Biography|Drama|Music
+tt3679060,Kapow,Dishoom,0,2016,124,Action|Adventure|Comedy
+tt3681414,Purani Jeans,Purani Jeans,0,2014,137,Drama
+tt3683702,Fugly,Fugly,0,2014,134,Drama|Thriller
+tt3693936,Once Upon a Time in Bihar,Once Upon a Time in Bihar,0,2015,122,Thriller
+tt3696192,Singh Is Bliing,Singh Is Bliing,0,2015,141,Action|Comedy
+tt3709344,CityLights,City Lights,0,2014,126,Drama|Thriller
+tt3716142,Lekar Hum Deewana Dil,Lekar Hum Deewana Dil,0,2014,140,Comedy|Romance
+tt3717068,Court,Court,0,2014,116,Drama
+tt3720634,3 AM: A Paranormal Experience,3 AM: A Paranormal Experience,0,2014,103,Horror|Romance
+tt3726012,Mastizaade,Mastizaade,0,2016,119,Comedy
+tt3735246,Bajirao Mastani,Bajirao Mastani,0,2015,158,Action|Drama|History
+tt3742284,NH10,NH10,0,2015,115,Action|Crime|Drama
+tt3766798,Wake Up India,Wake Up India,0,2013,130,Drama
+tt3767372,Piku,Piku,0,2015,123,Comedy|Drama
+tt3771536,Shivaay,Shivaay,0,2016,153,Action|Drama|Thriller
+tt3794302,Pizza,Pizza,0,2014,107,Horror
+tt3796006,ROAR: Tigers of the Sundarbans,ROAR: Tigers of the Sundarbans,0,2014,123,Action|Adventure|Sci-Fi
+tt3797478,Main Hoon Rajinikanth,Main Hoon Rajinikanth,0,2015,127,Comedy
+tt3802576,Brothers,Brothers,0,2015,156,Action|Drama|Sport
+tt3814100,M.A.D: Mad About Dance,M.A.D: Mad About Dance,0,2014,125,Drama|Musical
+tt3822600,Amit Sahni Ki List,Amit Sahni Ki List,0,2014,110,Comedy|Romance
+tt3823392,Love Sonia,Love Sonia,0,2018,122,Drama
+tt3836958,Shamitabh,Shamitabh,0,2015,155,Drama
+tt3840534,Junooniyat,Junooniyat,0,2016,155,Drama|Romance
+tt3847072,Ekkees Toppon Ki Salaami,Ekkees Toppon Ki Salaami,0,2014,140,Comedy
+tt3848888,The Shaukeens,The Shaukeens,0,2014,124,Comedy
+tt3848892,Baby,Baby,0,2015,159,Action|Thriller
+tt3848938,Mr. X,Mr. X,0,2015,133,Action|Crime|Sci-Fi
+tt3854246,Bazaar E Husn,Bazaar E Husn,0,2014,125,Drama
+tt3859980,Mohenjo Daro,Mohenjo Daro,0,2016,155,Action|Adventure|Drama
+tt3862004,Fuddu,Fuddu,0,2016,100,Comedy|Drama
+tt3863552,Bajrangi Bhaijaan,Bajrangi Bhaijaan,0,2015,163,Action|Comedy|Drama
+tt3877652,Desi Kattey,Desi Kattey,0,2014,139,Action
+tt3881136,Life Is Beautiful,Life Is Beautiful,0,2014,116,Comedy|Romance
+tt3886444,Khamoshiyan,Khamoshiyan,0,2015,122,Drama|Horror|Romance
+tt3893476,Spark,Spark,0,2014,134,Action
+tt3948240,Second Hand Husband,Second Hand Husband,0,2015,105,Comedy
+tt4007558,Shaandaar,Shaandaar,0,2015,144,Comedy|Drama|Romance
+tt4010306,Jigariyaa,Jigariyaa,0,2014,142,Drama
+tt4022278,Fever,Fever,0,2016,123,Crime|Mystery
+tt4023852,Welcome 2 Karachi,Welcome to Karachi,0,2015,131,Action|Comedy|War
+tt4024944,Main Aur Charles,Main Aur Charles,0,2015,119,Action|Biography|Crime
+tt4045666,Mumbai Delhi Mumbai,Mumbai Delhi Mumbai,0,2014,120,Comedy|Romance
+tt4087770,Balwinder Singh Famous Ho Gaya,Balwinder Singh Famous Ho Gaya,0,2014,136,Comedy
+tt4088588,Rainbow,Dhanak,0,2015,106,Drama
+tt4094820,Crazy Cukkad Family,Crazy Cukkad Family,0,2015,\N,Comedy
+tt4107858,MSG: The Messenger of God,MSG: The Messenger of God,0,2015,197,Action|Comedy|Drama
+tt4110568,Dil Dhadakne Do,Dil Dhadakne Do,0,2015,170,Comedy|Drama|Romance
+tt4117066,Meeruthiya Gangsters,Meeruthiya Gangsters,0,2015,129,Comedy|Crime
+tt4129428,Jagga Jasoos,Jagga Jasoos,0,2017,161,Action|Adventure|Comedy
+tt4169250,M.S. Dhoni: The Untold Story,M.S. Dhoni: The Untold Story,0,2016,184,Biography|Drama|Sport
+tt4190220,Zed Plus,Zed Plus,0,2014,141,Comedy
+tt4219300,Gollu aur Pappu,Gollu aur Pappu,0,2014,112,Comedy
+tt4228746,Zid,Zid,0,2014,126,Crime|Thriller
+tt4262516,Sanam Re,Sanam Re,0,2016,120,Drama|Romance
+tt4271730,Alone,Alone,0,2015,133,Horror
+tt4272420,Kuch Kuch Locha Hai,Kuch Kuch Locha Hai,0,2015,143,Comedy|Drama
+tt4287778,Night,Shab,0,2017,108,Drama|Romance
+tt4302956,Kis Kisko Pyaar Karoon,Kis Kisko Pyaar Karoon,0,2015,133,Comedy
+tt4307132,G Kutta Se,G Kutta Se,0,2017,104,Drama
+tt4309284,The Silent Heroes,The Silent Heroes,0,2015,115,Adventure|Drama|Family
+tt4323504,Jazbaa,Jazbaa,0,2015,119,Action|Crime|Drama
+tt4332114,Dolly Ki Doli,Dolly Ki Doli,0,2015,98,Comedy|Romance
+tt4333674,Hunterrr,Hunterrr,0,2015,141,Comedy|Romance
+tt4335698,Honour Killing,Honour Killing,0,2015,\N,Drama|Romance
+tt4335954,My Birthday Song,My Birthday Song,0,2018,95,Thriller
+tt4338154,Hawaizaada,Hawaizaada,0,2015,148,Biography|Drama
+tt4340180,Direct Ishq,Direct Ishq,0,2016,130,Action|Comedy|Romance
+tt4354740,Dharam Sankat Mein,Dharam Sankat Mein,0,2015,129,Comedy
+tt4355838,Albert Pinto Ko Gussa Kyun Aata Hai?,Albert Pinto Ko Gussa Kyun Aata Hai?,0,2019,100,Drama
+tt4355892,Mumbai Can Dance Saalaa,Mumbai Can Dance Saalaa,0,2015,135,Drama
+tt4358344,Rough Book,Rough Book,0,2016,100,Drama
+tt4365060,7 Hours to Go,7 Hours to Go,0,2016,115,Crime|Thriller
+tt4373886,Sharafat Gayi Tel Lene,Sharafat Gayi Tel Lene,0,2015,108,Comedy|Drama|Mystery
+tt4384270,Take It Easy,Take It Easy,0,2015,\N,Drama
+tt4386684,31st October,31st October,0,2015,109,Action|Drama|History
+tt4387040,Airlift,Airlift,0,2016,130,Drama|History
+tt4399594,Obsession,Fitoor,0,2016,131,Drama|Romance
+tt4430136,Pyaar Ka Punchnama 2,Pyaar Ka Punchnama 2,0,2015,137,Comedy|Drama|Romance
+tt4430212,Drishyam,Drishyam,0,2015,163,Crime|Drama|Mystery
+tt4434004,Udta Punjab,Udta Punjab,0,2016,148,Action|Crime|Drama
+tt4467202,Hero,Hero,0,2015,145,Action|Drama|Musical
+tt4467262,Katti Batti,Katti Batti,0,2015,135,Comedy|Drama|Romance
+tt4493550,Flat 211,Flat 211,0,2017,105,Crime|Mystery|Thriller
+tt4500734,Ek Paheli Leela,Ek Paheli Leela,0,2015,145,Mystery|Romance|Thriller
+tt4501576,Dirty Politics,Dirty Politics,0,2015,130,Drama
+tt4505006,Shortcut Safari,Shortcut Safari,0,2016,101,Adventure|Drama|Mystery
+tt4511416,Badmashiyaan,Badmashiyaan,0,2015,128,Comedy|Romance
+tt4512230,Hey Bro,Hey Bro,0,2015,113,Action|Comedy|Drama
+tt4513812,Gour Hari Dastaan: The Freedom File,Gour Hari Dastaan: The Freedom File,0,2015,114,Biography|Drama
+tt4535650,Dilwale,Dilwale,0,2015,158,Action|Comedy|Romance
+tt4541102,Uvaa,Uvaa,0,2015,138,Comedy|Drama
+tt4552486,Dobaara: See Your Evil,Dobaara: See Your Evil,0,2017,106,Horror|Mystery
+tt4552546,3 Storeys,3 Storeys,0,2018,100,Drama
+tt4556848,Barkhaa,Barkhaa,0,2015,127,Drama|Romance
+tt4559006,Ae Dil Hai Mushkil,Ae Dil Hai Mushkil,0,2016,158,Drama|Music|Musical
+tt4565796,Four Pillars of Basement,Four Pillars of Basement,0,2015,134,Action|Mystery|Thriller
+tt4579982,Ishq Click,Ishq Click,0,2016,165,Drama|Romance
+tt4581032,Luv U Alia,Luv U Alia,0,2015,130,Family|Romance
+tt4581722,Ishq Ke Parindey,Ishq Ke Parindey,0,2015,120,Music|Romance
+tt4594848,Luckhnowi Ishq,Luckhnowi Ishq,0,2015,127,Drama
+tt4600778,Chalk N Duster,Chalk N Duster,0,2016,130,Drama
+tt4610308,Ishqedarriyaan,Ishqedarriyaan,0,2015,132,Romance
+tt4635372,Masaan,Masaan,0,2015,109,Drama
+tt4640206,Sachin,Sachin,0,2017,138,Documentary|Sport
+tt4642936,Warrior Savitri,Warrior Savitri,0,2016,136,Action|Thriller
+tt4651394,Wedding Pullav,Wedding Pullav,0,2015,124,Comedy|Romance
+tt4654760,Sabki Bajegi Band,Sabki Bajegi Band,0,2015,108,Comedy|Drama
+tt4659548,Rebellious Flower,Rebellious Flower,0,2016,109,Biography|Drama
+tt4671212,NH-8: Road to Nidhivan,NH-8: Road to Nidhivan,0,2015,95,Horror
+tt4675030,Great Grand Masti,Great Grand Masti,0,2016,134,Comedy|Drama|Fantasy
+tt4683366,Ghayal Once Again,Ghayal Once Again,0,2016,127,Action|Drama
+tt4684028,Guddu Rangeela,Guddu Rangeela,0,2015,124,Comedy|Drama
+tt4707940,Miss Tanakpur Haazir Ho,Miss Tanakpur Haazir Ho,0,2015,154,Comedy|Crime|Family
+tt4718678,I Love Desi,I Love Desi,0,2015,\N,Comedy|Romance
+tt4744086,Ki & Ka,Ki & Ka,0,2016,126,Comedy|Romance
+tt4760750,Bezubaan Ishq,Bezubaan Ishq,0,2015,128,Musical|Romance
+tt4760900,The World It Is,Aisa Yeh Jahaan,0,2015,120,Drama
+tt4807830,Lipstick Under My Burkha,Lipstick Under My Burkha,0,2016,117,Drama
+tt4814290,Te3n,Te3n,0,2016,136,Drama|Mystery|Thriller
+tt4818930,Waiting,Waiting,0,2015,92,Drama
+tt4832640,Sultan,Sultan,0,2016,170,Action|Drama|Sport
+tt4844708,Shackle,Shackle,0,2015,99,Drama
+tt4853926,Guddu Ki Gun,Guddu Ki Gun,0,2015,130,Comedy
+tt4857886,Do Lafzon Ki Kahani,Do Lafzon Ki Kahani,0,2016,128,Action|Drama|Romance
+tt4859310,Thoda Lutf Thoda Ishq,Thoda Lutf Thoda Ishq,0,2015,\N,Comedy|Romance
+tt4864932,Baaghi,Baaghi,0,2016,133,Action|Thriller
+tt4865436,Hate Story 3,Hate Story 3,0,2015,126,Drama|Thriller
+tt4897908,Calendar Girls,Calendar Girls,0,2015,131,Drama
+tt4900716,Kapoor & Sons,Kapoor & Sons,0,2016,132,Comedy|Drama|Romance
+tt4906984,Azhar,Azhar,0,2016,130,Biography|Drama|Sport
+tt4909752,Rangoon,Rangoon,0,2017,170,Action|Drama|History
+tt4910010,YADVI: The Dignified Princess,YADVI: The Dignified Princess,0,2017,107,Biography|Drama|History
+tt4916048,Island City,Island City,0,2015,108,Drama
+tt4921860,MSG 2 the Messenger,MSG 2 the Messenger,0,2015,134,Comedy|Drama|Fantasy
+tt4934950,Talvar,Talvar,0,2015,132,Crime|Drama|Mystery
+tt4940456,Mirzya,Mirzya,0,2016,129,Action|Adventure|Drama
+tt4949324,Mohalla Assi,Mohalla Assi,0,2015,150,Comedy|Drama
+tt4971258,Bombairiya,Bombairiya,0,2019,104,Comedy|Crime|Drama
+tt4977530,Viceroy's House,Viceroy's House,0,2017,106,Biography|Drama|History
+tt4979082,Jai Gangaajal,Jai Gangaajal,0,2016,149,Crime|Drama
+tt4979110,Daas Dev,Daas Dev,0,2018,140,Drama|Thriller
+tt4979160,Ishq Forever,Ishq Forever,0,2016,125,Romance
+tt4994210,Sorry Daddy,Sorry Daddy,0,2015,\N,Action
+tt4995402,Bumper Draw,Bumper Draw,0,2015,130,Comedy
+tt5005684,Nil Battey Sannata,Nil Battey Sannata,0,2015,100,Drama|Family
+tt5013008,Fraud Saiyaan,Fraud Saiyyan,0,2019,109,Comedy|Drama
+tt5021968,Chinar Daastaan-E-Ishq,Chinar Daastaan-E-Ishq,0,2015,116,Romance
+tt5046500,Mantra,Mantra,0,2017,90,Drama|Family
+tt5052972,Yaara Silly Silly,Yaara Silly Silly,0,2015,108,Romance
+tt5074352,Dangal,Dangal,0,2016,161,Action|Biography|Drama
+tt5108476,Befikre,Befikre,0,2016,130,Comedy|Drama|Romance
+tt5120640,Sarbjit,Sarbjit,0,2016,131,Biography|Drama
+tt5121000,Aligarh,Aligarh,0,2015,114,Biography|Drama
+tt5130348,Love Shagun,Love Shagun,0,2016,120,Comedy|Romance
+tt5151622,Ranbanka,Ranbanka,0,2015,98,Action
+tt5156746,Force 2,Force 2,0,2016,127,Action|Thriller
+tt5165344,Rustom,Rustom,0,2016,148,Crime|Drama|Thriller
+tt5197544,Baar Baar Dekho,Baar Baar Dekho,0,2016,141,Comedy|Drama|Romance
+tt5207116,X: Past Is Present,X: Past Is Present,0,2015,105,Drama|Mystery|Romance
+tt5209420,LoveShhuda,LoveShhuda,0,2016,133,Comedy|Romance
+tt5216810,Bollywood Diaries,Bollywood Diaries,0,2016,123,Drama
+tt5227468,Beiimaan Love,Beiimaan Love,0,2016,120,Drama|Romance|Thriller
+tt5235880,A Flying Jatt,A Flying Jatt,0,2016,151,Action|Adventure|Comedy
+tt5240748,Brahman Naman,Brahman Naman,0,2016,95,Comedy
+tt5286444,Neerja,Neerja,0,2016,122,Biography|Drama|Thriller
+tt5290620,Kyaa Kool Hain Hum 3,Kyaa Kool Hain Hum 3,0,2016,124,Comedy
+tt5310090,Saala Khadoos,Saala Khadoos,0,2016,109,Action|Drama|Sport
+tt5313980,Tere Bin Laden: Dead Or Alive,Tere Bin Laden: Dead Or Alive,0,2016,104,Comedy
+tt5325684,Hate Story IV,Hate Story IV,0,2018,131,Crime|Drama|Thriller
+tt5343678,Moh Maya Money,Moh Maya Money,0,2016,108,Crime|Drama|Thriller
+tt5456546,Twins 2,Judwaa 2,0,2017,145,Action|Comedy
+tt5456810,Murari the Mad Gentleman,Murari the Mad Gentleman,0,2016,\N,Comedy|Drama
+tt5460276,Kaabil,Kaabil,0,2017,139,Action|Drama|Thriller
+tt5463608,J.D.,J.D.,0,2017,127,Drama
+tt5472374,Meri Pyaari Bindu,Meri Pyaari Bindu,0,2017,117,Comedy|Drama|Romance
+tt5472758,Happy Bhag Jayegi,Happy Bhag Jayegi,0,2016,126,Comedy|Romance
+tt5474036,Manmarziyaan,Manmarziyaan,0,2018,156,Romance
+tt5474042,Half Girlfriend,Half Girlfriend,0,2017,135,Drama|Romance
+tt5502766,Phillauri,Phillauri,0,2017,138,Comedy|Drama|Fantasy
+tt5518128,Love Games,Love Games,0,2016,114,Thriller
+tt5525846,Yeh Hai India,Yeh Hai India,0,2017,128,Action|Adventure|Drama
+tt5542802,Raabta,Raabta,0,2017,147,Action|Adventure|Drama
+tt5543746,Maatr,Maatr,0,2017,113,Thriller
+tt5544662,Sweetiee Weds NRI,Sweetiee Weds NRI,0,2017,116,Comedy|Drama|Romance
+tt5571734,Pink,Pink,0,2016,136,Drama|Thriller
+tt5600714,Laal Rang,Laal Rang,0,2016,147,Action|Crime|Drama
+tt5613834,A Gentleman,A Gentleman,0,2017,145,Action|Comedy
+tt5615116,Dear Dad,Dear Dad,0,2016,95,Drama|Family
+tt5617172,Qaidi Band,Qaidi Band,0,2017,119,Drama|Music
+tt5632164,Veerappan,Veerappan,0,2016,125,Action|Biography|Crime
+tt5637188,Saat Uchakkey,Saat Uchakkey,0,2016,139,Comedy
+tt5638474,Wajah Tum Ho,Wajah Tum Ho,0,2016,136,Drama|Mystery|Romance
+tt5638500,1920 London,1920 London,0,2016,120,Horror|Mystery
+tt5639388,Raaz Reboot,Raaz Reboot,0,2016,128,Horror|Mystery|Romance
+tt5662932,Raman Raghav 2.0,Raman Raghav 2.0,0,2016,133,Crime|Drama|Thriller
+tt5668770,Mardaani 2,Mardaani 2,0,2019,\N,Action|Drama|Thriller
+tt5690142,Mom,Mom,0,2017,146,Crime|Drama|Thriller
+tt5697870,Lucknow Central,Lucknow Central,0,2017,133,Action|Drama|Music
+tt5713232,Madaari,Madaari,0,2016,133,Adventure|Drama|Thriller
+tt5717110,Tum Bin 2,Tum Bin 2,0,2016,147,Drama|Romance
+tt5742874,Sarkar 3,Sarkar 3,0,2017,130,Action|Crime|Drama
+tt5743656,Phobia,Phobia,0,2016,112,Drama|Mystery|Thriller
+tt5743888,Julie 2,Julie 2,0,2017,159,Drama|Romance
+tt5745450,Chef,Chef,0,2017,133,Comedy|Drama|Family
+tt5752374,Shorgul,Shorgul,0,2016,132,Drama
+tt5752458,Hai Apna Dil Toh Awara,Hai Apna Dil Toh Awara,0,2016,120,Comedy
+tt5755606,Banjo,Banjo,0,2016,137,Action|Drama|Music
+tt5756052,Jeena Isi Ka Naam Hai,Jeena Isi Ka Naam Hai,0,2017,173,Drama
+tt5760490,Fredrick,Fredrick,0,2016,129,Action|Thriller
+tt5764024,Okay Darling,OK Jaanu,0,2017,135,Drama|Romance
+tt5764096,Hindi Medium,Hindi Medium,0,2017,132,Comedy|Drama
+tt5775220,Noor,Noor,0,2017,117,Comedy|Drama
+tt5784778,Dil Toh Deewana Hai,Dil Toh Deewana Hai,0,2016,135,Drama|Romance
+tt5784860,Aksar 2,Aksar 2,0,2017,127,Crime|Drama|Mystery
+tt5785116,Begum Jaan,Begum Jaan,0,2017,128,Action|Drama|History
+tt5785170,Toilet - Ek Prem Katha,Toilet - Ek Prem Katha,0,2017,155,Comedy|Drama
+tt5785200,Machine,Machine,0,2017,148,Action|Mystery|Romance
+tt5882970,Tubelight,Tubelight,0,2017,136,Drama|War
+tt5896934,Aa Gaya Hero,Aa Gaya Hero,0,2017,123,Action
+tt5909308,Days of Tafree,Days of Tafree,0,2016,155,Comedy
+tt5928576,Wah Taj,Wah Taj,0,2016,125,Drama
+tt5933706,Saansein: The Last Breath,Saansein: The Last Breath,0,2016,101,Horror|Romance
+tt5935704,Padmaavat,Padmaavat,0,2018,164,Drama|History|Romance
+tt5943306,Freaky Ali,Freaky Ali,0,2016,120,Comedy|Sport
+tt5946128,Dear Zindagi,Dear Zindagi,0,2016,151,Drama|Romance
+tt5956100,Tiger Zinda Hai,Tiger Zinda Hai,0,2017,161,Action|Adventure|Thriller
+tt5970844,Thugs of Hindostan,Thugs of Hindostan,0,2018,164,Action|Adventure
+tt5997666,Jab Harry Met Sejal,Jab Harry Met Sejal,0,2017,143,Comedy|Drama|Romance
+tt5997928,Hotel Salvation,Hotel Salvation,0,2016,102,Comedy|Drama
+tt6028796,Evening Shadows,Evening Shadows,0,2018,102,Drama
+tt6033536,Dear Maya,Dear Maya,0,2017,111,Drama|Romance
+tt6040012,MSG the Warrior: Lion Heart,MSG the Warrior: Lion Heart,0,2016,120,Adventure|Fantasy|Sci-Fi
+tt6041458,Tutak Tutak Tutiya,Tutak Tutak Tutiya,0,2016,138,Comedy|Horror
+tt6046994,Dongri Ka Raja,Dongri Ka Raja,0,2016,139,Action|Drama|Romance
+tt6058394,Anaarkali of Aarah,Anaarkali of Aarah,0,2017,113,Drama
+tt6071752,Dil Juunglee,Dil Juunglee,0,2018,124,Comedy|Romance
+tt6078866,Soni,Soni,0,2018,97,Drama
+tt6080746,Raag Desh,Raag Desh,0,2017,135,Action|Drama|History
+tt6102396,Kaalakaandi,Kaalakaandi,0,2018,112,Comedy|Thriller
+tt6108090,Secret Superstar,Secret Superstar,0,2017,150,Drama|Music
+tt6117702,Munna Michael,Munna Michael,0,2017,140,Action|Drama|Music
+tt6118134,Anna,Anna,0,2016,142,Biography
+tt6129302,Bhavesh Joshi Superhero,Bhavesh Joshi Superhero,0,2018,154,Action|Drama
+tt6143422,Dark wind,Dark wind,0,2017,95,Drama
+tt6144958,Jack & Dil,Jack & Dil,0,2018,98,Comedy|Family
+tt6170954,Naam Shabana,Naam Shabana,0,2017,147,Action|Thriller
+tt6173826,Guest iin London,Guest iin London,0,2017,132,Comedy
+tt6173990,Gold,Gold,0,2018,151,Drama|History|Sport
+tt6206564,Trapped,Trapped,0,2016,105,Action|Drama|Thriller
+tt6264938,Kesari,Kesari,0,2019,150,Action|Drama|History
+tt6265988,Bhoomi,Bhoomi,0,2017,136,Action|Drama
+tt6272828,Mubarakan,Mubarakan,0,2017,156,Comedy|Romance
+tt6275262,Vodka Diaries,Vodka Diaries,0,2018,120,Mystery|Thriller
+tt6277440,Badrinath Ki Dulhania,Badrinath Ki Dulhania,0,2017,139,Comedy|Drama|Romance
+tt6278732,Motu Patlu: King of Kings,Motu Patlu: King of Kings,0,2016,110,Adventure|Comedy
+tt6296236,Running Shaadi,Running Shaadi,0,2017,114,Comedy|Romance
+tt6299040,The Ghazi Attack,The Ghazi Attack,0,2017,116,Action|Thriller|War
+tt6334874,Coffee with D,Coffee with D,0,2017,123,Comedy
+tt6349528,Ek Haseena Thi Ek Deewana Tha,Ek Haseena Thi Ek Deewana Tha,0,2017,105,Drama
+tt6352548,Poster Boys,Poster Boys,0,2017,128,Comedy
+tt6395306,Union Leader,Union Leader,0,2017,106,Drama
+tt6405126,Simran,Simran,0,2017,124,Crime|Drama|Thriller
+tt6452574,Sanju,Sanju,0,2018,155,Biography|Drama
+tt6467380,Hind Ka Napak Ko Jawab,Hind Ka Napak Ko Jawab,0,2017,130,Action|Comedy
+tt6467738,Irada,Irada,0,2017,109,Drama|Mystery|Thriller
+tt6471054,Ajji,Ajji,0,2017,104,Drama
+tt6484982,Newton,Newton,0,2017,106,Drama
+tt6499258,Wedding Anniversary,Wedding Anniversary,0,2017,108,Drama
+tt6512784,Haseena Parkar,Haseena Parkar,0,2017,135,Biography|Crime|Thriller
+tt6514010,Long Live Brij Mohan,Brij Mohan Amar Rahe,0,2017,105,Comedy|Crime|Drama
+tt6514196,Baazaar,Baazaar,0,2018,137,Crime|Drama|Thriller
+tt6527426,Zero,Zero,0,2018,164,Comedy|Drama|Romance
+tt6537508,Behen Hogi Teri,Behen Hogi Teri,0,2017,128,Comedy
+tt6588966,Hichki,Hichki,0,2018,116,Comedy|Drama
+tt6611040,Bhanwarey,Bhanwarey,0,2017,120,Comedy
+tt6620324,Indu Sarkar,Indu Sarkar,0,2017,139,Drama|History|Thriller
+tt6642396,Jattu Engineer,Jattu Engineer,0,2017,139,Comedy
+tt6656806,khel toh ab shuru hoga,khel toh ab shuru hoga,0,2016,130,Action|Thriller
+tt6711660,Babumoshai Bandookbaaz,Babumoshai Bandookbaaz,0,2017,122,Action|Crime|Thriller
+tt6712014,Fukrey Returns,Fukrey Returns,0,2017,141,Comedy
+tt6747420,Rajma Chawal,Rajma Chawal,0,2018,117,Comedy|Drama|Family
+tt6752836,Ek Rani Aisi Bhi Thi,Ek Rani Aisi Bhi Thi,0,2013,\N,Biography|History
+tt6774212,Aiyaary,Aiyaary,0,2018,157,Action|Thriller
+tt6791730,Tumhari Sulu,Tumhari Sulu,0,2017,150,Comedy|Drama
+tt6826438,Parmanu: The Story of Pokhran,Parmanu: The Story of Pokhran,0,2018,129,Action|Drama|History
+tt6836936,Saaho,Saaho,0,2019,170,Action|Thriller
+tt6843812,Baaghi 2,Baaghi 2,0,2018,137,Action|Thriller
+tt6862542,Hume Tumse Pyaar Kitna,Hume Tumse Pyaar Kitna,0,2019,91,Action|Drama|Romance
+tt6903440,Manikarnika: The Queen of Jhansi,Manikarnika: The Queen of Jhansi,0,2019,148,Action|Biography|Drama
+tt6923462,Manto,Manto,0,2018,112,Biography|Drama
+tt6926486,Daddy,Daddy,0,2017,134,Action|Biography|Crime
+tt6967980,Bareilly Ki Barfi,Bareilly Ki Barfi,0,2017,116,Comedy|Romance
+tt6971752,Shubh Mangal Saavdhan,Shubh Mangal Saavdhan,0,2017,119,Comedy|Romance
+tt6978268,Omerta,Omerta,0,2017,98,Action|Biography|Crime
+tt6978954,Pal Pal Dil Ke Paas,Pal Pal Dil Ke Paas,0,2019,154,Action|Drama|Romance
+tt6986710,The Accidental Prime Minister,The Accidental Prime Minister,0,2019,112,Biography|Drama
+tt6988116,Kalank,Kalank,0,2019,166,Drama|Romance
+tt6997642,Ribbon,Ribbon,0,2017,106,Drama|Family
+tt7059844,Dabangg 3,Dabangg 3,0,2019,\N,Action
+tt7098658,Raazi,Raazi,0,2018,138,Action|Drama|Thriller
+tt7147540,Made in India,Sui Dhaaga: Made in India,0,2018,122,Comedy|Drama
+tt7154994,Ranchi Diaries,Ranchi Diaries,0,2017,93,Thriller
+tt7162758,Paltan,Paltan,0,2018,150,Action|Drama|History
+tt7180544,The Brawler,Mukkabaaz,0,2017,154,Action|Drama|Sport
+tt7189494,Chicken Curry Law,Chicken Curry Law,0,2019,127,Drama
+tt7212726,Simmba,Simmba,0,2018,158,Action|Comedy|Drama
+tt7228072,Pranaam,Pranaam,0,2019,\N,Action|Crime|Drama
+tt7255568,Student of the Year 2,Student of the Year 2,0,2019,146,Drama|Romance|Sport
+tt7260848,Khajoor Pe Atke,Khajoor Pe Atke,0,2018,119,Comedy
+tt7262178,Veerey Ki Wedding,Veerey Ki Wedding,0,2018,131,Comedy|Romance
+tt7274806,Kaashi in Search of Ganga,Kaashi in Search of Ganga,0,2018,125,Thriller
+tt7340684,The Final Exit,The Final Exit,0,2017,119,Horror
+tt7341406,Rukh,Rukh,0,2017,106,Drama|Mystery
+tt7363076,Raid,Raid,0,2018,122,Action|Crime|Drama
+tt7384848,Missing,Missing,0,2018,120,Drama|Mystery|Thriller
+tt7399470,Qarib Qarib Singlle,Qarib Qarib Singlle,0,2017,125,Comedy|Romance
+tt7412738,Nanu Ki Jaanu,Nanu Ki Jaanu,0,2018,133,Comedy|Drama|Horror
+tt7431594,Race 3,Race 3,0,2018,160,Action|Thriller
+tt7463730,Junglee,Junglee,0,2019,115,Action|Adventure
+tt7469726,Shaadi Mein Zaroor Aana,Shaadi Mein Zaroor Aana,0,2017,137,Drama|Family|Romance
+tt7471004,The House Next Door,The House Next Door,0,2017,137,Horror
+tt7485048,Super 30,Super 30,0,2019,154,Biography|Drama
+tt7526836,FryDay,FryDay,0,2018,114,Comedy
+tt7527082,Hamid,Hamid,0,2018,108,Drama
+tt7549484,Firangi,Firangi,0,2017,158,Comedy|Drama
+tt7571718,Panchlait,Panchlait,0,2017,\N,Drama
+tt7581902,Sonu Ke Titu Ki Sweety,Sonu Ke Titu Ki Sweety,0,2018,138,Comedy|Romance
+tt7585620,Dil Jo Na Keh Saka,Dil Jo Na Keh Saka,0,2017,130,Romance
+tt7607940,Namaste England,Namaste England,0,2018,141,Comedy|Drama|Romance
+tt7609114,Yamla Pagla Deewana Phir Se...,Yamla Pagla Deewana Phir Se...,0,2018,145,Action|Comedy
+tt7617988,Kuchh Bheege Alfaaz,Kuchh Bheege Alfaaz,0,2018,116,Romance
+tt7618184,Mulk,Mulk,0,2018,140,Drama
+tt7638344,Dhadak,Dhadak,0,2018,138,Comedy|Drama|Romance
+tt7639372,Total Dhamaal,Total Dhamaal,0,2019,130,Action|Adventure|Comedy
+tt7695014,Saheb Biwi Aur Gangster 3,Saheb Biwi Aur Gangster 3,0,2018,140,Action|Crime|Drama
+tt7700730,October,October,0,2018,115,Drama|Romance
+tt7720254,Jaane kyun de yaaron,Jaane kyun de yaaron,0,2018,131,Drama
+tt7720922,Batti Gul Meter Chalu,Batti Gul Meter Chalu,0,2018,161,Drama
+tt7721946,Housefull 4,Housefull 4,0,2019,145,Action|Comedy|Fantasy
+tt7722258,Genius,Genius,0,2018,165,Action|Thriller
+tt7722484,Sallu Ki Shaadi,Sallu Ki Shaadi,0,2017,109,Romance
+tt7723022,Nirdosh,Nirdosh,0,2018,110,Drama|Mystery|Thriller
+tt7725596,Badhaai Ho,Badhaai Ho,0,2018,124,Comedy|Drama
+tt7743400,Jhalki,Jhalki,0,2019,\N,Drama
+tt7777196,Thackeray,Thackeray,0,2019,120,Biography|Drama
+tt7778680,Photograph,Photograph,0,2019,110,Drama|Romance
+tt7853242,Love Per Square Foot,Love Per Square Foot,0,2018,133,Comedy|Romance
+tt7881524,Arjun Patiala,Arjun Patiala,0,2019,107,Action|Comedy
+tt7881528,Babuji Ek Ticket Bambai,Babuji Ek Ticket Bambai,0,2017,\N,Comedy|Drama
+tt7881542,Happy Phirr Bhag Jayegi,Happy Phirr Bhag Jayegi,0,2018,136,Comedy
+tt7881558,Mercury,Mercury,0,2018,106,Horror|Thriller
+tt7919680,Karwaan,Karwaan,0,2018,114,Comedy|Drama
+tt7997334,Ek Kahani Julie Ki,Ek Kahani Julie Ki,0,2016,119,Drama
+tt8011276,Laila Majnu,Laila Majnu,0,2018,140,Drama|Romance
+tt8055888,Mard Ko Dard Nahin Hota,Mard Ko Dard Nahin Hota,0,2018,134,Action|Comedy
+tt8060624,Prince's Son,Nawabzaade,0,2018,112,Comedy|Romance
+tt8108196,Judgementall Hai Kya,Judgementall Hai Kya,0,2019,121,Comedy|Drama|Thriller
+tt8108198,Andhadhun,Andhadhun,0,2018,139,Crime|Thriller
+tt8108200,Sonchiriya,Sonchiriya,0,2019,143,Action|Crime|Drama
+tt8108202,Stree,Stree,0,2018,128,Comedy|Horror
+tt8108206,Saand Ki Aankh,Saand Ki Aankh,0,2019,146,Biography|Drama
+tt8108208,Why Cheat India,Why Cheat India,0,2019,121,Crime|Drama
+tt8108268,The Tashkent Files,The Tashkent Files,0,2019,134,Drama|Mystery|Thriller
+tt8110330,Dil Bechara,Dil Bechara,0,2019,\N,Drama|Romance
+tt8130558,One Day: Justice Delivered,One Day: Justice Delivered,0,2019,124,Action|Crime|Thriller
+tt8130968,Badla,Badla,0,2019,118,Crime|Drama|Mystery
+tt8136908,Halkaa,Halkaa,0,2018,114,Drama|Family
+tt8144834,Section 375,Section 375,0,2019,124,Crime|Drama
+tt8175968,High Jack,High Jack,0,2018,102,Comedy
+tt8202612,Satyameva Jayate,Satyameva Jayate,0,2018,140,Action|Thriller
+tt8206760,Jhootha Kahin Ka,Jhootha Kahin Ka,0,2019,133,Comedy
+tt8207768,Mere Pyare Prime Minister,Mere Pyare Prime Minister,0,2018,104,Drama
+tt8223250,Bioscopewala,Bioscopewala,0,2018,91,Drama
+tt8239946,Tumbbad,Tumbbad,0,2018,104,Drama|Fantasy|Horror
+tt8268972,Khamoshi,Khamoshi,0,2019,96,Horror|Thriller
+tt8291224,Uri: The Surgical Strike,Uri: The Surgical Strike,0,2019,138,Action|Drama|War
+tt8304386,The Zoya Factor,The Zoya Factor,0,2019,134,Comedy|Drama|Romance
+tt8324474,Hope Aur Hum,Hope Aur Hum,0,2018,96,Comedy|Drama|Family
+tt8338746,Phamous,Phamous,0,2018,115,Comedy|Crime|Drama
+tt8396128,Pataakha,Pataakha,0,2018,134,Action|Comedy|Drama
+tt8396186,Amavas,Amavas,0,2019,134,Horror|Thriller
+tt8426854,Jalebi,Jalebi,0,2018,112,Drama
+tt8427036,Helicopter Eela,Helicopter Eela,0,2018,135,Drama
+tt8458202,Pihu,Pihu,0,2018,91,Drama|Thriller
+tt8484942,India's Most Wanted,India's Most Wanted,0,2019,123,Action|Thriller
+tt8504014,Good Newwz,Good Newwz,0,2019,\N,Comedy|Drama|Romance
+tt8647400,De De Pyaar De,De De Pyaar De,0,2019,135,Comedy|Romance
+tt8706884,Prassthanam,Prassthanam,0,2019,141,Action|Drama
+tt8785426,Jabariya Jodi,Jabariya Jodi,0,2019,125,Action|Comedy|Drama
+tt8852558,Mitron,Mitron,0,2018,119,Comedy
+tt8869978,Batla House,Batla House,0,2019,146,Action|Drama|Thriller
+tt8876008,Keep Safe Distance,Keep Safe Distance,0,2019,\N,Action|Thriller
+tt8897986,Family of Thakurganj,Family of Thakurganj,0,2019,127,Action|Drama
+tt8902990,The Sky Is Pink,The Sky Is Pink,0,2019,143,Drama|Family|Romance
+tt8983168,Commando 3,Commando 3,0,2019,\N,Action|Thriller
+tt8983180,Made in China,Made in China,0,2019,128,Comedy|Drama
+tt8983202,Kabir Singh,Kabir Singh,0,2019,173,Drama|Romance
+tt9070934,The Journey of Karma,The Journey of Karma,0,2018,98,Drama
+tt9105014,Notebook,Notebook,0,2019,115,Drama|Romance
+tt9172840,Motichoor Chaknachoor,Motichoor Chaknachoor,0,2019,150,Comedy|Romance
+tt9176260,Bypass Road,Bypass Road,0,2019,137,Drama|Thriller
+tt9179426,Satellite Shankar,Satellite Shankar,0,2019,135,Action|Drama
+tt9239772,Setters,Setters,0,2019,126,Thriller
+tt9248934,Marjaavaan,Marjaavaan,0,2019,\N,Action|Romance
+tt9248940,Dream Girl,Dream Girl,0,2019,132,Comedy|Romance
+tt9248972,Mission Mangal,Mission Mangal,0,2019,130,Drama|History
+tt9319812,Hum chaar,Hum chaar,0,2019,143,Drama
+tt9378950,Ghost,Ghost,0,2019,130,Horror|Thriller
+tt9420648,Bala,Bala,0,2019,133,Comedy
+tt9472208,Battalion 609,Battalion 609,0,2019,131,War
+tt9495690,Pagalpanti (Hindi),Pagalpanti,0,2019,\N,Action|Comedy
+tt9496212,22 Yards,22 Yards,0,2019,126,Sport
+tt9558612,PM Narendra Modi,PM Narendra Modi,0,2019,136,Biography|Drama
+tt9574388,Bachche Kachche Sachche,Bachche Kachche Sachche,0,2017,\N,Drama|Short
+tt9680136,Pati Patni Aur Woh,Pati Patni Aur Woh,0,2019,\N,Comedy|Romance
+tt9795264,Risknamaa,Risknamaa,0,2019,123,Thriller
