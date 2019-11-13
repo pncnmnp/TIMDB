@@ -12,13 +12,13 @@ def store_wiki_titles(data):
 		json.dump(data, f)
 
 def get_wiki_titles():
-	html = requests.get('https://en.wikipedia.org/wiki/List_of_Bollywood_films_of_2010')
+	html = requests.get('https://en.wikipedia.org/wiki/List_of_Bollywood_films_of_1990')
 	bs = BeautifulSoup(html.text, 'html5lib')
 	wiki_title_list = open_wiki_titles()
 
 	# THE RANGE HAS TO BE CHANGED MANUALLY FOR EACH WIKI URL
 	# AS THE FORMATTING IS NOT CONSISTENT
-	for section in range(0, 4):
+	for section in range(0, 1):
 		quarter_sect = bs.find_all("table", class_="wikitable")[section]
 		total_quarter_movies = len(quarter_sect.findAll("tr"))
 
