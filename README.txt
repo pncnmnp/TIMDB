@@ -1,10 +1,10 @@
 TIMDB - The Indian Movie Database
 
 Attributes present:
-    './bollywood.csv': title, imdb_id, poster_path,wiki_link
-    './bollywood_meta.csv': imdb_id, title, original_title, is_adult, year_of_release, runtime, genres
-    './bollywood_ratings.csv': imdb_id, imdb_rating, imdb_votes
-    './bollywood_text.csv': imdb_id, story, summary, tagline, actors, wins_nominations, release_date
+    './2010-2019/bollywood.csv': title, imdb_id, poster_path,wiki_link
+    './2010-2019/bollywood_meta.csv': imdb_id, title, original_title, is_adult, year_of_release, runtime, genres
+    './2010-2019/bollywood_ratings.csv': imdb_id, imdb_rating, imdb_votes
+    './2010-2019/bollywood_text.csv': imdb_id, story, summary, tagline, actors, wins_nominations, release_date
 
     UNIQUE (18 attributes):
         title(wiki), imdb_id, poster_path, wiki_link, original_title,
@@ -13,18 +13,18 @@ Attributes present:
         actors, wins_nominations, release_date
 
 Note: 
-In './bollywood_ratings.csv' if:
+In './2010-2019/bollywood_ratings.csv' if:
     value is NaN -> it means the film is yet to be released
     value is 0 -> No rating was given to the film
 
-In './bollywood_meta.csv' if:
+In './2010-2019/bollywood_meta.csv' if:
     A title is missing, chances are the title had no info in the imdb dump
     Or the title is yet to be released
     (indicated by \N)
 
     As of this commit, all the is_adult values are 0.
 
-In './bollywood_text.csv':
+In './2010-2019/bollywood_text.csv':
     Some inconsistencies are removed, as of this commit some inconsistencies are left to find!
 
     To separate actors '|' is used
