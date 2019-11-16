@@ -24,8 +24,8 @@ Attributes present:
 Note: 
 From MovieLens database:
     The leading zeroes are removed for imdbId, which are not removed for the rest of the database(i.e for "1950-1989", "1990-2009" and "2010-2019").
-    Example: in MovieLens database: 123456
-             can be tt0123456 in imdb_id col
+    Example: in movielens_links.csv for imdb_id: 123456
+             will be tt0123456 in imdb_id col in the datasets in "1950-1989", "1990-2009" and "2010-2019".
 
     The ratings(MovieLens) for collaborative filtering were from "Full" dataset available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
 

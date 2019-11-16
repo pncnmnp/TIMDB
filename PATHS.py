@@ -11,8 +11,8 @@
 # imdb_ids_path = "./wiki_dump/imdb_ids_1950-1989.json"
 
 #1950-2019
-imdb_ids_path = "./wiki_dump/imdb_ids_1950-2019.json"
-crew_ids_path = "./wiki_dump/crew_ids_1950-2019.json"
+# imdb_ids_path = "./wiki_dump/imdb_ids_1950-2019.json"
+# crew_ids_path = "./wiki_dump/crew_ids_1950-2019.json"
 
 movielens_match_imdb = "./wiki_dump/movielens_matched_ids_imdb.json"
 movielens_match_movieid = "./wiki_dump/movielens_matched_mids.json"
@@ -34,3 +34,6 @@ name_path = "./name.tsv"
 
 # This path should contain the MovieLens "ratings.csv" file found via link https://grouplens.org/datasets/movielens/
 movie_lens_ratings_path = "./ratings.csv"
+
+# This path should contain the MovieLens "links.csv" file found via link https://grouplens.org/datasets/movielens/
+movie_lens_links_path = "./links.csv"
