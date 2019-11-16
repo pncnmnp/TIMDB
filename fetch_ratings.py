@@ -18,7 +18,7 @@ def map_ratings():
 	for imdb_id in ids:
 		if imdb_id in df_ids:
 			df_val = df[df['tconst'] == imdb_id]
-			with open("../bollywood_ratings.csv", 'a') as f:
+			with open("./bollywood_ratings.csv", 'a') as f:
 				print("FETCHING: " + str(imdb_id) + " DONE: " + str(cntr))
 				f.write(str(imdb_id) + "," + str(df_val.values[0][1]) + "," + str(df_val.values[0][2]) + "\n")
 				f.close()
