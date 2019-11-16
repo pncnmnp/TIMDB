@@ -8,7 +8,7 @@ class WikiScrape(scrapy.Spider):
 		pass
 
 	def start_requests(self):
-		urls = json.load(open(".././wiki_dump/wiki_titles_1990-2009.json"))
+		urls = json.load(open(".././wiki_dump/wiki_titles_1950-1989.json"))
 		for url in urls:
 			yield scrapy.Request(url=('https://en.wikipedia.org' + url), callback=self.parse)
 
