@@ -8,7 +8,7 @@ class ImdbScrape(scrapy.Spider):
 		pass
 
 	def start_requests(self):
-		urls = json.load(open(".././wiki_dump/imdb_ids_1990-2009.json"))
+		urls = json.load(open(".././wiki_dump/imdb_ids_1950-1989.json"))
 		for url in urls:
 			yield scrapy.Request(url=('https://www.imdb.com/title/' + url), callback=self.parse)
 
