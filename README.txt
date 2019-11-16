@@ -22,6 +22,11 @@ Attributes present:
         actors, wins_nominations, release_date
 
 Note: 
+In MovieLens database:
+    The leading zeroes are removed for imdbId, which are not removed for the rest of the database (i.e for "1950-1989", "1990-2009" and "2010-2019")
+    Example: in MovieLens database: 123456
+             can be tt0123456 in imdb_id col
+
 In 'bollywood_ratings.csv' if:
     value is NaN -> it means the film is yet to be released
     value is 0 -> No rating was given to the film
