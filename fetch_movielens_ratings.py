@@ -21,7 +21,8 @@ def map_ratings():
 				df_val = df_iter[df_iter['movieId'] == movie_id]
 				with open("./movielens_ratings.csv", 'a') as f:
 					print("FETCHING: " + str(movie_id) + " DONE: " + str(cntr))
-					f.write(str(int(df_val.values[0][0])) + "," + str(movie_id) + "," + str(df_val.values[0][2]) + "," + str(int(df_val.values[0][3])) + "\n")
+					for rating in range(0, len(df_val)):
+						f.write(str(int(df_val.values[rating][0])) + "," + str(movie_id) + "," + str(df_val.values[rating][2]) + "," + str(int(df_val.values[rating][3])) + "\n")
 					f.close()
 					cntr = cntr + 1
 
