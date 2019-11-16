@@ -22,10 +22,12 @@ Attributes present:
         actors, wins_nominations, release_date
 
 Note: 
-In MovieLens database:
-    The leading zeroes are removed for imdbId, which are not removed for the rest of the database (i.e for "1950-1989", "1990-2009" and "2010-2019")
+From MovieLens database:
+    The leading zeroes are removed for imdbId, which are not removed for the rest of the database(i.e for "1950-1989", "1990-2009" and "2010-2019").
     Example: in MovieLens database: 123456
              can be tt0123456 in imdb_id col
+
+    The ratings(MovieLens) for collaborative filtering were from "Full" dataset available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
 
 In 'bollywood_ratings.csv' if:
     value is NaN -> it means the film is yet to be released
@@ -50,3 +52,8 @@ Future Scope:
     Plans on expanding this dataset from 1990 to 2019
                                       to 1950 to 1989
     Director and Writer information left to be added
+
+Attribution:
+> F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+> IMDB 	https://datasets.imdbws.com/
+> Wikipedia https://wikimediafoundation.org/support/
