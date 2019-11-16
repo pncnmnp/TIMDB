@@ -7,8 +7,11 @@
 # imdb_ids_path = "./wiki_dump/imdb_ids_1990-2009.json"
 
 #1950-1989
-wiki_titles = "./wiki_dump/wiki_titles_1950-1989.json"
-imdb_ids_path = "./wiki_dump/imdb_ids_1950-1989.json"
+# wiki_titles = "./wiki_dump/wiki_titles_1950-1989.json"
+# imdb_ids_path = "./wiki_dump/imdb_ids_1950-1989.json"
+
+#1950-2019
+imdb_ids_path = "./wiki_dump/imdb_ids_1950-2019.json"
 
 schema = "./schema.txt"
 db_csv = "./bollywood.csv"
@@ -18,3 +21,6 @@ ratings_path = "./ratings.tsv"
 
 # This path should contain title.basics.tsv.gz from https://www.imdb.com/interfaces/
 title_path = "./title.tsv"
+
+# This path should contain title.crew.tsv.gz from https://www.imdb.com/interfaces/
+crew_path = "./crew.tsv"
