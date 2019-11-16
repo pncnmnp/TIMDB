@@ -3,8 +3,12 @@
 # imdb_ids_path = "./wiki_dump/imdb_ids_2010-2019.json"
 
 # 1990-2009
-wiki_titles = "./wiki_dump/wiki_titles_1990-2009.json"
-imdb_ids_path = "./wiki_dump/imdb_ids_1990-2009.json"
+# wiki_titles = "./wiki_dump/wiki_titles_1990-2009.json"
+# imdb_ids_path = "./wiki_dump/imdb_ids_1990-2009.json"
+
+#1950-1989
+wiki_titles = "./wiki_dump/wiki_titles_1950-1989.json"
+imdb_ids_path = "./wiki_dump/imdb_ids_1950-1989.json"
 
 schema = "./schema.txt"
 db_csv = "./bollywood.csv"
