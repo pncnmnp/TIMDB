@@ -40,3 +40,6 @@ movie_lens_links_path = "./links.csv"
 
 # This path should contain the MovieLens "movies.csv" file found via link https://grouplens.org/datasets/movielens/
 movie_lens_title_path = "./movies.csv"
+
+# This path should contain the MovieLens "genome-scores.csv" file found via link https://grouplens.org/datasets/movielens/
+movie_lens_genome_scores_path = "./genome-scores.csv"

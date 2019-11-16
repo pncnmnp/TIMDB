@@ -29,6 +29,8 @@ From MovieLens database:
 
     The ratings(MovieLens) for collaborative filtering were from "Full" dataset available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
 
+    The genome-scores were available for very few movies (64 in total) from "Full" MovieLens dataset.
+
 In 'bollywood_ratings.csv' if:
     value is NaN -> it means the film is yet to be released
     value is 0 -> No rating was given to the film
