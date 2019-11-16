@@ -21,7 +21,7 @@ def map_titles():
 				df_val = df_iter[df_iter['movieId'] == movie_id]
 				with open("./movielens_titles.csv", 'a') as f:
 					print("FETCHING: " + str(movie_id) + " DONE: " + str(cntr))
-					f.write(str(int(df_val.values[0][0])) + "," + str(df_val.values[0][1]) + "\n")
+					f.write(str(int(df_val.values[0][0])) + "," + str(df_val.values[0][1]).replace(",", " ") + "\n")
 					f.close()
 					cntr = cntr + 1
 
