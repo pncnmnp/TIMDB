@@ -37,3 +37,6 @@ movie_lens_ratings_path = "./ratings.csv"
 
 # This path should contain the MovieLens "links.csv" file found via link https://grouplens.org/datasets/movielens/
 movie_lens_links_path = "./links.csv"
+
+# This path should contain the MovieLens "movies.csv" file found via link https://grouplens.org/datasets/movielens/
+movie_lens_title_path = "./movies.csv"
