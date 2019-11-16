@@ -12,6 +12,7 @@
 
 #1950-2019
 imdb_ids_path = "./wiki_dump/imdb_ids_1950-2019.json"
+crew_ids_path = "./wiki_dump/crew_ids_1950-2019.json"
 
 schema = "./schema.txt"
 db_csv = "./bollywood.csv"
@@ -24,3 +25,6 @@ title_path = "./title.tsv"
 
 # This path should contain title.crew.tsv.gz from https://www.imdb.com/interfaces/
 crew_path = "./crew.tsv"
+
+# This path should contain name.basics.tsv.gz from https://www.imdb.com/interfaces/
+name_path = "./name.tsv"

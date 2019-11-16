@@ -1,0 +1,1660 @@
+crew_id,name,born_year,death_year,profession,known_for
+nm0001408,Shekhar Kapur,1945,\N,actor|director|producer,tt0240510|tt0414055|tt0109206|tt0127536
+nm0002172,Mukul Anand,1951,1997,director|writer|producer,tt0104607|tt0102201|tt0098999|tt0092026
+nm0002411,Mani Kaul,1944,2011,director|writer|actor,tt0207626|tt0066514|tt0070009|tt0102515
+nm0003939,Vikramaditya Motwane,1976,\N,producer|writer|director,tt0238936|tt3322420|tt1639426|tt1327035
+nm0004072,Kaizad Gustad,1968,\N,director|writer|miscellaneous,tt0330082|tt3309662|tt0168529|tt0819646
+nm0004292,Raj Kapoor,1924,1988,actor|producer|director,tt0066070|tt0152139|tt0058547|tt0084532
+nm0004363,Rakesh Roshan,1949,\N,actor|producer|director,tt1029231|tt0432637|tt0254481|tt0234000
+nm0004433,Shammi Kapoor,1931,2011,actor|director,tt0084866|tt1839596|tt0231226|tt0147925
+nm0004434,Shashi Kapoor,1938,2017,actor|producer|assistant_director,tt0072860|tt0077783|tt0080982|tt0101283
+nm0004466,E.V.V. Satyanarayana,1956,2011,director|writer|producer,tt1606217|tt1791479|tt1258121|tt0282554
+nm0004564,Hema Malini,1948,\N,actress|producer|director,tt0337578|tt0073707|tt0081147|tt0072026
+nm0004570,Sunil Dutt,1930,2005,actor|producer|director,tt0067668|tt0059354|tt0063404|tt0057332
+nm0004630,Kodanda Rami Reddy A.,\N,\N,director|writer|actor,tt0331846|tt1625547|tt0245731|tt0245872
+nm0006249,Satyajit Ray,1921,1992,writer|composer|director,tt0048473|tt0048956|tt0057935|tt0060742
+nm0006348,Rajendra Kumar,1929,1999,actor|producer|miscellaneous,tt0234141|tt0246286|tt0139157|tt0058921
+nm0006358,Shobhna Samarth,1916,2000,actress|director,tt0331297|tt0156360|tt0233586|tt0233303
+nm0006370,Manoj Kumar,1937,\N,actor|writer|music_department,tt0072100|tt0233464|tt0146335|tt0149814
+nm0006371,Mehboob Khan,1907,1964,director|producer|actor,tt0044318|tt0232674|tt0038302|tt0050188
+nm0006498,Majid Majidi,1959,\N,director|writer|actor,tt0233841|tt0118849|tt0117315|tt0191043
+nm0006659,Khalid Mohamed,\N,\N,writer|director|actor,tt0255713|tt0438981|tt0348172|tt0248012
+nm0006765,Vidhu Vinod Chopra,\N,\N,writer|producer|director,tt0456144|tt0374887|tt1187043|tt2338151
+nm0007113,Nana Patekar,1951,\N,actor|music_department|director,tt0110280|tt0402014|tt0451631|tt6929642
+nm0007131,Subhash Ghai,1945,\N,writer|producer|actor,tt0107311|tt0119861|tt0152836|tt0102844
+nm0007134,Farah Khan,1965,\N,miscellaneous|actress|writer,tt2461132|tt0292490|tt0347473|tt1024943
+nm0007144,Santosh Sivan,\N,\N,cinematographer|director|producer,tt0249371|tt0169302|tt0295294|tt0870195
+nm0007147,Dev Anand,1923,2011,actor|producer|director,tt0053980|tt0059246|tt0066241|tt0051806
+nm0007181,Yash Chopra,1932,2012,producer|director|miscellaneous,tt0420332|tt0118983|tt0109555|tt0112870
+nm0007815,Khwaja Ahmad Abbas,1914,1987,writer|director|producer,tt0152400|tt0064915|tt0050820|tt0044360
+nm0008943,John Abraham,1937,1987,director|writer|assistant_director,tt0077131|tt0090634|tt0078961|tt0078463
+nm0009302,Hadi Abrar,\N,\N,director|assistant_director|producer,tt1279105|tt0121989|tt6046994|tt0232079
+nm0012541,Nikkhil Advani,1971,\N,writer|director|producer,tt1172587|tt2385104|tt6084582|tt0347304
+nm0012892,Ahathian,\N,\N,director|writer,tt0292552|tt0244794|tt0984202|tt8238236
+nm0013026,Jalal Agha,\N,1995,actor|director|writer,tt0083987|tt0073707|tt6291976|tt0172509
+nm0013158,Atul Agnihotri,1970,\N,actor|producer|director,tt1729637|tt10888594|tt0396563|tt1087856
+nm0013160,Sunil Agnihotri,\N,\N,director|producer|assistant_director,tt3837208|tt0104660|tt1238718|tt0289685
+nm0013288,Manoj Agrawal,\N,\N,assistant_director|director|producer,tt0339878|tt0244528|tt0119862|tt10087614
+nm0014084,Sukhdev Ahluwalia,1932,\N,director|writer|camera_department,tt0150348|tt2728318|tt0150317|tt0152531
+nm0014180,Sultan Ahmed,\N,2002,director|producer|writer,tt0343850|tt0405852|tt0077596|tt0070166
+nm0014385,Ashok Ahuja,\N,\N,director,tt0177480|tt3508198
+nm0015136,S.A. Akbar,\N,\N,director|assistant_director,tt0176011|tt0451780|tt0283989|tt0230141
+nm0015288,Khalid Akhtar,\N,\N,director|assistant_director|actor,tt0060310|tt0176101|tt0359580|tt0361948
+nm0015295,Zoya Akhtar,1972,\N,writer|producer|director,tt2395469|tt1787988|tt1562872|tt4110568
+nm0019425,Haidar Ali,1948,\N,actor|writer|director,tt0449994|tt0121989|tt0298437|tt1629424
+nm0019464,Muzaffar Ali,1944,\N,director|writer|producer,tt0083248|tt3826186|tt0149674|tt0150683
+nm0023551,Abrar Alvi,1927,2009,writer|actor|director,tt0359496|tt0056436|tt0071811|tt0056379
+nm0024039,Amarjeet,\N,\N,actor|producer|director,tt0083987|tt0225961|tt0274944|tt0275363
+nm0024061,K. Amarnath,1914,1983,director|producer|writer,tt0154700|tt0154264|tt0154863|tt0154312
+nm0024912,Shimit Amin,\N,\N,editorial_department|sound_department|editor,tt0112702|tt0402014|tt0341266|tt0871510
+nm0025399,Kamal Amrohi,1918,1993,writer|director|music_department,tt0067546|tt0045666|tt0152148|tt0041619
+nm0025603,Anand,\N,\N,actor|assistant_director|director,tt0376886|tt0343048|tt0092049|tt0193246
+nm0025608,Chetan Anand,1921,1997,director|writer|actor,tt0154942|tt0154749|tt0154565|tt0140784
+nm0025609,Deepak Anand,\N,\N,director|editor|actor,tt0318956|tt7191668|tt0103763|tt0374342
+nm0025611,Gogi Anand,\N,\N,assistant_director|director|actor,tt0066241|tt3890300|tt0276925|tt0275291
+nm0025613,Inder Raj Anand,\N,1987,writer|director,tt0058547|tt0058467|tt0049041|tt0052560
+nm0025617,Ketan Anand,\N,\N,director|actor|assistant_director,tt0363993|tt0177503|tt3509180|tt0112308
+nm0025627,Tinnu Anand,1953,\N,actor|director|writer,tt1166100|tt0093949|tt1620719|tt0082594
+nm0025629,Vijay Anand,1934,2004,writer|actor|director,tt0059246|tt0154685|tt0155088|tt0154265
+nm0025805,Rajiv Anchal,\N,\N,director|writer|art_director,tt0415943|tt0282843|tt0372171|tt0353616
+nm0030533,Nisar Ahmad Ansari,1917,1993,actor|director|producer,tt0154695|tt0154236|tt0256063|tt0155370
+nm0031686,Faaiz Anwar,\N,\N,music_department|soundtrack|producer,tt0286416|tt1620719|tt1093370|tt0343048
+nm0031967,Aparna Sen,1945,\N,actress|director|writer,tt0329393|tt0249866|tt0081968|tt1620620
+nm0037022,Prakash Arora,\N,\N,assistant_director|director|actor,tt0040067|tt0046799|tt0041161|tt0043306
+nm0037023,Prem Narayan Arora,1912,1985,producer|director,tt0154943|tt0154731|tt0154413|tt0139303
+nm0039339,K. Asif,1922,1971,director|producer|writer,tt0091439|tt0133014|tt0054098|tt0037174
+nm0039724,Apurva Asrani,\N,\N,editor|writer|director,tt0195231|tt6405126|tt0388315|tt0271197
+nm0041928,Joy Augustine,1964,\N,writer|director|producer,tt3720320|tt0285319|tt0172509|tt0117878
+nm0044584,Gopal B.,\N,\N,director,tt1579806|tt1228966|tt1575672|tt1583218
+nm0045116,Baby,\N,\N,director|writer|producer,tt0246046|tt0333052|tt0334083|tt0279393
+nm0046895,Rajnish Bahl,\N,\N,director,tt0155195
+nm0046985,Deepak Bahry,\N,\N,director|producer|actor,tt0359444|tt0106799|tt0290213|tt0366880
+nm0049335,K. Balachander,1930,2014,director|writer|producer,tt0155124|tt0155256|tt0082314|tt0154159
+nm0049416,S.S. Balan,1936,2014,director|producer,tt2061666|tt0061370|tt0293634|tt0284248
+nm0051721,Deepak Kumar Bandhu,\N,\N,actor|director|soundtrack,tt0347332|tt0319736|tt1606162|tt0265343
+nm0051847,S. Bannerjee,\N,\N,director|music_department,tt0139444|tt0371894|tt0139749|tt0052051
+nm0052630,K. Bapaiah,\N,\N,director|writer,tt0112876|tt0099869|tt0154412|tt0154118
+nm0052677,Bapu,1933,2014,director|writer|miscellaneous,tt0155855|tt1453939|tt1783377|tt0156082
+nm0054744,Sooraj R. Barjatya,1965,\N,producer|writer|director,tt0100095|tt3595298|tt0494290|tt0110076
+nm0056423,Chandra Barot,\N,\N,director|assistant_director|producer,tt0077451|tt2652374|tt6081002|tt0389296
+nm0059395,Jahnu Barua,1952,\N,director|writer|producer,tt0399254|tt0454504|tt0093136|tt0113311
+nm0062614,Harry Baweja,\N,\N,producer|director|writer,tt0481241|tt0779768|tt0364621|tt0490170
+nm0063357,Anees Bazmee,\N,\N,writer|director|assistant_director,tt1146325|tt0488798|tt1708532|tt0451833
+nm0065991,Vishram Bedekar,1906,1998,director|writer|producer,tt0362070|tt0156128|tt0037209|tt0133188
+nm0066066,Narendra Bedi,1937,1982,director|writer|miscellaneous,tt0455070|tt0155846|tt0075632|tt0071205
+nm0066074,Rajinder Singh Bedi,1915,1984,writer|director|producer,tt0059445|tt0137455|tt0175908|tt0050665
+nm0066918,Ramesh Behl,\N,1990,producer|director|actor,tt0077792|tt0086156|tt0373041|tt0246286
+nm0070865,Dev Benegal,1960,\N,director|writer|producer,tt3366346|tt1190894|tt0215196|tt0109732
+nm0070867,Shyam Benegal,1934,\N,director|writer|producer,tt0090202|tt0071145|tt0075747|tt0077783
+nm0080157,Devika Bhagat,1979,\N,writer|assistant_director|director,tt2176013|tt2951576|tt0372183|tt10763268
+nm0080173,Master Bhagwan,1913,2002,actor|director|writer,tt0137349|tt1309415|tt0155517|tt0155541
+nm0080180,Bhagyaraj,1953,\N,actor|writer|director,tt0155927|tt0090575|tt0117099|tt0109116
+nm0080191,Lekhraj Bhakri,\N,1976,director|writer|producer,tt0385894|tt0414430|tt0414506|tt0355716
+nm0080192,Mohan Bhakri,\N,\N,director|writer|producer,tt0381324|tt0454485|tt0363740|tt0440530
+nm0080220,Sanjay Leela Bhansali,1963,\N,producer|director|writer,tt0150992|tt0375611|tt3735246|tt0238936
+nm0080235,Vishal Bhardwaj,\N,\N,composer|soundtrack|writer,tt1274295|tt4934950|tt3390572|tt0488414
+nm0080278,Vijay K. Bhaskar,\N,\N,director|writer,tt0355742|tt0928152|tt1018698|tt0457391
+nm0080297,Sudarshan Bhatia,\N,\N,director,tt0051705
+nm0080310,Harsukh Jagneshwar Bhatt,1924,\N,director|assistant_director|producer,tt0156556|tt0156718|tt0156724|tt0156995
+nm0080315,Mahesh Bhatt,1948,\N,producer|director|writer,tt0307873|tt0088031|tt0083578|tt0211126
+nm0080320,Nanabhai Bhatt,1915,1999,director|writer|producer,tt0139705|tt0384268|tt0156783|tt0156254
+nm0080324,Pooja Bhatt,1972,\N,actress|producer|director,tt0205189|tt0156891|tt0399942|tt0156985
+nm0080325,Pravin Bhatt,\N,\N,cinematographer|director|writer,tt0156985|tt0448454|tt0149857|tt0978627
+nm0080332,Vijay Bhatt,1907,1993,director|producer|miscellaneous,tt0044392|tt0156606|tt0139419|tt0156576
+nm0080333,Vikram Bhatt,1969,\N,writer|director|producer,tt1301698|tt0190419|tt3848938|tt0307873
+nm0080345,Basu Bhattacharya,1934,1997,director|producer|writer,tt0156258|tt0061072|tt0156290|tt0079938
+nm0080358,Moni Bhattacharjee,\N,\N,director|assistant_director|miscellaneous,tt0349634|tt0062692|tt0054430|tt0057332
+nm0080360,R. Bhattacharya,\N,\N,director|producer|writer,tt0247291|tt0351354|tt2769462|tt0378820
+nm0080405,Bhimsain,1936,2018,director|producer|writer,tt0156534|tt0150718|tt6998554|tt3295870
+nm0080406,A. Bhimsingh,1924,1978,director|writer|editorial_department,tt0156879|tt0156651|tt0059354|tt0063533
+nm0081974,J.K. Bihari,\N,\N,miscellaneous|director|assistant_director,tt0168516|tt0359473|tt0359076|tt0362766
+nm0083208,Apurba Kishore Bir,\N,\N,cinematographer|writer|director,tt1431288|tt0177481|tt1435530|tt0071083
+nm0084428,Biswajit Chatterjee,1936,\N,actor|director|producer,tt0367922|tt0148575|tt0175572|tt0157845
+nm0084432,Ajoy Biswas,\N,\N,director|actor|writer,tt3867480|tt4248860|tt0367660|tt0362111
+nm0092555,K.C. Bokadia,\N,\N,director|producer|writer,tt0172704|tt1920986|tt0251346|tt0395672
+nm0097859,Amit Bose,\N,\N,editor|sound_department|director,tt0078241|tt0138994|tt0248617|tt0390406
+nm0097870,Dilip Bose,\N,\N,director|actor|writer,tt0290480|tt1584023|tt1584010|tt2609704
+nm0097887,Nitin Bose,1897,1986,director|cinematographer|writer,tt0028786|tt0273527|tt0156468|tt0054910
+nm0097899,Satyen Bose,1916,1993,director|writer|producer,tt0147036|tt0146645|tt0156342|tt0156923
+nm0109279,Brij,1933,1990,director|producer|miscellaneous,tt0158331|tt0158375|tt0158314|tt0061206
+nm0122216,Abbas Alibhai Burmawalla,\N,\N,director|producer|assistant_director,tt1017456|tt5785200|tt0326576|tt0106333
+nm0122217,Mastan Alibhai Burmawalla,\N,\N,director|producer,tt0326576|tt5785200|tt1017456|tt0106333
+nm0141033,Willard Carroll,1955,\N,producer|writer|director,tt0284334|tt0329354|tt0092695|tt0145734
+nm0147203,John Cawas,1910,1993,actor|writer|director,tt0032395|tt0451805|tt0242832|tt0390654
+nm0149446,Gurinder Chadha,1960,\N,writer|producer|director,tt0106408|tt0197096|tt0286499|tt0963743
+nm0149810,Amiya Chakrabarty,1912,1957,director|writer|producer,tt0044527|tt0157524|tt0146266|tt0130489
+nm0149812,Utpalendu Chakrabarty,1948,\N,director|writer|composer,tt0157452|tt0158013|tt0134580|tt0158007
+nm0149835,J.D. Chakravarthi,\N,\N,actor|director|writer,tt0195231|tt0314008|tt0471646|tt1612022
+nm0149850,Pramod Chakravorty,1929,2004,director|producer|assistant_director,tt0157944|tt0157844|tt0157337|tt0070253
+nm0151192,Tapi Chanakya,1925,1973,director|writer|assistant_director,tt0157581|tt0157841|tt0158158|tt0157432
+nm0151274,Chand,\N,\N,director|actor|writer,tt0368243|tt0358138|tt0355374|tt3113910
+nm0151305,Ajay Chandhok,\N,\N,assistant_director|director|miscellaneous,tt0438894|tt1363363|tt4512230|tt0476819
+nm0151504,N. Chandra,1952,\N,director|writer|editor,tt1002963|tt0287111|tt0306855|tt0096252
+nm0151511,Tanuja Chandra,\N,\N,director|writer|actress,tt7399470|tt0332766|tt0823261|tt0118983
+nm0151521,Chandrakant,1929,\N,director|writer|producer,tt0157342|tt0157845|tt0157959|tt0157843
+nm0151546,S.A. Chandrashekhar,\N,\N,director|writer|actor,tt1192385|tt6823034|tt1326149|tt0319583
+nm0151551,Chandu,\N,\N,miscellaneous|camera_department|actor,tt0284137|tt0357875|tt0147811|tt0079584
+nm0154113,Basu Chatterjee,1930,\N,director|writer|producer,tt0064935|tt0079364|tt0072064|tt0152720
+nm0154153,Samar Chatterjee,\N,\N,actor|director|producer,tt0056850|tt0176072|tt0389304|tt0058257
+nm0154206,Kartick Chattopadhyay,1912,1989,director,tt0157454|tt0158022|tt0049708|tt0157726
+nm0154269,Anil Chaudhary,\N,\N,actor|director|writer,tt7139504|tt1852179|tt0240849|tt2962230
+nm0155027,Sanjay Chhel,\N,\N,writer|music_department|director,tt1132595|tt0120540|tt0220597|tt0807758
+nm0158332,Leela Chitnis,1909,2003,actress|director|music_department,tt0031527|tt0270274|tt0270273|tt0052154
+nm0158343,Chitrayug,\N,\N,director,tt0280398
+nm0159146,Abhay Chopra,\N,\N,actor|director,tt0111068|tt0456413|tt0189633|tt0248185
+nm0159147,Aditya Chopra,1971,\N,producer|writer|director,tt0420332|tt0213890|tt1182937|tt0112870
+nm0159148,B.R. Chopra,1914,2008,producer|director|writer,tt0057120|tt0053985|tt0337578|tt0052154
+nm0159162,Ravi Chopra,1946,2014,director|producer|writer,tt0158534|tt0158451|tt0337578|tt0158694
+nm0159269,Mohan Choti,\N,\N,actor|director|producer,tt0242272|tt0146335|tt0187176|tt2679238
+nm0185345,Greg Coyes,\N,\N,director|writer|producer,tt0243583|tt0276360|tt0088591|tt0235968
+nm0195934,Lawrence D'Souza,\N,\N,producer|cinematographer|director,tt0449994|tt0102825|tt0267905|tt0284811
+nm0196375,Parvin Dabas,1974,\N,actor|director|writer,tt0265343|tt1188996|tt0466460|tt1630282
+nm0196380,Randhir Kapoor,1947,\N,actor|producer|director,tt0152139|tt0121352|tt0177497|tt0357811
+nm0201710,Dharmesh Darshan,\N,\N,writer|director|music_department,tt0117437|tt0232079|tt0255111|tt0107440
+nm0201713,Suneel Darshan,\N,\N,producer|director|writer,tt0267252|tt0338477|tt0444767|tt0845535
+nm0201837,Ram Daryani,1915,\N,director,tt0372790|tt0158706|tt0129422|tt0158551
+nm0201875,Bhagwan Das Varma,\N,\N,director|writer|producer,tt0134300|tt0130489|tt0045524|tt0374137
+nm0201897,K.S.R. Das,1936,2012,director|writer|editor,tt1360879|tt1360170|tt0454411|tt0499246
+nm0201903,Nandita Das,1969,\N,actress|animation_department|writer,tt0280465|tt1263679|tt0312859|tt6923462
+nm0201923,Anand Dasani,\N,\N,director,tt4406512|tt0076288
+nm0201927,Narayana Rao Dasari,1947,2017,director|writer|actor,tt0251834|tt0280845|tt0262781|tt0262447
+nm0201949,Buddhadev Dasgupta,1944,\N,director|writer|music_department,tt0077457|tt0106546|tt0255665|tt0332699
+nm0202545,Ravindra Dave,1919,1992,director|producer,tt0212857|tt0213105|tt0212745|tt0052082
+nm0214350,Manohar Deepak,\N,\N,actor|director|miscellaneous,tt0053629|tt0050758|tt0068756|tt0231896
+nm0214358,Deepshika Nagpal,1977,\N,actress|writer|producer,tt1047519|tt0136352|tt0482246|tt1826051
+nm0219939,Danny Denzongpa,1948,\N,actor|music_department|soundtrack,tt1305797|tt0104607|tt3848892|tt0120102
+nm0219964,Shrabani Deodhar,\N,\N,director|writer|producer,tt10011102|tt0473684|tt10209164|tt0267928
+nm0219971,Sunny Deol,1957,\N,actor|producer|director,tt0284137|tt0116407|tt0118751|tt0099652
+nm0220813,Dhirubhai Desai,1908,1990,director|sound_department|producer,tt0213476|tt0214082|tt0213966|tt0213602
+nm0220820,Jayant Desai,1909,1976,director|writer|producer,tt0214188|tt0213447|tt0213564|tt0214135
+nm0220823,Ketan Desai,\N,\N,producer|assistant_director|director,tt0090611|tt0089552|tt0085361|tt0098491
+nm0220828,Manmohan Desai,1937,1994,director|producer|writer,tt0213773|tt0082797|tt0089552|tt0213524
+nm0220844,T.K. Desai,\N,\N,art_director|art_department|director,tt0154685|tt0246286|tt0084744|tt0058270
+nm0220849,Vikas Desai,\N,\N,actor|director|writer,tt1661585|tt0259571|tt0259583|tt0259322
+nm0221222,Sulabha Deshpande,1937,2016,actress|director,tt2181931|tt3122380|tt0115009|tt2748972
+nm0222150,Prabhu Deva,\N,\N,actor|miscellaneous|director,tt0323013|tt2077833|tt1451409|tt1084972
+nm0222426,Ajay Devgn,1969,\N,actor|producer|music_department,tt0488414|tt3771536|tt0319736|tt1395054
+nm0222427,Anil Devgan,\N,\N,assistant_director|director,tt0116690|tt1252488|tt0444769|tt2178508
+nm0222428,Veeru Devgan,\N,2019,stunts|actor|assistant_director,tt0207513|tt0093578|tt0267617|tt0107986
+nm0223047,Ravi Dewan,\N,\N,stunts|director|writer,tt0130348|tt0135140|tt0338721|tt0449994
+nm0223049,Vinod Dewan,\N,\N,director|assistant_director,tt0152080|tt0270091|tt0117186|tt0173188
+nm0223050,Ajit Dewani,\N,\N,director|writer,tt0271138|tt0398360|tt0482240
+nm0223335,Debaloy Dey,\N,\N,assistant_director|director,tt2208248|tt0106541|tt0307837
+nm0223475,Girish Dhamija,\N,\N,writer|miscellaneous|director,tt0453978|tt2023645|tt0495032|tt0827714
+nm0223485,Guddu Dhanoa,\N,\N,director|producer|writer,tt0225029|tt0252277|tt0286936|tt0476762
+nm0223522,David Dhawan,\N,\N,director|editor|writer,tt0207341|tt0106204|tt0807758|tt0418362
+nm0223606,Tigmanshu Dhulia,\N,\N,director|actor|writer,tt1954470|tt0362696|tt2362778|tt1620933
+nm0227604,H. Dinesh,\N,\N,director,tt0877595|tt0268990
+nm0233252,Doondi,\N,\N,producer|miscellaneous|director,tt0280394|tt0254441|tt0061650|tt0262444
+nm0234389,Chaturbhuj Doshi,1894,1969,director|writer,tt0177477|tt0214090|tt0214135|tt0213979
+nm0240881,Mukesh Duggal,\N,1997,producer|director,tt0109922|tt0376080|tt0113822|tt0156982
+nm0244335,Iqbal Durrani,\N,\N,writer|actor|director,tt0112485|tt0446159|tt0286620|tt0110254
+nm0244870,Guru Dutt,1925,1964,actor|director|producer,tt0045529|tt0043307|tt0056436|tt0050870
+nm0244873,Hari Dutt,\N,\N,director|actor,tt2935640|tt0176110|tt0271670
+nm0244876,Mukul Dutt,\N,\N,music_department|director|assistant_director,tt0178184|tt0177499|tt0069152|tt0298267
+nm0244892,J.P. Dutta,1949,\N,director|writer|producer,tt0485522|tt0347416|tt0250690|tt0118751
+nm0244898,O.P. Dutta,1921,2012,writer|director,tt0250690|tt0118751|tt0215034|tt0089201
+nm0259847,James Erskine,\N,\N,director|producer|writer,tt2557258|tt0364151|tt0398037|tt6003528
+nm0265752,Latif Faiziyev,1929,1994,director|writer|actor,tt0152509|tt0170416|tt0170644|tt0170456
+nm0268909,Sheikh Fattelal,1897,1964,director|cinematographer|art_director,tt0028217|tt0273632|tt0158700|tt0158915
+nm0269807,Sibtain Fazli,1916,1985,director,tt0214578|tt0252386|tt0362143|tt0150422
+nm0300638,Ashok Gaekwad,\N,\N,director|assistant_director|actor,tt0395519|tt0286640|tt0464969|tt0107821
+nm0304356,Anil Ganguly,1933,2016,director|writer|producer,tt0165972|tt0290179|tt1459912|tt0363583
+nm0304369,Samir Ganguly,\N,\N,director|assistant_director|writer,tt0067742|tt0381319|tt0306065|tt0293081
+nm0307231,Simi Garewal,1947,\N,actress|director|writer,tt0063532|tt0214841|tt0231469|tt0067000
+nm0310216,Desh Gautam,\N,\N,director|miscellaneous|assistant_director,tt0408733|tt0363732|tt0122162|tt0363196
+nm0311678,Geethapryia,\N,\N,director|writer|music_department,tt1373147|tt1380183|tt1380211|tt3475688
+nm0315461,B.S. Ghad,\N,\N,director,tt0071725
+nm0315479,Ashok Ghai,\N,\N,producer|assistant_director|director,tt0238591|tt0105166|tt0107311|tt0091328
+nm0315553,Krishna Ghattamaneni,1944,\N,actor|director|writer,tt0263623|tt0234739|tt0234046|tt2737906
+nm0315872,Goutam Ghose,1950,\N,director|writer|cinematographer,tt0368559|tt0087868|tt0470611|tt0110794
+nm0315889,Dilip Ghosh,1955,\N,director|producer,tt2658126|tt0092956|tt0098975
+nm0315905,Nabendu Ghosh,\N,\N,writer|actor|script_department,tt0300575|tt0358063|tt0139447|tt0216110
+nm0315912,Partho Ghosh,\N,\N,director|writer|actor,tt0446158|tt7154710|tt0341458|tt0115484
+nm0315916,Rituparno Ghosh,1963,2013,writer|director|music_department,tt0368969|tt1461674|tt1555754|tt0405266
+nm0321553,B.S. Glaad,\N,\N,editor|director|writer,tt0359266|tt0257475|tt0087434|tt0148519
+nm0324389,Devendra Goel,1919,1979,director|producer|writer,tt0214653|tt0178202|tt0175564|tt0130649
+nm0329716,K.S. Gopalakrishnan,1929,2015,director|writer|producer,tt0215916|tt0214583|tt0214839|tt0351632
+nm0332866,Aron Govil,\N,\N,producer|director|actor,tt1847736|tt1528282|tt1038915
+nm0332950,Ashutosh Gowariker,1964,\N,writer|actor|producer,tt8176040|tt0169102|tt0367110|tt0449994
+nm0333031,O.P. Goyle,\N,\N,assistant_director|actor|producer,tt0796808|tt0069751|tt3736942|tt0354662
+nm0346618,Dulal Guha,1928,2001,director|writer|producer,tt0216110|tt0059023|tt0215714|tt0216171
+nm0347899,Gulzar,1934,\N,music_department|writer|soundtrack,tt0091256|tt1010048|tt3390572|tt2176013
+nm0348136,Gunjal,1904,1968,director|producer,tt0390912|tt0216007|tt0215742|tt0215522
+nm0348472,Hemen Gupta,1912,1967,director|writer|producer,tt0215890|tt0215515|tt0215457|tt0055039
+nm0348495,Sanjay Gupta,\N,\N,writer|director|producer,tt0488906|tt0430381|tt4323504|tt0294662
+nm0352032,Kamal Haasan,1954,\N,actor|music_department|writer,tt0222012|tt0479651|tt0364647|tt2199711
+nm0359489,Vipin Handa,\N,\N,director|writer|music_department,tt0271243
+nm0361407,Jugal Hansraj,1972,\N,actor|director|writer,tt0085913|tt1050739|tt0456165|tt1351224
+nm0363029,K. Hariharan,\N,\N,producer|director|actor,tt0309580|tt3766460|tt0273513|tt0103124
+nm0363056,Tara Harish,\N,\N,director|actress|producer,tt0399394|tt0135399|tt0371765|tt0391833
+nm0385758,Arjun Hingorani,\N,\N,director|producer|actor,tt0271023|tt0367921|tt1454012|tt0383611
+nm0385760,Sunil Hingorani,\N,\N,director|writer,tt0095955|tt0496523|tt0363739
+nm0386246,Rajkumar Hirani,1962,\N,writer|editor|director,tt0456144|tt0374887|tt1187043|tt2338151
+nm0403826,Nasir Hussain,1926,2002,writer|director|producer,tt0230348|tt0104561|tt0066888|tt0095936
+nm0403967,M.F. Hussain,1915,2011,writer|director|art_department,tt1756673|tt0232801|tt0221982|tt0366761
+nm0403970,Mohammed Hussain,1918,\N,director|actor|cinematographer,tt0175608|tt0230717|tt0230771|tt0230787
+nm0404014,Waris Hussein,1938,\N,director|actor|writer,tt0067601|tt0065085|tt0088951|tt0080212
+nm0408371,Shafi Inamdar,1945,1996,actor|director|writer,tt0294230|tt0099652|tt0135666|tt0286705
+nm0409790,Honey Irani,1955,\N,writer|actress|assistant_director,tt0250483|tt0254481|tt0234000|tt0102258
+nm0409791,Indra Kumar,\N,\N,director|producer|actor,tt0845448|tt0099429|tt0461323|tt0114230
+nm0410870,B.R. Ishara,1934,2012,director|writer|assistant_director,tt0230313|tt0230607|tt0231204|tt0230389
+nm0411185,Yogesh Ishwar,\N,\N,writer|assistant_director|producer,tt0315642|tt2503954|tt3876876|tt0254927
+nm0411186,Ishwarlal,1911,1969,actor|director|producer,tt0230410|tt0175785|tt0230700|tt0231732
+nm0411539,Puneet Issar,1959,\N,actor|director|writer,tt1504687|tt0158417|tt0297416|tt0415003
+nm0411541,Sudesh Issar,\N,\N,director|assistant_director|actor,tt0091312|tt0482673|tt0359534|tt0055949
+nm0412465,James Ivory,1928,\N,director|writer|producer,tt5726616|tt0091867|tt0104454|tt0107943
+nm0415514,Rumi Jaffery,\N,\N,writer|actor|director,tt0284328|tt0476550|tt0118673|tt0119285
+nm0415556,Jagdeep,1939,\N,actor|music_department|soundtrack,tt0213500|tt0073707|tt0109117|tt0096140
+nm0415833,Jainendra Jain,\N,\N,writer|director|music_department,tt0121352|tt0078204|tt0374271|tt0359492
+nm0416225,Jambulingam,\N,\N,director|make_up_department|writer,tt3516088|tt0175448|tt0389178|tt0290783
+nm0417562,Talat Jani,\N,\N,director|assistant_director|writer,tt0809515|tt10116026|tt0193449|tt0173301
+nm0419365,Nandlal Jaswantlal,1907,1961,director|producer,tt0139583|tt0045506|tt0048410|tt0230384
+nm0422551,Piyush Jha,\N,\N,director|writer|actor,tt0198364|tt1241334|tt1278447|tt0388181
+nm0422552,Prakash Jha,1952,\N,director|producer|writer,tt1291465|tt0373856|tt0451631|tt0119720
+nm0422559,Raghunath Jhalani,1933,\N,director|assistant_director|writer,tt0069711|tt0229952|tt0230028|tt0077200
+nm0422689,Jijo Punnoose,\N,\N,producer|director|assistant_director,tt10345546|tt0215023|tt0318122|tt0280968
+nm0423656,Joginder Shelly,\N,2009,actor|director|miscellaneous,tt0481897|tt1235441|tt0158356|tt1176126
+nm0423660,Vasant Joglekar,1914,1993,director|producer|actor,tt0230176|tt0230418|tt0230213|tt0056805
+nm0424102,I.S. Johar,1920,1984,actor|writer|director,tt0077413|tt0231592|tt0154685|tt0056172
+nm0424103,Karan Johar,1972,\N,producer|actor|writer,tt0347304|tt0172684|tt1188996|tt0248126
+nm0430782,Joshiy,\N,\N,director,tt0292142|tt0249364|tt0246809|tt0928191
+nm0430799,Madan Joshi,\N,\N,writer|actor|director,tt0069711|tt0099929|tt0071541|tt0451614
+nm0432497,Tony Juneja,\N,\N,director|producer|assistant_director,tt0178209|tt0110140|tt3876936|tt0079584
+nm0433893,K.S. Ravikumar,\N,\N,director|actor|writer,tt0213969|tt0479651|tt0442781|tt2621382
+nm0434275,Jagdish Kadar,\N,\N,director|writer,tt0275466
+nm0435753,Kalidas,\N,\N,director|producer|actor,tt0139065|tt0430561|tt0051340|tt0056052
+nm0436202,Kalpataru,1937,\N,director|writer,tt0231453|tt0232132|tt0232573|tt0231901
+nm0436382,Kamal,1957,\N,director|writer|assistant_director,tt0314366|tt2717168|tt0355410|tt0292300
+nm0437031,S.R. Puttana Kanagal,1933,1985,director|writer,tt0231455|tt0232152|tt0232515|tt0232977
+nm0437792,Thampi Kannanthanam,\N,2018,director|producer|writer,tt0282889|tt0352460|tt0271342|tt0288153
+nm0438029,Raj Kanwar,1961,2012,director|writer|producer,tt0444840|tt0272062|tt0116690|tt0286724
+nm0438030,Sohanlal Kanwar,\N,\N,producer|director|assistant_director,tt0073657|tt0246848|tt0149814|tt0374112
+nm0438089,Aatish Kapadia,\N,\N,writer|producer|soundtrack,tt1738293|tt0306434|tt1727829|tt0390614
+nm0438461,Abhishek Kapoor,\N,\N,director|writer|actor,tt2213054|tt4399594|tt7027278|tt1230165
+nm0438467,Bharat Kapoor,\N,\N,actor|director,tt0096139|tt0364228|tt0186850|tt0366761
+nm0438479,Kedar Kapoor,1927,1987,director|producer,tt0231344|tt0232288|tt0232583|tt1350913
+nm0438488,Pankaj Kapur,1954,\N,actor|director|writer,tt0379370|tt0290820|tt0083987|tt0292829
+nm0438494,Rajat Kapoor,1961,\N,actor|director|writer,tt1014672|tt0377131|tt1286766|tt3614516
+nm0438497,Rajiv Kapoor,1962,\N,actor|producer|assistant_director,tt0117374|tt0149568|tt0084532|tt0121352
+nm0438499,Ranjit Kapoor,\N,\N,writer|director|actor,tt0110222|tt0249588|tt0319736|tt0293342
+nm0438501,Rishi Kapoor,1952,\N,actor|soundtrack|music_department,tt1275863|tt1849718|tt2176013|tt4900716
+nm0439074,Abdul Rashid Kardar,1904,1989,director|producer|writer,tt0231218|tt0232253|tt0048816|tt0130643
+nm0439731,Radhu Karmakar,\N,\N,cinematographer|director,tt0048613|tt0078204|tt0053965|tt0066070
+nm0439784,Girish Karnad,1938,2019,actor|writer|director,tt0076089|tt0078030|tt0075747|tt2016894
+nm0440267,Shaji N. Karun,1950,\N,cinematographer|director|writer,tt0111332|tt1430096|tt0202055|tt0095872
+nm0440424,Girish Kasaravalli,1950,\N,director|writer|producer,tt1437827|tt1794825|tt0330241|tt0944961
+nm0440604,Anurag Kashyap,1972,\N,producer|writer|director,tt1327035|tt1639426|tt3322420|tt1954470
+nm0440605,D.D. Kashyap,1910,1988,director|writer|producer,tt0139303|tt0232624|tt0232066|tt0231215
+nm0442390,Arun Kaul,1933,2007,director|miscellaneous|writer,tt0091256|tt0068531|tt0097045|tt0246567
+nm0442391,Awtar Krishna Kaul,1939,1974,director|writer|assistant_director,tt0065484|tt0071083
+nm0442395,Mahesh Kaul,1911,1972,director|producer|writer,tt0062897|tt0176074|tt0232759|tt0231817
+nm0442472,Raj Kaushal,\N,\N,director|producer|actor,tt0800981|tt0275608|tt0387047|tt0414503
+nm0442479,Satish Kaushik,1956,\N,actor|director|producer,tt0940585|tt0085743|tt0374271|tt0098168
+nm0450200,Keshu Ramsay,\N,2010,producer|director|cinematographer,tt0290429|tt0261001|tt0104927|tt0347332
+nm0451099,S. Khalil,\N,\N,writer|director,tt0371558|tt0177502|tt0435079|tt0057882
+nm0451148,Aamir Khan,1965,\N,actor|producer|soundtrack,tt2338151|tt5074352|tt0986264|tt0169102
+nm0451155,Ahmed Khan,\N,\N,miscellaneous|director|actor,tt6843812|tt2016894|tt2372222|tt1166100
+nm0451166,Amjad Khan,1940,1992,actor|director|composer,tt0073707|tt0231416|tt0083349|tt0243395
+nm0451170,Arbaaz Khan,1967,\N,actor|producer|director,tt2112131|tt0811066|tt1620719|tt0116024
+nm0451173,Arshad Khan,\N,\N,director|writer,tt0115558|tt1629424|tt0177483|tt0349635
+nm0451211,Feroz Khan,1939,2009,actor|producer|director,tt0413984|tt0175450|tt0210920|tt0366630
+nm0451222,Hamid Ali Khan,\N,\N,director|producer,tt3813100|tt1623692|tt0225013|tt0273804
+nm0451257,Mansoor Khan,\N,\N,director|writer|assistant_director,tt0112313|tt0104561|tt0151150|tt0095936
+nm0451261,Mazhar Khan,1953,1998,actor|producer|director,tt0116391|tt0155408|tt0081491|tt4406418
+nm0451291,Raju Khan,\N,\N,miscellaneous|camera_department|director,tt0169102|tt0449994|tt4535650|tt0238936
+nm0451313,Sanjay Khan,1941,\N,director|actor|producer,tt0271421|tt0175566|tt0259170|tt0091320
+nm0451326,Sohail Khan,1969,\N,actor|producer|writer,tt1188982|tt0233856|tt0173080|tt0807758
+nm0451390,Prabhat Khanna,\N,\N,director|assistant_director,tt0096355|tt0304147
+nm0451393,Sanjay Khanna,\N,\N,director|assistant_director,tt0847180|tt0297983|tt0117623|tt0112916
+nm0451394,Sikandar Khanna,\N,\N,director|assistant_director|actor,tt0081783|tt0368079|tt0360231|tt0073837
+nm0451600,Anupam Kher,1955,\N,actor|producer|music_department,tt1045658|tt5462602|tt4169250|tt0405508
+nm0451835,Rajan Khosa,\N,\N,director|writer|actor,tt2156785|tt0118924|tt0196213|tt0392883
+nm0451844,Dwarka Khosla,1904,\N,director|writer|cinematographer,tt0232529|tt0063178|tt0231630|tt0213447
+nm0451846,Raj Khosla,1925,1991,director|writer|producer,tt0073569|tt0231150|tt0055949|tt0151466
+nm0452022,Kireet Khurana,\N,\N,producer|writer|director,tt5963908|tt6741048|tt2171840|tt0240126
+nm0457255,Jugal Kishore,\N,1979,director|actor|producer,tt0231155|tt0231567|tt0231434|tt0231898
+nm0462071,Toshiaki Kobayashi,\N,\N,animation_department|director,tt0156213|tt0151178|tt0182637|tt0182616
+nm0463315,Kuku Kohli,\N,\N,director|assistant_director|actor,tt0200435|tt0286672|tt0254683|tt0282275
+nm0463316,Kunal Kohli,\N,\N,director|writer|producer,tt0439662|tt2354407|tt1191138|tt0378072
+nm0463319,Rajkumar Kohli,1930,\N,producer|director|actor,tt0074949|tt0326983|tt0079589|tt0083608
+nm0464880,Dada Kondke,1932,1998,director|actor|writer,tt0232264|tt0231771|tt0232783|tt0231140
+nm0467680,Mahesh Kothare,\N,\N,actor|director|producer,tt5460758|tt0985641|tt1219390|tt0273707
+nm0471426,Pradip Krishen,1949,\N,director|writer|editor,tt0268382|tt0104176|tt0234211|tt0233926
+nm0471443,Manmohan Krishna,1922,1990,actor|director|writer,tt0052736|tt0150251|tt0239452|tt0374033
+nm0471452,Suresh Krishna,\N,\N,director|writer|assistant_director,tt0814295|tt0355914|tt0320421|tt0139876
+nm0471471,R. Krishnamurthy,\N,\N,director|editorial_department,tt0429060|tt0364236|tt0364698|tt0187576
+nm0471487,R. Krishnan,1909,1997,director,tt0234700|tt0233650|tt0234195|tt0234959
+nm0471499,Priya Krishnaswamy,\N,\N,editor|director|writer,tt2766336|tt2766478|tt9277762|tt2624852
+nm0474398,Nagesh Kukunoor,\N,\N,director|writer|actor,tt2976176|tt4088588|tt0338490|tt0453729
+nm0474405,Raghuvir Kul,\N,\N,director,tt0093555
+nm0474610,Chandrakant Kulkarni,\N,\N,director|actor|writer,tt1206310|tt3345830|tt0272001|tt0984056
+nm0474775,Amar Kumar,\N,\N,director|actor|writer,tt1058549|tt0059445|tt0064856|tt0175908
+nm0474791,B.H. Tharun Kumar,\N,\N,miscellaneous|director|art_department,tt0115009|tt0109116|tt0291376|tt0109555
+nm0474797,Dharam Kumar,1919,1993,director,tt0176110|tt0213737|tt0214059|tt2761622
+nm0474806,Gulshan Kumar,1951,1997,producer|actor|miscellaneous,tt0101733|tt0439464|tt1156148|tt6836936
+nm0474807,Harbance Kumar,1937,\N,director|writer|producer,tt0066299|tt0237304|tt0796351|tt0408614
+nm0474822,Kishore Kumar,1929,1987,music_department|soundtrack|actor,tt0084385|tt0065416|tt0077451|tt0073707
+nm0474823,Kranthi Kumar,\N,2003,producer|director|writer,tt0253667|tt1630249|tt1675735|tt0092033
+nm0474827,Kundan Kumar,\N,1979,director|producer,tt0177497|tt0233774|tt0176003|tt0233227
+nm0474837,Mehul Kumar,1949,\N,director|writer|producer,tt0313395|tt1408029|tt0119721|tt0110280
+nm0474839,Mohan Kumar,1934,2017,writer|producer|director,tt0233202|tt0053566|tt0178192|tt0233182
+nm0474840,Naresh Kumar,\N,\N,director|producer|writer,tt0374033|tt0413984|tt0175420|tt0262446
+nm0474844,Padam Kumar,\N,\N,producer|director|writer,tt0476791|tt1773628|tt0270880|tt0362204
+nm0474848,Pawan Kumar,\N,\N,producer|director|writer,tt8171788|tt0798761|tt0215338|tt0424491
+nm0474850,Pradeep Kumar,1925,2001,actor|producer|director,tt0057555|tt0242636|tt0060319|tt0129370
+nm0474856,Rajeev Kumar,\N,\N,director|writer|producer,tt3330482|tt0255543|tt0292176|tt0357154
+nm0474859,Rakesh Kumar,\N,\N,director|writer|actor,tt0076259|tt0083349|tt0079584|tt0080638
+nm0474860,Ram Kumar,\N,\N,actor|make_up_department|producer,tt0390139|tt0284411|tt0157127|tt0139045
+nm0474861,Raman Kumar,\N,\N,writer|director|actor,tt0476861|tt0395702|tt0366935|tt0341554
+nm0474868,Roopesh Kumar,\N,\N,actor|director|producer,tt0358043|tt0239495|tt0237098|tt0066766
+nm0474879,Satish Kumar,\N,\N,assistant_director|actor|director,tt0358043|tt0372349|tt0257475|tt0072100
+nm0474885,Shanti Kumar,\N,\N,director|composer|music_department,tt0414264|tt0178190|tt0377500|tt9477070
+nm0474903,Swaroop Kumar,\N,\N,director|assistant_director|actor,tt0390405|tt0102160|tt1062967|tt0363876
+nm0474909,Vimal Kumar,\N,\N,director|producer|miscellaneous,tt0121232|tt0286910|tt0402606|tt0338855
+nm0474913,Vinod Kumar,\N,\N,writer|director|assistant_director,tt0428820|tt0154706|tt0232288|tt0290763
+nm0482224,Ramesh Lakhanpal,\N,\N,director|producer,tt0358029|tt0077789
+nm0482232,Apoorva Lakhia,\N,\N,director|writer|miscellaneous,tt0811066|tt0457875|tt0169102|tt6512784
+nm0482425,K.B. Lall,1911,1975,director|writer|producer,tt0141534|tt0176101|tt0139416|tt0134701
+nm0490178,Shaheed Latif,1913,1967,director|writer,tt0235094|tt0052220|tt0060145|tt0042207
+nm0493923,Kalpana Lajmi,1954,2018,director|writer|producer,tt0233635|tt0273164|tt0454429|tt0108001
+nm0509409,Robert Lieberman,\N,\N,director|producer|writer,tt1462059|tt2315896|tt0106912|tt3230854
+nm0521921,Wilson Louis,\N,\N,visual_effects|writer|director,tt0254481|tt0937364|tt0190419|tt1808221
+nm0527453,Milan Luthria,\N,\N,director|assistant_director|producer,tt1395054|tt1954206|tt10761694|tt4906960
+nm0528337,Jennifer Lynch,1968,\N,director|writer|producer,tt0106471|tt1989475|tt0409345|tt0090756
+nm0534877,Madhusudan,\N,\N,director|writer|producer,tt2301141|tt0386290|tt0364513|tt0053767
+nm0534879,Ram Madhvani,\N,\N,director|assistant_director|producer,tt0248185|tt0339296|tt0986264|tt5286444
+nm0536705,Ananth Narayan Mahadevan,1950,\N,actor|director|writer,tt0885398|tt1804604|tt1245732|tt0476729
+nm0536818,Balu Mahendra,1939,2014,director|cinematographer|writer,tt0235858|tt0235522|tt0187318|tt0235891
+nm0536899,Ram Maheshwari,\N,\N,director|writer|producer,tt0367927|tt0370392|tt0148523|tt0142681
+nm0538297,Phani Majumdar,1911,1994,director|writer|assistant_director,tt0235963|tt0236554|tt0236281|tt0236210
+nm0538305,Sushil Majumdar,1906,1988,director|actor|writer,tt0237037|tt0237394|tt0061474|tt0237367
+nm0538306,Tarun Majumdar,1931,\N,director|writer|music_department,tt0237254|tt0236958|tt0237499|tt4771706
+nm0539491,Harmesh Malhotra,1936,2005,director|producer|writer,tt0237021|tt0237437|tt0237564|tt0104404
+nm0539495,Naresh Malhotra,\N,\N,assistant_director|editor|director,tt5074740|tt0111793|tt0330217|tt0286421
+nm0539573,Girish Malik,\N,\N,actor|director|writer,tt0105394|tt2708550|tt0110280|tt7805960
+nm0539781,Sameer Malkan,\N,\N,director|assistant_director|writer,tt0286752|tt0252974|tt0337613|tt0135393
+nm0542478,Manivannan,1954,2013,actor|director|writer,tt0319588|tt10225748|tt1784557|tt0309925
+nm0542498,Mahesh Manjrekar,1953,\N,actor|writer|director,tt0261545|tt1010048|tt0220832|tt0273884
+nm0542624,Nitin Manmohan,\N,\N,producer|miscellaneous|director,tt0130197|tt0100092|tt0366985|tt0172188
+nm0558393,Mahesh Mathai,\N,\N,director|producer|cinematographer,tt7010128|tt0281656|tt0479178|tt4774380
+nm0559877,John Mathew Matthan,\N,\N,director|writer|assistant_director,tt0200087|tt4479178|tt0083987|tt0475627
+nm0561360,Raju Mavani,1957,2019,actor|producer|director,tt0483786|tt0121395|tt0286723|tt0343048
+nm0576454,Mehmood,1932,2004,actor|music_department|director,tt0071730|tt0109117|tt0068305|tt0327648
+nm0576479,Kamal Mehra,\N,\N,actor|producer|director,tt0373157|tt0230717|tt0213773|tt0395675
+nm0576488,Prakash Mehra,1939,2009,director|music_department|producer,tt0239452|tt0239654|tt0105897|tt0082644
+nm0576491,Rajiv Mehra,\N,\N,producer|director|writer,tt0126234|tt1592812|tt0292829|tt1979209
+nm0576494,Umesh Mehra,1953,\N,director|writer|producer,tt0196635|tt0309087|tt0246729|tt0152509
+nm0576495,Vinod Mehra,1945,1990,actor|music_department|director,tt0314487|tt0154695|tt0187109|tt0231416
+nm0576540,Anil Mehta,\N,\N,cinematographer|director|actor,tt0150992|tt0169102|tt0347304|tt0420332
+nm0576543,Ashok Mehta,1947,2012,cinematographer|camera_department|director,tt0081968|tt0346723|tt0119239|tt0301240
+nm0576548,Deepa Mehta,1950,\N,director|producer|writer,tt1146285|tt0240200|tt0303785|tt0116308
+nm0576554,Hansal Mehta,\N,\N,director|producer|writer,tt5121000|tt6978268|tt2181831|tt3709344
+nm0576559,Ketan Mehta,1952,\N,director|writer|producer,tt0137100|tt0346457|tt0089599|tt0080435
+nm0576587,Vijaya Mehta,1934,\N,director|actress|writer,tt0080982|tt0248289|tt0240849|tt0095857
+nm0578604,Jana Sue Memel,\N,\N,producer|writer|director,tt0175336|tt0093826|tt0113653|tt0108174
+nm0578628,Ismail Memon,\N,\N,director|writer|producer,tt0139107|tt0388893|tt2162651|tt0079614
+nm0580337,Ismail Merchant,1936,2005,producer|director|actor,tt0107943|tt0091867|tt0104454|tt0282771
+nm0583292,Nicholas Meyer,1945,\N,writer|producer|director,tt0084726|tt0102975|tt0092007|tt0080025
+nm0583894,Vijay Mhatre,\N,\N,director,tt0274888
+nm0592583,Aziz Mirza,\N,\N,director|writer|actor,tt0120540|tt0222270|tt0173102|tt0346723
+nm0592588,H.M. Mirza,\N,\N,writer|director|visual_effects,tt0403276|tt0350030|tt0473444|tt0823252
+nm0592595,Saeed Akhtar Mirza,1943,\N,director|writer|producer,tt0087736|tt0077179|tt0241914|tt0080343
+nm0592803,Sudhir Mishra,\N,\N,director|writer|actor,tt0366276|tt0104098|tt1221147|tt0411469
+nm0592891,Kewal Misra,\N,\N,director|actor|producer,tt0374066|tt0367662|tt0176134|tt0381144
+nm0592893,Sisir Misra,1942,\N,writer|director|actor,tt1459956|tt0242311|tt0242314|tt0242838
+nm0592985,Babubhai Mistry,1918,2010,special_effects|director|art_director,tt0242840|tt0242504|tt0242576|tt0242832
+nm0592991,Fali Mistry,1919,1979,cinematographer|director|producer,tt0059246|tt0154685|tt0298327|tt0386542
+nm0592996,Raksha Mistry,\N,\N,assistant_director|director|producer,tt0232079|tt0833484|tt0254481|tt1603862
+nm0593945,Bibhuti Mitra,1915,1989,director|producer,tt0242301|tt0052065|tt0242639|tt0242836
+nm0593963,Sombhu Mitra,1915,1997,actor|director|writer,tt0243557|tt0215457|tt0047215|tt0049378
+nm0593967,Shibu Mitra,1947,\N,director|editor|writer,tt0368465|tt0243358|tt0243587|tt0364615
+nm0595271,Sohrab Modi,1897,1984,actor|director|producer,tt0274577|tt0031829|tt0243340|tt0137958
+nm0595917,Ram Mohan,\N,\N,director|art_department|miscellaneous,tt0259356|tt0259366|tt0259534|tt0259603
+nm0595924,Surendra Mohan,\N,\N,director|producer|actress,tt0368079|tt0317637|tt0097513|tt0089785
+nm0596008,Madan Mohla,\N,\N,producer|director,tt0102073|tt0359135|tt0358063|tt0279021
+nm0596237,Amit Mitra,\N,\N,director|writer,tt0315747|tt0243557|tt0049378
+nm0600793,Govind Moonis,\N,2010,writer|director|assistant_director,tt0146645|tt0156923|tt0256951|tt0448374
+nm0609359,Motilal,1910,1965,actor|director|writer,tt0252318|tt0047990|tt0158908|tt0231764
+nm0611521,Desh Mukherjee,\N,\N,art_director|art_department|production_designer,tt0076177|tt0060689|tt0054910|tt0446889
+nm0611527,Gyan Mukherjee,1909,1956,director|writer|producer,tt0244182|tt0033772|tt9477376|tt0139608
+nm0611531,Hrishikesh Mukherjee,1922,2006,director|editor|writer,tt0066763|tt0137362|tt0137361|tt0147855
+nm0611535,Joy Mukherjee,1939,2012,actor|director|producer,tt0063111|tt0214639|tt0257475|tt0055949
+nm0611542,Prabhat Mukherjee,1917,1997,director|writer,tt0232484|tt1920854|tt1402504|tt1402536
+nm0611548,Rajat Mukherjee,\N,\N,director|writer,tt3568970|tt0315632|tt0281102|tt0405121
+nm0611550,Ram Mukherjee,\N,2017,director|writer|actor,tt0053928|tt0058287|tt0364069|tt4192340
+nm0611562,Shankar Mukherjee,\N,\N,director|producer,tt0072972|tt0275217|tt0055767|tt0274743
+nm0611582,Subodh Mukherji,1921,2005,producer|director|writer,tt0050829|tt0244977|tt0055035|tt0178218
+nm0612280,Amar Mullick,1899,1972,actor|director|writer,tt0245142|tt0244991|tt0245089|tt0244948
+nm0612730,Jag Mundhra,1948,2011,director|writer|editor,tt0110118|tt0119357|tt0095400|tt0280465
+nm0613517,K. Muralimohana Rao,\N,\N,director,tt0273452|tt0432114|tt0363567|tt0102706
+nm0616107,A. Muthu,\N,\N,editor|director|editorial_department,tt0115009|tt0156985|tt0445056|tt0250774
+nm0618898,Sajid Nadiadwala,\N,\N,producer|writer|director,tt2372222|tt2980794|tt6843812|tt7721946
+nm0619048,Biren Nag,\N,\N,art_director|director|writer,tt0049041|tt0055783|tt0058270|tt0051806
+nm0619050,Hiren Nag,\N,\N,director|writer|assistant_director,tt1253578|tt1538220|tt0165625|tt1538229
+nm0619053,Shankar Nag,1954,1990,actor|director|writer,tt2355603|tt0245222|tt0245333|tt0245156
+nm0619054,Sudarshan Nag,\N,\N,cinematographer|director,tt0358950|tt0359473|tt0095010|tt0359962
+nm0619102,Ravikant Nagaich,1931,1991,director|cinematographer|special_effects,tt0246261|tt0246086|tt0068938|tt0246286
+nm0619656,D. Rama Naidu,1936,2015,producer|actor|director,tt0072026|tt0091267|tt0154201|tt0363567
+nm0619667,Sriramulu Naidu S.M.,\N,\N,director|producer|writer,tt0333712|tt0334624|tt1440214|tt0131852
+nm0619762,Mira Nair,1957,\N,director|producer|actress,tt0096028|tt2032557|tt0265343|tt0102456
+nm0619777,Shashilal K. Nair,\N,\N,director|assistant_director|producer,tt0227194|tt3032264|tt0099953|tt0103689
+nm0620787,J.K. Nanda,1904,1983,director|writer|actor,tt0137958|tt0246453|tt0246845|tt0134615
+nm0620788,Prashant Nanda,1947,\N,writer|actor|director,tt1423972|tt0312945|tt1407242|tt1409107
+nm0621187,Najam Naqvi,1913,1982,director|actor|assistant_director,tt0247681|tt0032951|tt1502901|tt1620552
+nm0621189,Yusuf Naqvi,\N,\N,director|writer|assistant_director,tt0775088|tt0274086|tt0053767|tt0177504
+nm0621210,S.D. Narang,1918,1986,director|producer|actor,tt0247296|tt0247291|tt0246923|tt0247680
+nm0621261,Chitrapu Narayana Rao,1913,1985,director|producer,tt0247203|tt0247465|tt0247682|tt0247202
+nm0623178,Raja Nawathe,1924,2005,director|assistant_director|editor,tt0045467|tt0247502|tt0247394|tt0176012
+nm0623320,R.K. Nayyar,\N,\N,director|assistant_director|producer,tt0302955|tt0397743|tt0318405|tt0300033
+nm0623321,Sadhana,1941,2015,actress|director|soundtrack,tt0058921|tt0232960|tt0071541|tt0059893
+nm0626047,Raja Nene,1912,1975,director|actor|assistant_director,tt0247974|tt0248343|tt0037209|tt0247977
+nm0631539,Govind Nihalani,1940,\N,cinematographer|director|writer,tt0080322|tt0247896|tt0085178|tt0364303
+nm0633106,Eeshwar Nivas,\N,\N,director|writer|producer,tt0220757|tt8884100|tt0845492|tt0314006
+nm0634782,Tabrez Noorani,\N,\N,producer|director|miscellaneous,tt1790885|tt3823392|tt1010048|tt0454876
+nm0644513,Takeshi Ogasawara,\N,2011,director,tt0156213|tt0182637|tt0111919|tt0151178
+nm0645350,S.K. Ojha,1921,1980,director|writer|producer,tt0176272|tt0177482|tt0133014|tt0248218
+nm0645802,Atsuo Okunaka,1930,2012,director,tt0156675|tt0185062|tt0182628|tt0182555
+nm0654908,P. Sambasiva Rao,\N,\N,director|writer,tt1437619|tt0246012|tt0371974|tt0490082
+nm0657168,Kuljit Pal,\N,\N,producer|director|writer,tt0367661|tt0083578|tt0254843|tt0368125
+nm0657505,Amol Palekar,1944,\N,actor|director|writer,tt0249386|tt0196324|tt0293304|tt0079221
+nm0657706,Nitai Palit,1923,1990,director|writer|producer,tt0249385|tt0249469|tt0249384|tt0249778
+nm0659023,Pan Nalin,\N,\N,writer|director|producer,tt0392883|tt0221809|tt0196069|tt3368222
+nm0659225,Vinod Pande,\N,\N,director|actor|producer,tt0249492|tt0448121|tt10652948|tt1047519
+nm0659549,S. Panju,1915,1984,director,tt0234195|tt0233650|tt0234959|tt0234700
+nm0659849,B. Ramakrishnaiah Panthulu,1910,1974,director|actor|producer,tt0250461|tt0250339|tt0250240|tt0250317
+nm0660936,Sai Paranjape,1938,\N,director|writer|music_department,tt1772781|tt0082162|tt0099437|tt0079938
+nm0660967,Pankaj Parashar,\N,\N,director|writer|special_effects,tt0093293|tt0310254|tt0178211|tt0122427
+nm0665354,B.J. Patel,\N,\N,director,tt3083824|tt0410064|tt2761564|tt0778828
+nm0665374,Jabbar Patel,1942,\N,director|writer|producer,tt0192566|tt0084840|tt0251067|tt0191456
+nm0665548,Neeraj Pathak,\N,\N,writer|director|music_department,tt1372694|tt2150177|tt0119861|tt1191130
+nm0666674,Anand Patwardhan,1950,\N,director|editor|producer,tt0088837|tt2157192|tt0105208|tt0110839
+nm0670262,Ravindra Peepat,\N,\N,director|producer|writer,tt0352489|tt0317569|tt0089465|tt0390400
+nm0677501,Yeshwant Pethkar,1913,\N,director|writer,tt0253676|tt0140813|tt0253906|tt0252184
+nm0684314,Ravi Raja Pinisetty,\N,\N,director|writer|producer,tt0292437|tt1431723|tt8747280|tt1798189
+nm0693092,Prathap Pothen,1952,\N,actor|director|writer,tt0254247|tt0254394|tt0156126|tt0254562
+nm0694985,Binod Pradhan,\N,\N,cinematographer|camera_department|miscellaneous,tt2356180|tt0238936|tt0405508|tt0374887
+nm0695153,T. Prakash Rao,1924,1992,director|assistant_director|writer,tt0254698|tt0061046|tt0254081|tt0254842
+nm0695162,J. Om Prakash,1927,2019,director|producer|miscellaneous,tt0778604|tt0247915|tt0130731|tt0178204
+nm0695170,Om Prakash,1919,1998,actor|director|producer,tt0084385|tt0176075|tt0057332|tt0214653
+nm0695171,Prem Prakash,\N,\N,actor|producer|assistant_director,tt0276861|tt4760108|tt0069871|tt1401121
+nm0695175,Suraj Prakash,1931,\N,director|editor|producer,tt0377737|tt0956298|tt0305689|tt0178181
+nm0695262,K. Prasad,\N,\N,director|writer|cinematographer,tt0366663|tt0270092|tt0390666|tt3395024
+nm0695264,L.V. Prasad,1908,1994,director|producer|actor,tt0148353|tt0050956|tt0255267|tt0246462
+nm0695328,S.R. Pratap,\N,\N,director|writer,tt0363799|tt7518742|tt0270820|tt2707976
+nm0695581,Kolli Pratyagatma,1925,2001,director|writer|producer,tt0213973|tt0213515|tt0214037|tt0213475
+nm0698184,Priyadarshan,\N,\N,director|writer|actor,tt0437238|tt0995031|tt0242519|tt1286811
+nm0698661,Vasili Pronin,1905,1966,director|cinematographer,tt0050820|tt7638068|tt0174810|tt4601014
+nm0700572,Ratilal Hemchand Punatar,1913,\N,director,tt0256042|tt0256230|tt0256172|tt0256064
+nm0700872,Puri Jagannadh,1966,\N,writer|director|producer,tt0816258|tt1869296|tt2071613|tt0940641
+nm0700880,Sanjeev Puri,\N,\N,writer|actor|director,tt0363409|tt0083987|tt0391536|tt0363413
+nm0704694,Vijay Raaz,\N,\N,actor|director,tt0411815|tt1934231|tt0265343|tt0377131
+nm0705555,Radhakant,\N,\N,director|producer,tt0256100|tt0256483|tt0256429|tt0256355
+nm0706480,Vedantam Raghavaiah,1919,1971,director|miscellaneous|actor,tt0257203|tt0257209|tt0395928|tt0256719
+nm0706484,K. Raghavendra Rao,\N,\N,director|producer|writer,tt2631186|tt0258045|tt0459554|tt4849438
+nm0706491,A.T. Raghu,\N,\N,director|writer,tt0268456|tt0388691|tt7932864|tt0278528
+nm0706800,Rajiv Rai,1955,\N,director|writer|editor,tt0285958|tt0119239|tt0110546|tt0100816
+nm0707274,Prayag Raj,\N,\N,writer|actor|director,tt0082797|tt0187043|tt0085361|tt0318584
+nm0707300,Bharathiraja,1941,\N,director|writer|actor,tt0113530|tt0089646|tt0155481|tt0140448
+nm0707382,Aruna Raje,1946,\N,writer|director|editor,tt0259541|tt0259571|tt0286505|tt0402607
+nm0707393,C.V. Rajendran,\N,2018,director|writer|actor,tt0281091|tt1364216|tt0290622|tt0279491
+nm0707494,K.V. Raju,\N,\N,director|writer,tt1319171|tt0403705|tt4559190|tt0102119
+nm0707533,G. Rakesh,\N,\N,director,tt0404197|tt0042225
+nm0707543,Rakhan,\N,\N,director|writer,tt0424825|tt0425385|tt0048410
+nm0707705,O.P. Ralhan,1928,1999,actor|writer|director,tt0139525|tt0065064|tt0076515|tt0215859
+nm0707856,Atma Ram,1930,1994,director|producer|assistant_director,tt0069522|tt0155076|tt0155079|tt0154865
+nm0707988,M.V. Raman,1913,\N,director|editor|producer,tt0259494|tt0259492|tt0048479|tt0065927
+nm0708001,S. Ramanathan,1929,2013,director|producer|miscellaneous,tt6567340|tt0068305|tt0361508|tt0253691
+nm0708014,Ramanna,\N,\N,director|writer,tt0317859|tt2215343|tt0290772|tt0352511
+nm0708451,K. Ramnoth,1912,1956,director|cinematographer|writer,tt0259881|tt0260399|tt0260163|tt0260168
+nm0708899,Kiran Ramsay,\N,\N,sound_department|producer|director,tt0347332|tt0107440|tt0273045|tt0261001
+nm0708913,Shyam Ramsay,1952,2019,director|editor|writer,tt0259877|tt3592020|tt0260494|tt0260098
+nm0708917,Tulsi Ramsay,1944,2018,director|producer|production_designer,tt0260494|tt0259877|tt0260098|tt0260411
+nm0710043,Bharat Rangachary,1953,1995,director|assistant_director|miscellaneous,tt0390667|tt0117878|tt0135666|tt0290331
+nm0710138,Manohar Nath Rangroo,\N,\N,director|assistant_director,tt0154706|tt0277761
+nm0710211,Ranjeet,1946,\N,actor|director|producer,tt0378156|tt0258647|tt0233202|tt0084385
+nm0710563,Kamalakara Kameshwara Rao,1911,1999,director|assistant_director|writer,tt1865426|tt0263992|tt0263687|tt0263623
+nm0710615,V. Madhusudan Rao,1917,2012,director|writer|assistant_director,tt0263915|tt0371968|tt0263022|tt0186872
+nm0710622,Y.V. Rao,1903,1973,director|actor|writer,tt0265704|tt0266002|tt0259607|tt0264830
+nm0711745,Mani Ratnam,1955,\N,writer|director|producer,tt0312859|tt0105271|tt0499375|tt0112553
+nm0711754,Kantilal Rathod,1925,1988,director|writer|producer,tt0266885|tt0266832|tt0266681|tt0267135
+nm0712540,Harnam Singh Rawail,1921,2004,director|writer|producer,tt0266757|tt0139607|tt0266765|tt0266712
+nm0712541,Rahul Rawail,1951,\N,director|producer|assistant_director,tt0266260|tt0266752|tt0080829|tt0266439
+nm0712542,Rajat Rawail,\N,\N,actor|producer|assistant_director,tt0273535|tt1708532|tt0337749|tt0411815
+nm0712544,C.L. Rawal,\N,\N,director,tt0175835|tt0056998|tt0290393|tt0371636
+nm0712994,Sandip Ray,1953,\N,director|writer|camera_department,tt0114618|tt4320352|tt9060326|tt1593691
+nm0713587,Ali Raza,\N,\N,writer|director|miscellaneous,tt0070558|tt0136153|tt0265241|tt0341563
+nm0713615,Karan Razdan,\N,\N,writer|director|actor,tt0112916|tt0841096|tt0490170|tt0414714
+nm0714783,Vijay Reddy,\N,\N,director,tt1236202|tt0095810|tt0097813|tt0337651
+nm0720763,Revathy,1966,\N,actress|director,tt0155849|tt0291855|tt0105575|tt0319690
+nm0728263,Raj Rishi,\N,\N,director|writer|actor,tt0178202|tt0135647|tt0274477|tt0274481
+nm0729822,Sibte Hassan Rizvi,\N,\N,producer|director,tt0089382|tt0381864|tt0209263|tt0440005
+nm0740274,Pamela Rooks,1958,2010,director|writer|producer,tt0170704|tt0373779|tt0104884
+nm0746373,Sadashiv J. Row Kavi,\N,\N,producer|director,tt0364232|tt0052740|tt0138323|tt0269344
+nm0746915,Biplab Roy Chowdhury,1942,2012,director|writer|editor,tt0267372|tt0267941|tt0306468|tt0305897
+nm0746937,Ashok Roy,\N,\N,director|miscellaneous|assistant_director,tt0298952|tt0258647|tt0175530|tt0275442
+nm0746950,Bimal Roy,1909,1966,director|cinematographer|producer,tt0053319|tt0045693|tt0050665|tt0056850
+nm0747194,Sudhendu Roy,\N,\N,art_director|director|writer,tt0050665|tt0072109|tt0070637|tt0392188
+nm0751080,Chuck Russell,1958,\N,director|producer|writer,tt0116213|tt0110475|tt0093629|tt0094761
+nm0754184,S.J. Surya,\N,\N,actor|writer|director,tt6522546|tt6485666|tt0368400|tt4401884
+nm0754776,Manmohan Sabir,\N,\N,director|producer|writer,tt3908768|tt0364112|tt10133362|tt2100612
+nm0754818,Arjun Sablok,\N,\N,actor|director|writer,tt0422091|tt0248216|tt0112870|tt0470869
+nm0755113,Sachin,1957,\N,actor|director|producer,tt0482541|tt1651121
+nm0755420,Vijay Sadanah,\N,\N,director|assistant_director|producer,tt0847758|tt0246492|tt0186838|tt0359496
+nm0755500,M. Sadiq,1910,1971,director|writer|producer,tt0144603|tt0134763|tt0139048|tt0053706
+nm0755997,Ramanand Sagar,1917,2005,producer|writer|director,tt0268416|tt0058921|tt0147811|tt0268216
+nm0756313,Deepa Sahi,1962,\N,producer|actress|writer,tt3449292|tt0137100|tt1696191|tt0114031
+nm0756393,Kishore Sahu,1915,1980,actor|director|writer,tt0049412|tt0053767|tt0268349|tt0140370
+nm0756487,Naresh Saigal,\N,\N,director|writer|producer,tt0366739|tt0157132|tt0369595|tt0374146
+nm0756488,Ramesh Saigal,1918,1980,director|writer|producer,tt0048537|tt0268533|tt0065903|tt0055444
+nm0756959,Arjun Sajnani,\N,\N,director|actor|writer,tt0116743|tt0326722
+nm0757223,Yûgô Sakô,\N,2012,director|writer|producer,tt0259534|tt0296274
+nm0757398,A. Salaam,\N,\N,director|writer|producer,tt0389551|tt0177486|tt0178174|tt1736628
+nm0759662,Shakti Samanta,1926,2009,director|producer|writer,tt0065416|tt0246420|tt0066758|tt0068217
+nm0762638,Ambrish Sangal,\N,\N,director|assistant_director|actor,tt0286545|tt0440715|tt0361721|tt0338472
+nm0764314,P.L. Santoshi,1916,1978,director|writer|music_department,tt0053637|tt0268937|tt0269438|tt0134850
+nm0764316,Rajkumar Santoshi,\N,\N,writer|director|producer,tt0210609|tt0099652|tt0319736|tt0109117
+nm0764816,Govind Saraiya,1929,\N,director|producer,tt0448343|tt0269818|tt0148706|tt0269297
+nm0765039,Deepak Sareen,\N,\N,assistant_director|director,tt0359876|tt0182251|tt0118578|tt0106203
+nm0765166,Sagar Sarhadi,\N,\N,writer|director|producer,tt0074730|tt3353822|tt0126871|tt0234000
+nm0765167,Zia Sarhadi,1914,1997,director|writer|music_department,tt0273407|tt0231156|tt0132166|tt0385852
+nm0765705,Jyoti Sarup,1954,\N,director|actor|writer,tt1262868|tt1621161|tt0389586|tt0083987
+nm0765873,I.V. Sasi,1946,2017,director|producer|writer,tt0271585|tt0291855|tt0187108|tt0290098
+nm0765874,K.P. Sasi,\N,\N,director|writer|producer,tt0110107|tt0832297
+nm0765886,Koichi Saski,\N,\N,director,tt0259534
+nm0766166,M.S. Sathyu,1930,\N,director|art_director|assistant_director,tt0246942|tt0073034|tt1581311|tt0310714
+nm0768289,Amit Saxena,\N,\N,editor|director|actor,tt0307873|tt0111068|tt3044882|tt0348843
+nm0781756,Bela Segal,\N,\N,editor|director,tt0238936|tt0150992|tt2187972|tt0375611
+nm0781830,Mohan Segal,1921,2005,director|producer|actor,tt0341563|tt0049549|tt0359544|tt2113694
+nm0782244,Subhash Sehgal,\N,\N,editor|editorial_department|director,tt5052972|tt0072100|tt0209263|tt0091256
+nm0782766,Aziz Sejawal,\N,\N,director|writer|assistant_director,tt0348824|tt0152278|tt0279021|tt0099081
+nm0783995,Aravind Sen,\N,\N,director|producer|miscellaneous,tt0077183|tt0071714|tt0230345|tt3173676
+nm0784019,Mrinal Sen,1923,2018,director|writer|producer,tt0085785|tt0064086|tt0071317|tt0070498
+nm0784289,Partho Sen-Gupta,1965,\N,director|writer|art_department,tt0493315|tt0440463|tt6037866|tt2385227
+nm0786042,K.S. Sethumadhavan,1926,\N,director|writer|producer,tt1943756|tt0306098|tt0311607|tt0279017
+nm0787022,Naeem Sha,\N,\N,writer|assistant_director|director,tt0368580|tt1412775|tt0119239|tt0265452
+nm0787429,Chandulal Shah,1898,1975,director|writer|producer,tt0046155|tt0139003|tt0259557|tt0272845
+nm0787441,Harish Shah,\N,\N,producer|director,tt0340178|tt0068938|tt0358302|tt0073224
+nm0787452,Krishna Shah,1938,2013,writer|director|producer,tt0078241|tt0214591|tt0296274|tt0088706
+nm0787453,Kundan Shah,1947,2017,director|writer|producer,tt0085743|tt0110222|tt0328998|tt0249588
+nm0787457,Mahendra Shah,\N,\N,director|producer|writer,tt0105116|tt0114337|tt0390669|tt0370088
+nm0787462,Naseeruddin Shah,1950,\N,actor|music_department|director,tt0432637|tt0311429|tt1280558|tt0085743
+nm0787511,Kumar Shahani,1940,\N,director|writer|actor,tt0088227|tt0246727|tt0102191|tt0068929
+nm0787889,Shammi,1931,2018,actress|director|producer,tt0130991|tt0064506|tt0154189|tt0246286
+nm0787911,A. Shamsheer,\N,\N,director,tt0176220|tt0176327|tt5851582|tt3628770
+nm0788158,K. Shankar,1926,2006,editor|director|writer,tt0314557|tt0316521|tt0317056|tt1435454
+nm0788159,K. Ravi Shankar,\N,\N,director|producer,tt0101432|tt0327004|tt0338690|tt0359324
+nm0788171,S. Shankar,\N,\N,writer|director|producer,tt1305797|tt0482389|tt0376127|tt0097416
+nm0788391,Shantaram Rajaram Vankudre,1901,1990,director|producer|actor,tt0331417|tt0145856|tt0036343|tt0050322
+nm0788855,Abhishek Sharma,\N,\N,actor|director|writer,tt8304386|tt3848888|tt1629391|tt6826438
+nm0788858,Anil Sharma,\N,\N,director|writer|producer,tt7722258|tt0359215|tt0423313|tt0284137
+nm0788873,Devi Sharma,\N,\N,director|writer|producer,tt0219071|tt0242576|tt2782358|tt0418698
+nm0788880,Kidar Nath Sharma,1910,1999,director|writer|actor,tt0039654|tt0042233|tt0141441|tt0374154
+nm0788906,Romesh Sharma,1947,\N,actor|producer|director,tt0269234|tt0089678|tt0088687|tt0442764
+nm0788910,S. Ram Sharma,\N,\N,director|miscellaneous|assistant_director,tt0066589|tt0152256|tt0042233|tt0293589
+nm0788916,Sanjeev Sharma,\N,\N,music_department|writer|actor,tt5637188|tt1314274|tt1447508|tt1836912
+nm0788930,Vijay Sharma,\N,\N,actor|director|producer,tt0395614|tt0165805|tt0193122|tt0384219
+nm0792899,Bhaskar Shetty,\N,\N,assistant_director|director|stunts,tt0080638|tt0079584|tt0096748|tt0827765
+nm0792905,Raam Shetty,\N,\N,stunts|director|actor,tt0309618|tt1527595|tt0432385|tt1016044
+nm0794474,Shiva,\N,\N,miscellaneous|camera_department|make_up_department,tt0375611|tt0102636|tt0101887|tt1704145
+nm0794981,Roop K. Shorey,1914,1973,director|producer|actor,tt2396447|tt0331480|tt1606794|tt0364657
+nm0795430,Esmayeel Shroff,1957,\N,director|writer|assistant_director,tt0081624|tt0105007|tt0319121|tt0381864
+nm0795649,Shukla Barnali Ray,\N,\N,director|writer|assistant_director,tt5709256|tt2248929|tt1942905|tt1267400
+nm0795651,Dilip Shukla,\N,\N,writer|director,tt1620719|tt0109117|tt0416120|tt2112131
+nm0795661,Saurabh Shukla,1963,\N,actor|writer|director,tt2621000|tt1010048|tt7363076|tt0195231
+nm0795664,Vinay Shukla,\N,\N,writer|director|actor,tt1388903|tt0088687|tt0102746|tt0233808
+nm0796504,Siddique,\N,\N,writer|director|assistant_director,tt1821478|tt0242519|tt9101540|tt1729637
+nm0796505,Farogh Siddique,\N,\N,director|writer|assistant_director,tt0092026|tt0111625|tt0267617|tt0420123
+nm0799491,H.L.N. Simha,1904,1972,director|writer|actor,tt0369240|tt0370004|tt0272288|tt0830653
+nm0801870,Singeetam Srinivasa Rao,1931,\N,director|writer|actor,tt0447257|tt0249797|tt0264415|tt0251355
+nm0802084,Anup Singh,\N,\N,writer|director,tt0376589|tt7707876|tt5178120|tt2334779
+nm0802086,Anurag Singh,\N,\N,miscellaneous|cinematographer|assistant_director,tt0113526|tt0136352|tt1202540|tt0249588
+nm0802107,Dara Singh,1928,2012,actor|director|producer,tt0213300|tt0347304|tt0213108|tt0213206
+nm0802143,K.K. Singh,\N,\N,writer|director|actor,tt0395802|tt0338477|tt0110280|tt0111384
+nm0802168,Manmohan Singh,\N,\N,cinematographer|producer|director,tt1518814|tt0109555|tt0213890|tt0097045
+nm0802375,Shivendra Sinha,\N,\N,actor|director|writer,tt0165593|tt0391399|tt6509858|tt0161165
+nm0802377,Tapan Sinha,1924,2009,director|writer|composer,tt0322877|tt0049393|tt0123370|tt0345177
+nm0802379,Virendra Sinha,\N,\N,writer|director|producer,tt0077789|tt0232977|tt0156606|tt0231150
+nm0802688,G.P. Sippy,1914,2007,producer|actor|director,tt0420765|tt0152256|tt0147925|tt0073707
+nm0802692,Raj N. Sippy,\N,\N,director|assistant_director|producer,tt0084630|tt0361773|tt0102846|tt0104927
+nm0802693,Ramesh Sippy,1947,\N,director|producer|actor,tt0073707|tt0081491|tt0101284|tt0152256
+nm0802725,Puneet Sira,\N,\N,producer|actor|director,tt1369740|tt1372266|tt0379818|tt4584602
+nm0803350,Sangeeth Sivan,\N,\N,director|producer|writer,tt0493437|tt0279986|tt0290937|tt0275778
+nm0814343,Bhappi Sonie,1928,2001,director|producer|writer,tt0381079|tt0070241|tt0053791|tt0317751
+nm0814592,Bunty Soorma,\N,2002,producer|director|writer,tt0117437|tt0314006|tt0112916|tt0314186
+nm0820232,C.V. Sridhar,1933,2008,director|writer|producer,tt0139157|tt0320119|tt0176075|tt0055220
+nm0836899,Adurthi Subba Rao,1912,1975,director|writer|producer,tt0357811|tt0064244|tt0261357|tt0061974
+nm0836942,Babbar Subhash,1945,\N,director|writer|producer,tt0317312|tt1869542|tt0364049|tt0363915
+nm0837729,S. Sukhdev,1933,1979,director|cinematographer|editor,tt0361936|tt0456274|tt0233934|tt0316322
+nm0838522,Shekhar Suman,1960,\N,actor|writer|music_department,tt0100816|tt0216304|tt5525892|tt3334348
+nm0838526,Sabiha Sumar,1961,\N,director|writer|producer,tt2140371|tt1093819|tt0357283|tt1842446
+nm0839046,T.R. Sundaram,1907,1963,director|producer|actor,tt0371170|tt0061463|tt0259430|tt0369712
+nm0839348,S.U. Sunny,1915,1966,director|producer,tt0137947|tt0053999|tt0048756|tt0331186
+nm0841918,Jyoti Swaroop,\N,\N,writer|director|assistant_director,tt0063404|tt0067555|tt0084630|tt0367259
+nm0841919,Kamal Swaroop,\N,\N,director|writer|actor,tt3705084|tt3343012|tt0246825|tt0083987
+nm0848342,R.C. Talwar,1910,\N,director|producer|writer,tt0130991|tt0057024|tt0139457|tt0133187
+nm0848343,Ramesh Talwar,\N,\N,director|assistant_director|actor,tt0301231|tt0302058|tt2731270|tt0108023
+nm0848986,Hideo Tanaka,1933,2011,director|actor,tt0184925|tt0182637|tt0159213|tt7769528
+nm0849195,Lekh Tandon,1929,2017,director|actor|writer,tt0367110|tt0150417|tt0405508|tt0340091
+nm0849200,Ravi Tandon,1935,\N,director|producer|actor,tt0360170|tt0071800|tt0297731|tt0297738
+nm0850247,Sooni Taraporevala,\N,\N,writer|director|camera_department,tt4323590|tt0102456|tt1119188|tt0120848
+nm0851253,Rama Rao Tatineni,1938,\N,director|assistant_director|writer,tt0094299|tt0260144|tt0114236|tt0090958
+nm0854158,Teja,\N,\N,writer|cinematographer|director,tt2358074|tt0368896|tt2358060|tt1797416
+nm0856701,Vimal Tewari,\N,\N,director,tt0269456
+nm0856893,Anant Thakur,\N,\N,director,tt0049072|tt0135590|tt0230834|tt0045535
+nm0856901,Raja Thakur,1923,1975,director|editor,tt2624070|tt2613186|tt0073923|tt8482820
+nm0857061,B.S. Thapa,\N,\N,director|actor|writer,tt0316088|tt0073112|tt8934078|tt7051562
+nm0858235,A.C. Trilogchander,1930,2016,director|writer,tt0425531|tt0469826|tt1437598|tt0457781
+nm0858239,M.A. Thirumugham,\N,\N,director|writer|editor,tt1470925|tt0272118|tt1437599|tt0290693
+nm0862308,R. Thyagaraajan,\N,\N,director|editor,tt0374039|tt0186794|tt2975912|tt0274336
+nm0863120,Deepak Tijori,1961,\N,actor|director|producer,tt1324076|tt4857886|tt10610440|tt0354786
+nm0873035,S.N. Tripathi,1913,1988,composer|actor|director,tt0246313|tt0368196|tt0824355|tt2112252
+nm0878674,Ashok Tyagi,\N,\N,director|assistant_director|editor,tt0383876|tt0292742|tt1244864|tt0317153
+nm0880323,Milind Ukey,\N,\N,director|actor|writer,tt5065688|tt1127869|tt0824309|tt0488836
+nm0882772,Rajendra Prasad V.B.,1932,\N,producer|director|writer,tt0312445|tt0263099|tt1503097|tt0372009
+nm0882780,Swamy V.S.R.,\N,\N,cinematographer|director|camera_department,tt7860344|tt1575672|tt0246313|tt0363786
+nm0883390,Rajesh Vakil,\N,\N,assistant_director|director|writer,tt0104854|tt0154695|tt0359473|tt0350195
+nm0885537,Krishna Vamsi,1962,\N,director|writer|assistant_director,tt1579625|tt0339252|tt1183907|tt3802668
+nm0890060,Ram Gopal Varma,1962,\N,director|producer|writer,tt0187115|tt0195231|tt0114234|tt0248428
+nm0890320,S.S. Vasan,1903,1969,director|producer|writer,tt0273681|tt0361434|tt0134301|tt0378751
+nm0890566,Gennadiy Vasilev,1940,1999,director|writer,tt0103134|tt0242459|tt0084850|tt0101283
+nm0890864,P. Vasu,\N,\N,director|writer|actor,tt0449869|tt0306645|tt1339248|tt3738624
+nm0891746,A. Veerappan,1933,\N,producer|director|writer,tt0069534|tt0318604|tt0148575
+nm0891750,Veerendra,1948,1988,actor|director|writer,tt2038259|tt0454579|tt4633948|tt1529234
+nm0894340,Deven Verma,1937,2014,actor|producer|director,tt0246493|tt0158375|tt0215517|tt0320124
+nm0894346,Pappu Verma,\N,\N,stunts|producer|director,tt0361941|tt0114153|tt0404537|tt0293342
+nm0894347,Prakash Verma,\N,\N,miscellaneous|director|producer,tt0154706|tt2677190|tt0068255|tt0085129
+nm0894354,Tinnu Verma,\N,\N,stunts|actor|director,tt0347332|tt0284137|tt0109117|tt0118751
+nm0894355,Vinod K. Verma,\N,\N,assistant_director|producer|director,tt0363407|tt0363632|tt0364049|tt0399530
+nm0897196,Deepak Balraj Vij,\N,\N,director|writer|producer,tt0363481|tt0111303|tt0458027|tt0363730
+nm0897200,Vijay,\N,\N,director|actor|writer,tt1416665|tt1360153|tt1416716|tt1399055
+nm0897216,K. Vijayan,\N,\N,director|actor,tt0078761|tt10225388|tt0345939|tt0427494
+nm0899649,K. Viswanath,1930,\N,director|writer|actor,tt0079889|tt0097264|tt0249985|tt0086231
+nm0901135,Chander Vohra,\N,\N,assistant_director|director,tt0359685|tt0298582|tt0135647|tt0148375
+nm0903423,Neeraj Vora,1963,2017,actor|writer|director,tt0242519|tt0995031|tt0495034|tt0255305
+nm0904504,Sushil Vyas,\N,\N,director,tt2784620|tt0081605|tt0378967|tt2726740
+nm0904505,V.M. Vyas,1905,\N,director|cinematographer|writer,tt0378279|tt0357478|tt0373784|tt0386725
+nm0905561,Homi Wadia,1911,2004,director|producer|miscellaneous,tt0372038|tt0063178|tt0268376|tt0384109
+nm0905562,J.B.H. Wadia,1901,1986,writer|director|producer,tt0358194|tt0139443|tt0398671|tt0372038
+nm0907436,Hari Walia,\N,\N,director|producer,tt0176313|tt0318391|tt0384924
+nm0940326,Jeremy Wooding,1969,\N,director|producer|writer,tt0321494|tt0303008|tt3529110|tt6668974
+nm0944928,Raja Yagnik,\N,\N,director|producer,tt0389018|tt0155352|tt7033876|tt3638474
+nm0956511,Paul Zils,1915,1979,director|assistant_director,tt0157186|tt0156804|tt0156728|tt0275091
+nm0957168,N.K. Ziree,\N,\N,director|producer,tt0377632|tt0134840
+nm0960965,Kaushik Ghatak,\N,\N,director|writer,tt2943834|tt3636776|tt2801992|tt0853074
+nm0968648,Goldie Behl,\N,\N,producer|director|writer,tt10699044|tt6900278|tt1060249|tt0283911
+nm0971111,Deb Mukherjee,\N,\N,actor|director|producer,tt0361793|tt1274295|tt0104561|tt0360626
+nm0992027,Kamal Sadanah,1971,\N,actor|writer|director,tt3796006|tt3728376|tt5281364|tt0363455
+nm0994425,Gul Bahar Singh,\N,\N,director|executive,tt0287463|tt0332559|tt6509874|tt0284999
+nm0994603,Onir,\N,\N,producer|director|editor,tt4287778|tt1327833|tt0419992|tt1629295
+nm0996320,Gautam Adhikari,\N,\N,producer|director|writer,tt8779772|tt0350613|tt0439872|tt0286539
+nm0996494,Lateef Binny,\N,\N,assistant_director|director|writer,tt0109117|tt0217351|tt0286416|tt0099652
+nm0996945,Jyotin Goel,\N,\N,writer|director|producer,tt1633171|tt0232784|tt0286934|tt2100543
+nm0997633,Shakeel Noorani,\N,\N,producer|director|writer,tt0227496|tt0250452|tt0286478|tt0358261
+nm0997778,T.L.V. Prasad,\N,\N,director|writer|editor,tt0314938|tt0294492|tt0286891|tt0113455
+nm0999502,Rajiv Babbar,\N,\N,producer|director|writer,tt0251395|tt0349620|tt0470398|tt0287152
+nm1001810,Memon Roy,\N,\N,nan,tt0274764
+nm10023062,Pushpdeep Bhardwaj,\N,\N,director|writer,tt9074776|tt8426854
+nm1002422,Akashdeep,\N,\N,actor|director|producer,tt0395668|tt2909396|tt0362056|tt0213677
+nm1007319,Rajan Johri,\N,\N,writer|director,tt1023138|tt0288273|tt0315777
+nm1007381,Tanveer Khan,\N,\N,writer|director|actor,tt2104937|tt0946999|tt0430328|tt0133024
+nm10074951,Prince Singh,\N,\N,director,tt8897986
+nm1007581,Manobala,\N,\N,actor|director|producer,tt3711164|tt1356900|tt0320728|tt10127712
+nm1007823,Gaurav Pandey,\N,\N,writer|director|actor,tt0357208|tt4105550|tt0814012|tt4338242
+nm1011407,Irfan Kamal,\N,\N,actor|music_department|writer,tt1437367|tt1029231|tt9179426|tt1188982
+nm1014371,Akshay Anand,\N,\N,actor,tt0190419|tt0390729|tt7720254|tt0359368
+nm1015828,Kishore Vyas,\N,\N,director|producer,tt0172175|tt4599370|tt0289686|tt2748626
+nm1017494,Ganesh Acharya,\N,\N,miscellaneous|actor|director,tt3735246|tt0488414|tt0405508|tt2356180
+nm1018493,Rakeysh Omprakash Mehra,1963,\N,producer|director|writer,tt2356180|tt0405508|tt0289845|tt1043451
+nm1018806,Yakub Hasan Rizvi,\N,\N,director|producer,tt0359728|tt0139046|tt3501502
+nm1018906,Jagdish A. Sharma,\N,\N,director|producer,tt1158700|tt0135641|tt0292606|tt0115668
+nm1018908,Vivek Sharma,1969,\N,assistant_director|miscellaneous|director,tt1324078|tt0347473|tt0991346|tt0172684
+nm1019477,Jeeva,1963,2007,cinematographer|director|writer,tt0458184|tt1388434|tt0242519|tt0375514
+nm1021353,Sanjay Dayma,\N,\N,writer|director|assistant_director,tt0169102|tt0476848
+nm1021985,Dayal Nihalani,\N,\N,assistant_director|director|writer,tt0337625|tt0251143|tt0338960|tt0113527
+nm1022024,Bhushan Patel,\N,\N,director|camera_department|cinematographer,tt8396186|tt0156985|tt9444348|tt0101733
+nm1022135,Kamal Saigal,\N,\N,editor|assistant_director|director,tt0196635|tt0090812|tt0367695|tt0439639
+nm1023986,Aditya Bhattacharya,\N,\N,director|actor|producer,tt4035594|tt0290820|tt1354066|tt3055378
+nm1024505,Ashok Honda,\N,\N,editor|producer|director,tt0358613|tt0311413|tt0135621|tt0135140
+nm1025280,Anubhav Sinha,1965,\N,director|writer|producer,tt7618184|tt1562871|tt0348521|tt0290326
+nm1027719,Farhan Akhtar,1974,\N,producer|actor|writer,tt2356180|tt0461936|tt0292490|tt1562872
+nm1027895,S. Azim,\N,\N,stunts|actor|director,tt2761592|tt0147811|tt0290501|tt0239452
+nm1028138,Sikander Bharti,\N,\N,director|assistant_director|music_department,tt0290839|tt0290940|tt0376158|tt0363967
+nm1028612,Jagannath Chatterjee,\N,\N,director,tt0290523|tt1587140|tt7893404|tt0499182
+nm1028832,Renzil D'Silva,\N,\N,writer|director,tt2792284|tt0405508|tt1185442|tt2172071
+nm1030225,Firoz Irani,\N,\N,actor|director|writer,tt0326576|tt0206020|tt0461323|tt0233227
+nm1030373,Reema Kagti,\N,\N,writer|producer|assistant_director,tt2395469|tt6173990|tt1787988|tt1562872
+nm1030405,Vijay Kapoor,1939,1990,director|writer|producer,tt0370383|tt6574506|tt2858416|tt0415480
+nm1030424,Keval P. Kashyap,\N,\N,miscellaneous|producer|director,tt0293499|tt0057332|tt0362283|tt1996213
+nm1031045,P. Madhavan,\N,\N,director|producer|writer,tt0315901|tt3442564|tt1445775|tt0316854
+nm1032152,Bala Rajasekharuni,\N,\N,miscellaneous|producer|writer,tt10525180|tt2006721|tt0758734|tt0292527
+nm1032940,Raju Subramaniam,\N,\N,director|assistant_director,tt1846147|tt0396768|tt0292742|tt0107867
+nm10342614,Brijesh Batuknath Tripathi,\N,\N,director|producer,tt9472208|tt1825833
+nm10352175,Mitali Ghoshal,\N,\N,director|producer,tt9496212
+nm10387315,Ravi Sadasiv,\N,\N,director,\N
+nm1039454,Ashok V. Bhushan,\N,\N,miscellaneous|director|assistant_director,tt0072100|tt0177492|tt0300475|tt0371058
+nm1042581,Arun Bhatt,\N,\N,director|assistant_director|writer,tt0337650|tt4601946|tt2748626|tt0247015
+nm10443374,Abhishek Dixit,\N,\N,director|writer,tt9319812
+nm1054473,Manish Acharya,1967,2010,actor|cinematographer|producer,tt0362771|tt1012757|tt8885192|tt1172203
+nm1055105,Madhur Bhandarkar,1966,\N,writer|director|actor,tt0819810|tt0267363|tt0443708|tt0964516
+nm1056425,Rajpal Yadav,1971,\N,actor|writer|director,tt0995031|tt0991346|tt0347304|tt0251756
+nm1057948,Rajendra Bhatia,\N,\N,director|producer|assistant_director,tt0177502|tt0442610|tt0067553|tt0435079
+nm10613703,Rajesh Nahta,\N,\N,director|music_department|producer,\N
+nm1062080,Saket Chaudhary,\N,\N,director|writer,tt0480572|tt3302962|tt0249371|tt5764096
+nm1062454,Hattori Kazuyasu,\N,\N,director,tt0182637
+nm1062896,Ashim S. Samanta,\N,\N,director|producer|miscellaneous,tt4195276|tt0451614|tt0424339|tt1446055
+nm1063072,Abbas Tyrewala,1984,\N,writer|music_department|soundtrack,tt0473367|tt0379370|tt0347473|tt0374887
+nm1065099,C.P. Dixit,\N,\N,director|assistant_director,tt0359677|tt0357997|tt0359186|tt0298327
+nm1066482,Vinay Sapru,\N,\N,director|actor|assistant_director,tt0449306|tt3595298|tt5255710|tt1620719
+nm1067883,Nageshwara Rao Y.,\N,\N,director,tt0298500|tt0101742|tt0361506|tt1579535
+nm1068905,Namrata Singh Gujral,1976,\N,actress|director|producer,tt1489877|tt1971310|tt2225858|tt0485185
+nm10692442,Govind Moonis,\N,\N,director|music_department,tt0451901
+nm1069826,Goutham Vasudev Menon,\N,\N,director|writer|producer,tt1602585|tt1609168|tt1180583|tt4258292
+nm1069827,Meraj,\N,\N,assistant_director|director|actor,tt2858680|tt0215466|tt1773306|tt0379252
+nm1070317,Digvijay Singh,1973,\N,director|writer|producer,tt1566409|tt0395692|tt0299027
+nm10709714,Amit Singh,\N,\N,director,\N
+nm1072561,Anant Balani,1962,2003,director|writer|producer,tt0382188|tt0385793|tt0102645|tt0348190
+nm10734361,Manas Das,\N,\N,director,\N
+nm1077277,N. Maharajan,\N,\N,director|writer,tt0264210|tt4516596|tt1265633|tt0300028
+nm1077919,Kawal Sharma,\N,\N,director|writer|producer,tt2224282|tt0317641|tt0359657|tt0361772
+nm1082555,Ashu Trikha,\N,\N,director|special_effects|writer,tt0445056|tt0813996|tt2941856|tt3640942
+nm1084488,Umesh Shukla,\N,\N,writer|director|actor,tt6580564
+nm1085096,Prashant Chadha,\N,\N,director|writer|editor,tt0814295|tt2033947|tt0301677|tt0995840
+nm1086509,Satpal,\N,\N,assistant_director|director|camera_department,tt0359076|tt0359170|tt4622218|tt0354416
+nm11026114,Danish Singh,\N,\N,director|writer,\N
+nm11049751,Debamitra Biswal,\N,\N,director,\N
+nm1107736,Yogesh Saxena,\N,\N,music_department|sound_department|director,tt1142320|tt0100095|tt0284137|tt0110076
+nm1110074,Benny Mathews,\N,\N,director|writer|art_director,tt1122587|tt0829278|tt0306228|tt4396888
+nm1110725,Prabhat Roy,\N,\N,director|writer|assistant_director,tt7351230|tt4772968|tt0363905|tt0363691
+nm1112260,K. Subhash,\N,\N,director|writer|producer,tt2112124|tt0438875|tt0305951|tt1039989
+nm1114391,Ravi Khanna,1929,\N,stunts|actor|assistant_director,tt0154685|tt0381157|tt0060689|tt0045529
+nm1119681,S.V. Rajendra Singh,1948,\N,director|writer|producer,tt1392100|tt0307202|tt4193956|tt0359688
+nm1121795,S.M. Abbas,\N,\N,writer|director|actor,tt0054302|tt0215827|tt0239452|tt0388913
+nm1122077,Harsh Chhaya,1970,\N,actor|director|writer,tt1802133|tt0400977|tt7260848|tt5304172
+nm1122396,Ajay Goel,\N,\N,assistant_director|director|producer,tt0359496|tt0404843|tt0816627|tt0246493
+nm1123937,Rohit Roy,1968,\N,actor|producer|director,tt0249588|tt5460276|tt7236796|tt1907660
+nm1126068,Meghna Gulzar,\N,\N,director|writer|assistant_director,tt7098658|tt4934950|tt4430212|tt0307866
+nm1126884,Shomu Mukherjee,1943,2008,writer|producer|director,tt0257475|tt0187395|tt0111067|tt0359266
+nm1126979,Rajshree Ojha,\N,\N,director|writer|producer,tt5207116|tt0307989|tt1252475|tt6437190
+nm1128822,Manik Chatterjee,\N,\N,assistant_director|director|actor,tt0052411|tt0077609|tt0349122|tt0057332
+nm1130698,Raj Tilak,\N,\N,actor|producer|director,tt0367595|tt0071307|tt3767372|tt0369746
+nm1131933,Satyajit Bhatkal,\N,\N,director|writer|miscellaneous,tt0169102|tt2360717|tt0417528|tt1605790
+nm1134580,Kashinath,\N,2018,actor|director|writer,tt1219317|tt8541250|tt10125812|tt0352133
+nm1136880,Jatin Kumar,\N,\N,director,tt0366593|tt0309861|tt5216550|tt0437310
+nm1137757,Jose Punnoose,\N,\N,producer|director,tt0317893|tt0309800|tt2459620
+nm1139068,Akbar Khan,\N,\N,actor|director|producer,tt0356666|tt0175450|tt0328503|tt5269346
+nm1142222,Amrit Nahata,\N,\N,director,tt0311401
+nm1145655,Shirish Kunder,1973,\N,editor|writer|director,tt1918886|tt1024943|tt0347473|tt0456481
+nm1147556,K.S. Adiyaman,\N,\N,director|writer,tt1640706|tt0430589|tt2081165|tt0453188
+nm1149889,Raj Marbros,\N,\N,director|assistant_director|writer,tt0215267|tt0301240|tt0056232|tt1523412
+nm1150018,V. Menon,\N,\N,director|writer|assistant_director,tt2677146|tt0364645|tt8281642|tt0274764
+nm1150656,Remo D'Souza,\N,\N,miscellaneous|actor|director,tt3735246|tt7431594|tt5235880|tt4535650
+nm1150959,Vipul Amrutlal Shah,\N,\N,producer|director|writer,tt0306434|tt1396208|tt0795434|tt2556308
+nm1151372,K.B. Tilak,1926,2010,director|producer|actor,tt0327024|tt7284340|tt0333105|tt0328159
+nm1154600,Chandan Arora,\N,\N,editor|editorial_department|camera_department,tt0296574|tt0251756|tt1029231|tt1573482
+nm1158077,Niranjan,\N,\N,director|assistant_director|writer,tt4773892|tt0364640|tt0353582|tt0045529
+nm1159647,Punit Malhotra,\N,\N,director|assistant_director|writer,tt1667838|tt2275794|tt0248126|tt0347304
+nm1160075,Mohanji Prasad,\N,\N,director|producer|writer,tt0231214|tt5216698|tt0311029|tt0267742
+nm1160119,Rajat Rakshit,\N,\N,director|writer,tt1995418|tt0405856|tt0359875|tt0361601
+nm1160321,Din Dayal Sharma,\N,\N,writer|director|assistant_director,tt0268146|tt0082644|tt0293589|tt0077168
+nm1160374,Tarun Mansukhani,\N,\N,assistant_director|director|actor,tt0213890|tt1185420|tt0172684|tt0248126
+nm1162002,Manish Jha,1978,\N,director|writer|actor,tt0379375|tt3224258|tt0953306|tt0318161
+nm1162601,Rajasekhar,\N,\N,director|writer|cinematographer,tt1394224|tt0362674|tt4246776|tt0323163
+nm1163386,Kumar Bhatia,\N,\N,writer|director|actor,tt0317355|tt2504274|tt1604826|tt0388554
+nm1163799,Ujjwal Chatterjee,\N,\N,writer|director|producer,tt0312664|tt0489582|tt1407929|tt3209244
+nm1164074,Sunder Dar,\N,\N,writer|director,tt0178196|tt0360463|tt0316506
+nm1165295,Irshad,\N,\N,miscellaneous|director|writer,tt0319020|tt0316733|tt0479747|tt0053999
+nm1165505,Dinkar Kapur,\N,\N,assistant_director|director,tt0316911|tt0106333|tt2388817|tt0211634
+nm1165583,Rajbans Khanna,\N,\N,director|writer|producer,tt0317595|tt0312836
+nm1167431,Subhash Sonik,\N,\N,assistant_director|director|art_department,tt0359619|tt0384915|tt0118654|tt0315893
+nm1167982,Vijay Talwar,\N,\N,director|producer,tt0316190|tt0246456
+nm1177989,Yusuf Khan,\N,\N,editor|sound_department|composer,tt0297983|tt0107311|tt0116690|tt0371775
+nm1178654,Sanjay Jha,\N,\N,actor|director|assistant_director,tt0248185|tt3631212|tt0330783|tt0238936
+nm1179457,Milap Zaveri,\N,\N,writer|director|actor,tt0347278|tt8202612|tt0294662|tt2792284
+nm1180881,Raja Bundela,\N,\N,actor|director|producer,tt5784778|tt0392625|tt1942975|tt3111548
+nm1181506,A. Jagannathan,\N,\N,director,tt0274351|tt0319621|tt0324217|tt0764655
+nm1183478,Sunil Sharma,\N,\N,cinematographer|producer|miscellaneous,tt1471247|tt2728318|tt2437954|tt0319500
+nm1184301,Ameerjan,\N,\N,director|writer,tt3269138|tt10122590|tt0320698|tt0248428
+nm1184733,Ajit Singh Deol,\N,\N,actor|producer|director,tt0216110|tt0302952|tt0445085|tt0243639
+nm1186384,Narendra Suri,\N,\N,director|producer|assistant_director,tt0051842|tt0387050|tt0139548|tt0824414
+nm1186435,Rajnish Thakur,\N,\N,writer|director|actor,tt0349333|tt2232524|tt0847180|tt0461125
+nm1187736,Anand Sagar,\N,\N,producer|director|miscellaneous,tt8230598|tt0147811|tt0362057|tt0361313
+nm1188219,Ashok Kumar,\N,\N,director,tt0319623|tt0269110|tt0292277|tt3715280
+nm1188796,M.K. Burman,\N,\N,director|art_director|assistant_director,tt0047561|tt0048181
+nm1189376,Sanjay Gadhvi,\N,\N,director|writer|actor,tt1034449|tt0441048|tt0322653|tt0422091
+nm1191447,Manibhai Vyas,\N,\N,director,tt1286628|tt0420096|tt0358102|tt0389370
+nm1193115,Amit Kumar,\N,\N,director|writer|assistant_director,tt0397941|tt2198235|tt4005402|tt9805612
+nm1194317,Sukhwant Dhadda,\N,\N,director|writer|producer,tt7509968|tt0977643|tt7503806|tt5255974
+nm1194320,Rahul Dholakia,\N,\N,director|writer|producer,tt1637718|tt3405236|tt0433425|tt1309561
+nm1196386,Jaideep Sen,\N,\N,assistant_director|director,tt1182908|tt1029231|tt0254481|tt0116690
+nm1196413,Shrikant Sharma,\N,\N,assistant_director|producer|director,tt1692075|tt0114231|tt1002963|tt0217608
+nm1196622,Balraj Tah,\N,\N,director|writer|producer,tt0322814
+nm1200832,Mani Shankar,\N,\N,writer|director|special_effects,tt0313844|tt1287847|tt0366985|tt0444913
+nm1201484,Irfan Khan,\N,\N,assistant_director|director|producer,tt0208903|tt0364134|tt0362798|tt0483239
+nm1201747,Ashim Ahluwalia,\N,\N,director|writer|cinematographer,tt6926486|tt1629715|tt0326257|tt0478176
+nm1202980,Hasnain Hyderabadwala,\N,\N,director|assistant_director|editorial_department,tt1603862|tt5032360|tt0995827|tt0833484
+nm1203138,Kabir Khan,\N,\N,director|producer|writer,tt0770214|tt2016894|tt0325413|tt3863552
+nm1203774,K. Pappu,\N,2005,director|writer|producer,tt0316827|tt0172617|tt0358261|tt0114225
+nm1203918,Ravi Rai,\N,\N,assistant_director|director|writer,tt0402796|tt0861703|tt0321067|tt2674286
+nm1204361,Amit Suryavanshi,\N,\N,director,tt0112308|tt1294177
+nm1206032,Dilip Shankar,\N,\N,director|writer,tt2158633|tt0172089|tt0378155|tt0845503
+nm1206356,Jeetu Arora,\N,\N,assistant_director|director|actor,tt8523124|tt1900118|tt4107858|tt0435390
+nm1207038,Ajay Kashyap,\N,\N,director|writer|cinematographer,tt0361761|tt0359168|tt0110795|tt0361904
+nm1207055,Bolu Khosla,\N,\N,assistant_director|producer|director,tt0073569|tt0060689|tt0367918|tt0232081
+nm1207480,Aditya Raj,\N,\N,assistant_director|actor|director,tt0101283|tt0459652|tt0808457|tt5024066
+nm1207750,Umesh Ghadge,\N,\N,director|assistant_director|production_manager,tt1395054|tt0195231|tt0422091|tt4668742
+nm1209849,Ejaz Gulab,\N,\N,stunts|director|actor,tt2359810|tt0986264|tt0315642|tt0169102
+nm1210614,Prawaal Raman,\N,\N,writer|director|assistant_director,tt0296574|tt1883121|tt4024944|tt4552486
+nm1210683,Howard Rosemeyer,\N,\N,miscellaneous|actor|director,tt5165344|tt4169250|tt0151150|tt3338188
+nm1212237,Ravi Kumar,1971,\N,director|writer|producer,tt0488928|tt0839742|tt0392105|tt0327054
+nm1213991,Virendra Sharma,\N,\N,director|actor|art_department,tt3672774|tt2742580|tt2531986|tt0359143
+nm1216990,Nabh Kumar 'Raju',\N,\N,director|writer|assistant_director,tt9777478|tt9592292|tt0418598|tt0226786
+nm1220090,Subhash Sharma,\N,\N,director,tt0361046
+nm1221101,Kulbhushan,\N,\N,director,tt0177491
+nm1221187,Hasrat Lucknowi,\N,\N,director|writer|producer,tt0177474|tt2162651
+nm1221485,Pattanna,\N,\N,director,tt0049138
+nm1222110,S.M. Yusuf,\N,1994,director|producer|actor,tt1134641|tt0395459|tt0381051|tt0432813
+nm1223294,Homi Adajania,\N,\N,director|writer|actor,tt3142688|tt0412308|tt2168910|tt5542802
+nm1223541,Mandi Burman,\N,\N,director|producer,tt0054059
+nm1223594,Ajit Chakraborty,\N,\N,producer|director,tt0139027|tt0268519|tt0050587|tt0357433
+nm1223910,Sujoy Ghosh,1966,\N,writer|director|producer,tt0347278|tt1821480|tt8130968|tt1227762
+nm1224164,Latif Khan,\N,\N,assistant_director|director,tt0079963|tt0349618|tt0085361|tt0176105
+nm1224429,Nitya Mehra,\N,\N,director|assistant_director|writer,tt0454876|tt5197544|tt2792284|tt0461936
+nm1224555,Jagdish Nirula,\N,\N,director|actor|assistant_director,tt0474877|tt0316268|tt0426253|tt0878098
+nm1224744,R.K. Rakhan,\N,\N,writer|director,tt0056232|tt0271587|tt0425385
+nm1224879,Pradeep Sarkar,1955,\N,director|writer|producer,tt0985636|tt0437407|tt5669082|tt3495000
+nm1224934,Rajendra Sharma,\N,\N,director|actor,tt0158457|tt6131618|tt6128850|tt0373800
+nm1224987,Alo Sarkar,\N,\N,director|actor|writer,tt0055411|tt1219315|tt0050484|tt0061467
+nm1226506,Nadeem Khan,1951,\N,cinematographer|camera_department|director,tt0302058|tt0396255|tt0109010|tt0157451
+nm1231581,Sushen Bhatnagar,\N,\N,director|writer|producer,tt1094444|tt0329620|tt10747058|tt1887817
+nm1234320,M.R. Shahjahan,\N,\N,assistant_director|director|producer,tt0176016|tt2033947|tt0083987|tt1204913
+nm1235947,Jayprakkash Shaw,\N,\N,director|assistant_director|writer,tt0447890|tt10667122|tt0343064|tt0114316
+nm1242250,Amol Shetge,\N,\N,director|writer|actor,tt0841153|tt9777766|tt0459475|tt1034394
+nm1242277,Sunhil Sippy,\N,\N,director|writer|producer,tt0271197|tt5775220
+nm1242455,Suparn Verma,1974,\N,writer|director|actor,tt0490170|tt1201557|tt0366630|tt0331453
+nm1244682,Nari Ghadiali,1917,\N,director|miscellaneous,tt0381316|tt0378134|tt0379872|tt0376638
+nm1244760,Amole Gupte,\N,\N,actor|writer|director,tt1907761|tt1274295|tt7291466|tt0986264
+nm1247781,Gurudev Bhalla,\N,\N,assistant_director|director|producer,tt0156891|tt0107060|tt0156659|tt0284479
+nm1248288,Rajiv Goswami,\N,\N,actor|director|editor,tt0242568|tt0233464|tt0371058|tt0359151
+nm1248879,Deepak Pawar,\N,\N,director|writer|actor,tt0403200|tt2009434|tt0376080|tt1663647
+nm1249945,Shaad Ali,\N,\N,director|actor|writer,tt7690638|tt1334470|tt0448206|tt0833476
+nm1253364,S.K. Subash,1959,2016,director,tt2015304|tt2459460|tt0450577|tt0333368
+nm1260157,Seema Bhargava,\N,\N,actress,tt0315642|tt3495030|tt6967980|tt6971752
+nm1260347,Coca Cola,\N,\N,actor|director|producer,tt0361508|tt0368825|tt0061366|tt0454506
+nm1263094,Johny Bakshi,\N,\N,producer|actor|miscellaneous,tt0366939|tt0308417|tt1633212|tt0286505
+nm1264481,Ken Ghosh,\N,\N,director|writer|producer,tt1392744|tt0362771|tt9778022|tt0422236
+nm1266372,Adam Bhala Lough,1979,\N,director|writer|producer,tt0337585|tt4423066|tt6333062|tt0853157
+nm1267029,Hriday Shetty,\N,\N,director|assistant_director,tt0439754|tt0364604|tt9199210|tt1281838
+nm1269122,Prem Lalwani,\N,\N,producer|writer|director,tt0178185|tt0446889|tt0172519|tt0349122
+nm1272846,Bobby Raj,\N,\N,producer|director|writer,tt0339936|tt0495893|tt0362213|tt0361904
+nm1275430,B.K. Dubey,\N,\N,miscellaneous|assistant_director|director,tt0351700|tt0078418|tt0072860|tt0275489
+nm1277085,Manoj Punj,1970,2006,director|writer,tt1620971|tt0449221|tt0308875|tt0892113
+nm1278662,Himanshu Brahmbhatt,\N,\N,assistant_director|director,tt0156985|tt0443208|tt0101733|tt0341639
+nm1280563,Dilip Naik,\N,\N,assistant_director|director|editorial_department,tt0341496|tt0072860|tt0427400|tt0078418
+nm1287649,Sabir Khan,\N,\N,assistant_director|director|soundtrack,tt4864932|tt3142232|tt6117702|tt1144804
+nm1288535,Sharad Sharan,\N,\N,editor|director|producer,tt2658984|tt1669165|tt1066433|tt4268852
+nm1293225,Omung Kumar,\N,\N,art_department|art_director|production_designer,tt0375611|tt6265988|tt5120640|tt3001638
+nm1297859,Tanvir Ahmed,\N,\N,director|producer,tt2952750|tt4201936|tt2728258|tt0402740
+nm1300011,Sadaqat Hussein,\N,\N,director|assistant_director,tt0346733|tt0099869
+nm1301877,B. Krishna Rao,\N,\N,writer|director,tt0346870
+nm1302401,Chandrakant Singh,\N,\N,director|producer|writer,tt4811706|tt8512694|tt1137979|tt1947973
+nm1306582,Sameer Sippy,\N,\N,assistant_director|director|miscellaneous,tt0323013|tt1185420|tt2876408|tt4979160
+nm1310829,Kushan Nandy,\N,\N,director|producer|writer,tt0449982|tt6220856|tt0349058|tt6711660
+nm1314446,Satya Gopal Bhatnagar,\N,\N,director,tt0350525
+nm1315895,Shantilal Soni,\N,\N,director|producer|writer,tt0357926|tt0386664|tt1286636|tt0358147
+nm1319149,Pradip Jain,\N,\N,director,tt0352809
+nm1319205,Pavan Kaul,\N,\N,director|assistant_director,tt3197802|tt0448413|tt2801992|tt1214948
+nm1319220,Fuwad Khan,\N,\N,cinematographer|director|camera_department,tt0813996|tt1280558|tt1408029|tt0348843
+nm1320327,Manoj Tyagi,\N,\N,writer|director,tt0363409|tt0443708|tt0457875|tt1127870
+nm1321189,D. Rajendra Babu,\N,2013,director|writer,tt4978228|tt5762158|tt4975852|tt0367828
+nm1321895,Nazir,\N,\N,director|producer,tt0353233|tt0268631|tt0364218
+nm1322099,Akiv Ali,\N,\N,editor|editorial_department|director,tt2082197|tt2905838|tt5460276|tt2178470
+nm1322477,Abhishek Chaubey,\N,\N,writer|director|assistant_director,tt2675978|tt0488414|tt1345777|tt4434004
+nm1323642,Govind Menon,\N,\N,director|actor|assistant_director,tt0345102|tt0279986|tt0451639|tt0349679
+nm1328135,Kanti Shah,\N,\N,director|producer|writer,tt1027835|tt0396805|tt0396491|tt0363406
+nm1328817,Kabir Sadanand,\N,\N,actor|director|producer,tt3683702|tt0430480|tt1442583|tt8649832
+nm1329166,Raja Menon,\N,\N,writer|director|producer,tt5745450|tt0354405|tt1202517|tt4387040
+nm1331153,Satish Rajwade,\N,\N,director|writer|actor,tt5190944|tt7748494|tt1822266|tt0273849
+nm1333986,Susi Ganesan,\N,\N,director|writer|assistant_director,tt2066062|tt0356178|tt1855400|tt7505152
+nm1334468,Samir Karnik,\N,\N,director|writer|producer,tt0349703|tt1512321|tt0845494|tt1114725
+nm1335378,V.K. Prakash,\N,\N,director|actor|writer,tt1471234|tt4760108|tt8016662|tt0356624
+nm1335734,Sunil Sikand,\N,\N,assistant_director|director|writer,tt6352572|tt0356602|tt0079963|tt0359582
+nm1338317,K.C. Agarwal,\N,\N,director,tt0178179|tt0358054
+nm1338320,Ramesh Ahuja,\N,\N,assistant_director|director,tt0360712|tt0363773|tt0364048|tt0363959
+nm1338381,D.S. Azad,\N,\N,director,tt2437560|tt0357821|tt1265654|tt2779306
+nm1338477,Shriram Bohra,\N,\N,director,tt1587430|tt0357827
+nm1338698,Mahesh Dattani,\N,\N,writer|director|actor,tt0355740|tt5085386|tt0419974|tt0373779
+nm1338734,Raman B. Desai,\N,\N,director,tt0389485|tt0375992|tt0388822|tt0389191
+nm1338845,Mahmood Farooqui,\N,\N,director|actor|writer,tt1447508|tt1659205|tt0355740
+nm1338988,Ram Govind,\N,\N,writer|actor|director,tt0337578|tt0155079|tt0448812|tt0374115
+nm1339049,Harbans,\N,\N,director|miscellaneous|actor,tt2651826|tt0155898|tt0357875|tt0387411
+nm1339136,Suresh Issar,\N,\N,director,tt0357651
+nm1339221,Kaushalraj Batra,\N,\N,producer|director|assistant_director,tt0080775|tt2619976|tt0154206|tt0357451
+nm1339261,Bhisham Kohli,\N,\N,actor|director|producer,tt0360718|tt0374016|tt0357602|tt1206654
+nm1339428,Kamal Majumdar,\N,\N,director|actor|writer,tt1593727|tt0358042|tt1584005|tt0317088
+nm1339776,Ramesh Puri,\N,\N,director|assistant_director|actor,tt0430282|tt0357879|tt0379853|tt0178177
+nm1339788,Ved Rahi,\N,\N,writer|director|assistant_director,tt0061206|tt0303187|tt0147811|tt0357826
+nm1339858,Probir Roy,\N,\N,assistant_director|actor|director,tt0357472|tt0074503|tt0157451|tt0055783
+nm1339877,S.M. Sagar,\N,\N,director|producer,tt1227152|tt0357963|tt0483298|tt1534389
+nm1340064,S.U. Syed,\N,\N,director|camera_department,tt0357709|tt0391720|tt1315590|tt4428606
+nm1342923,Lalit Marathe,\N,\N,director|writer|soundtrack,tt2032530|tt0341266|tt0367110|tt4059976
+nm1345841,Feroz Chinoy,\N,\N,director,tt0408695|tt0398320|tt0358971|tt2448408
+nm1345999,N.V. Deshpande,\N,\N,director|producer,tt0359634
+nm1346458,S.M. Iqbal,\N,\N,writer|director|producer,tt0187279|tt0405856|tt0100539|tt0359858
+nm1346631,Kewal Kumar,\N,\N,producer|actor|director,tt0175908|tt0360463|tt0359687|tt0064856
+nm1346840,Umesh Mathur,\N,\N,writer|assistant_director|director,tt0360233|tt0178205|tt0051842|tt0148266
+nm1347107,Krishnakant Pandya,\N,\N,assistant_director|director,tt2011178|tt0358992|tt0363666|tt0360051
+nm1347121,Anwar Pasha,\N,\N,director|assistant_director|actor,tt0349382|tt0246842|tt0359374|tt0357717
+nm1347228,Shyam Ralhan,\N,\N,director|writer|actor,tt0400565|tt0390473|tt0359512|tt0359978
+nm1347252,K.R. Reddy,\N,\N,director|assistant_director,tt0368870|tt0359971|tt3606782|tt0360145
+nm1347459,K. Shrivastava,\N,\N,director,tt0359129
+nm1347461,Jagdish Sidana,\N,\N,director|assistant_director|producer,tt0359967|tt0340090|tt3638354|tt0321421
+nm1349318,Sajid Khan,1970,\N,writer|actor|director,tt1573072|tt2344678|tt1980986|tt3036740
+nm1354219,Sharan Agarwal,\N,\N,director|assistant_director,tt0156995|tt0360894
+nm1354763,Krishna D.K.,1972,\N,writer|director|producer,tt8108202|tt9544034|tt0361625|tt2436516
+nm1355537,Harsh Kohli,\N,\N,director|producer|miscellaneous,tt0178188|tt0178196|tt0361376|tt0361853
+nm1356032,Raj Nidimoru,\N,\N,writer|director|producer,tt9544034|tt1916728|tt2436516|tt8108202
+nm1356109,Ram Pahwa,\N,\N,director,tt0372823|tt4766336|tt0361944|tt2706266
+nm1356285,Ram Rano,\N,\N,director,tt0360626
+nm1356293,S.S. Ravichandra,\N,\N,director,tt0371515|tt0363787|tt0363735|tt0363002
+nm1357853,Rajashekhar,\N,\N,director,tt0361770
+nm1359064,Kalpana Bhardwaj,\N,\N,director,tt0363170
+nm1362694,Manmohan,\N,\N,director|assistant_director|producer,tt0364112|tt0471915|tt0065064
+nm1363080,Avtar Bhogal,\N,\N,director|writer|producer,tt0364196|tt0363657|tt4335698|tt1368438
+nm1363214,Yash Chouhan,\N,\N,director|assistant_director|writer,tt0363568|tt1661866|tt8071646|tt1491938
+nm1363374,Chandra Prakash Dwivedi,\N,\N,actor|director|writer,tt0347779|tt4190220|tt4949324|tt9637132
+nm1363571,Dilip Gulati,\N,\N,director|producer|actor,tt0363727|tt2655662|tt3720438|tt2637732
+nm1367916,Shiv Sahni,\N,\N,director,tt0364555
+nm1368022,R.K. Shoery,\N,\N,director,tt0364405|tt0408735
+nm1369001,B.S. Shaad,\N,\N,producer|director|actor,tt4649296|tt6164394|tt0071725|tt0315897
+nm1370646,Gayle Ferraro,\N,\N,director|producer,tt1541943|tt0392033|tt1578268|tt0364949
+nm1374768,Arindam Chaudhuri,\N,\N,producer|director|writer,tt1179782|tt0470301|tt4249442|tt0423087
+nm1375981,Praveen Nischol,1948,\N,producer|director|actor,tt0373856|tt0136153|tt0398285|tt0473310
+nm1376310,Amit Roy,\N,\N,cinematographer|director|writer,tt0432047|tt6296236|tt0422236|tt0473310
+nm1376618,Karunesh Thakur,\N,\N,director|writer|producer,tt0339994|tt0366155|tt0373814|tt1313227
+nm1377680,V. Joshi,\N,\N,director,tt0093287
+nm1378015,Subhash Kapoor,\N,\N,writer|actor|director,tt2621000|tt4684028|tt1020899|tt5982852
+nm1379835,Arun Dutt,\N,\N,producer|director|writer,tt0416890|tt0367546
+nm1379836,Tarun Dutt,\N,\N,assistant_director|producer|director,tt0157337|tt0367546|tt0416890|tt0157556
+nm1381068,Roop Dutta Naik,\N,\N,director,tt0367919
+nm1381756,Anil Suri,\N,\N,producer|director,tt0087975|tt1692184|tt0367927
+nm1386952,Soumitra Ranade,\N,\N,producer|writer|director,tt0368811|tt3073326|tt4355838|tt2163594
+nm1387177,Atul Sabharwal,1977,\N,writer|director|producer,tt2804026|tt1739744|tt0451824|tt1159230
+nm1387879,Janaki Vishwanathan,\N,\N,director|writer,tt0367942|tt3524410
+nm1388520,Mohan J. Bijlani,\N,1976,director|producer,tt0175566|tt2878766|tt0208686|tt0176272
+nm1388795,Santosh Kumar Chauhan,\N,\N,producer|director,tt0370090|tt1236408
+nm1391682,Rohan Sippy,\N,\N,director|producer|actor,tt0476527|tt1618430|tt10762364|tt2341766
+nm1393978,Prakash Kapoor,\N,\N,assistant_director|director,tt0283417|tt0064842|tt4882710|tt2009425
+nm1393979,Prem Kapoor,\N,\N,writer|assistant_director|director,tt0067651|tt0499246|tt0370319|tt2753386
+nm1394847,G.H. Sarin,\N,\N,director,tt0370467
+nm1394996,Srinivas Bhashyam,\N,\N,assistant_director|art_director|director,tt1474271|tt0112553|tt0396782|tt0264820
+nm1397301,Anurag Basu,\N,\N,director|writer|producer,tt0800956|tt4129428|tt0495032|tt2082197
+nm1398346,N.D. Kothari,\N,\N,producer|director,tt0371631|tt0371932|tt0371637|tt0242714
+nm1409943,Ramesh Bedi,\N,\N,director|producer|writer,tt0451703|tt0373858|tt2782822|tt0398148
+nm1414949,Parvati Balagopalan,\N,\N,director|producer|writer,tt6954042|tt0375021|tt1399602|tt5025782
+nm1415729,Sanjay F. Gupta,\N,\N,cinematographer|director|camera_department,tt0364621|tt0418362|tt1146325|tt0444849
+nm1416352,Richie Mehta,\N,\N,writer|director|editorial_department,tt2932606|tt2048770|tt0907674|tt9398466
+nm1421399,Ajay Phansekar,\N,\N,director|writer|producer,tt6593104|tt4896862|tt1016044|tt0375733
+nm1429565,R.P. Swamy,\N,\N,director,tt2659160|tt0426087|tt3715150|tt0485811
+nm1433566,Soham Shah,\N,\N,writer|miscellaneous|director,tt0248126|tt0415908|tt11022324|tt1242782
+nm1436449,Amitoj Mann,\N,\N,director|writer|actor,tt3211048|tt0378025|tt4718728|tt6611578
+nm1436693,A.R. Murugadoss,\N,\N,writer|director|actor,tt2187153|tt0449951|tt1166100|tt3801314
+nm1437189,Sriram Raghavan,\N,\N,writer|director,tt8108198|tt3678782|tt1077248|tt0352314
+nm1442221,Rajeev Nagpal,\N,\N,assistant_director|actor|director,tt0099929|tt0086892|tt0420196|tt0086925
+nm1443927,Ramesh Modi,\N,\N,director|writer|actor,tt2308829|tt0395748|tt0391741|tt8555270
+nm1444479,Kiran Rao,\N,\N,producer|assistant_director|actress,tt0169102|tt1433810|tt5074352|tt1934231
+nm1454301,Dinesh-Ramanesh,\N,\N,director,tt0178177|tt0390668|tt0430282|tt0431350
+nm1455833,Debu Sen,\N,\N,director,tt0060317|tt0428701
+nm1455842,Surendra Shailaj,\N,\N,writer|director|actor,tt2649346|tt1587226|tt0177498|tt0246740
+nm1456124,Shona Urvashi,\N,\N,director|writer|composer,tt0381090|tt1241334
+nm1457158,Anil Hingorani,\N,\N,director|producer,tt0095955|tt0262717
+nm1460159,Rohit Shetty,1974,\N,director|actor|stunts,tt1806913|tt7212726|tt1948150|tt2112124
+nm1460339,Roshan Taneja,\N,\N,director|writer,tt0178217
+nm1462820,Ashwini Chaudhary,\N,\N,director|writer|assistant_director,tt2191721|tt0382792|tt9239772|tt0489486
+nm1464314,Sudha Kongara,\N,\N,writer|director|assistant_director,tt5310090|tt6010240|tt4318014|tt0292113
+nm1466369,Jitu Thakar,\N,\N,assistant_director|producer|director,tt0339994|tt0157358|tt0370468|tt0070253
+nm1467554,Prabhu,\N,\N,director|producer,tt0379167
+nm1470989,Kannan,\N,\N,director,tt0318297|tt0318607
+nm1471855,Shamim Bhagat,\N,\N,director|editor|producer,tt0383877|tt0358147|tt0387071|tt0133188
+nm1473010,Robbie Grewal,\N,\N,director|writer|producer,tt0860454|tt0473567|tt1305840|tt8550208
+nm1474029,Pradeep Maini,\N,\N,director,tt0385312|tt0484279|tt0296705
+nm1475657,Birendra Nath Tiwari,\N,\N,director|producer,tt0385351|tt1525885
+nm1480671,Yogesh Bharadwaj,\N,\N,director|writer|assistant_director,tt5822288|tt0459133|tt0385564|tt0118751
+nm1482161,Sridhar Rangayan,\N,\N,director|writer|producer,tt0999927|tt6028796|tt1151299|tt4440690
+nm1485901,Kailash Bhandari,\N,\N,director|producer,tt3313428|tt3642958|tt0373683
+nm1487785,Pachhi,\N,\N,actor|producer|director,tt2693662|tt0430232|tt0061366|tt2613668
+nm1488007,K. Ramanlal,\N,\N,camera_department|cinematographer|director,tt0052217|tt0367695|tt0078241|tt0056379
+nm1488355,Akhtar Siraj,\N,\N,director|actress|assistant_director,tt0077451|tt0117623|tt0386586|tt0062748
+nm1492802,Shashanka Ghosh,\N,\N,director|producer|actor,tt10955452|tt0387678|tt5842616|tt1176911
+nm1493316,Gyan Kumar,\N,\N,director,tt0178200
+nm1493317,Prabhat Kumar,\N,\N,assistant_director|director|actor,tt0145856|tt0093949|tt0405856|tt0384608
+nm1494435,R. Thakur,\N,\N,director,tt0372313|tt0398113|tt2761572|tt0396474
+nm1504569,Madhusudan,\N,\N,writer|director,tt0449923|tt0067555|tt0128962
+nm1506406,S.K. Luthra,\N,\N,director|producer|miscellaneous,tt0381317|tt0300160|tt2613222|tt0386543
+nm1506878,Vicky Ranawat,\N,\N,director|assistant_director|producer,tt0934414|tt2663818|tt0490434|tt0489530
+nm1509947,Rajesh Seth,\N,\N,director,tt0367499|tt0360693|tt0346160
+nm1512953,Abrar,\N,\N,assistant_director|director|actor,tt0176101|tt0060310|tt0391553|tt0262446
+nm1513884,Ramanlal Desai,\N,\N,director|editor|production_manager,tt0391550|tt4449594|tt1286598|tt0047796
+nm1514776,Ramanjit Juneja,\N,\N,director,tt0823607|tt1079967|tt0388315
+nm1515024,Murugan Kumaran,\N,\N,director|producer,tt0139446|tt0234174|tt0392187|tt0418760
+nm1515496,Kanak Mishra,\N,\N,director|assistant_director,tt0246800|tt0130803|tt0388389|tt0384916
+nm1516005,Imtiaz Punjabi,\N,\N,director|writer,tt3038662|tt0391165|tt7762818
+nm1519296,Kumar Jay,\N,\N,director,tt0391187
+nm1519318,Anup Malik,\N,\N,director,tt4239544|tt0374080|tt2649940|tt2674306
+nm1520493,Gautam Bhatia,\N,\N,producer|actor|director,tt0270820|tt0404097|tt0945604|tt0457014
+nm1522422,Jagdev Bhambri,\N,\N,actor|director|producer,tt6146716|tt0497376|tt0395647|tt0381585
+nm1523844,G. Krishna,\N,\N,writer|director|miscellaneous,tt2249388|tt0392950|tt0214178
+nm1524147,Anil Mattoo,\N,\N,director|writer|assistant_director,tt0453367|tt0250122|tt2760790|tt2619994
+nm1525266,R.G. Thaker,\N,\N,director,tt0382825
+nm1525269,Aku Akbar,\N,\N,director|assistant_director|writer,tt0371924|tt0982875|tt1530891|tt4712628
+nm1538135,Danish Aslam,\N,\N,director|writer|assistant_director,tt0367110|tt1578261|tt0439662|tt7807324
+nm1538792,S. Deepak,\N,\N,director|writer,tt0135515|tt0231463
+nm1539748,Ashok Kaul,\N,\N,miscellaneous|director|writer,tt0117374|tt0940893|tt0419499|tt0121352
+nm1539788,Divya Khosla Kumar,\N,\N,actress|producer|director,tt4262516|tt3382148|tt0397882|tt2976182
+nm1540736,Vasant R. Patel,\N,\N,assistant_director|director,tt0107986|tt0114175|tt0363455|tt0107249
+nm1541013,Bimal Rawal,\N,\N,director|miscellaneous,tt0430441|tt0396553|tt0371636
+nm1541119,Akshay Roy,\N,\N,assistant_director|director|writer,tt0986264|tt0323013|tt0372183|tt5472374
+nm1541179,Chander Saigal,\N,1960,director|writer|assistant_director,tt0148842|tt0373814
+nm1541299,Tariq Shah,\N,\N,actor|director|producer,tt0113457|tt0251194|tt0381357|tt5066906
+nm1541375,Mohan Singh Rathor,\N,\N,writer|director,tt0396057
+nm1541376,Indrajit Singh,\N,\N,director|producer,tt1056465|tt0395609
+nm1541562,Shahrukh Sultan,\N,\N,director|writer|soundtrack,tt0395746|tt2617838|tt0403475|tt0945349
+nm1543887,Rajesh Malik,\N,\N,director|assistant_director|miscellaneous,tt0097264|tt0273452|tt0409042|tt0814295
+nm1543900,Inder Sen,\N,\N,director|assistant_director|writer,tt2791300|tt5831220|tt7632770|tt10773264
+nm1546957,Manish Gupta,\N,\N,director|producer|writer,tt1963638|tt0483701|tt0397469|tt5060132
+nm1550903,Krishna Naidu,\N,\N,director,tt2710414|tt2708040|tt0452175|tt0377496
+nm1552493,Ved,\N,\N,actor|director,tt0047990|tt0139237|tt0131781
+nm1552541,Rajeev Virani,\N,\N,producer|director|actor,tt0397551|tt1907660|tt0481301|tt1663647
+nm1556111,Kapil Kapoor,\N,\N,assistant_director|director|production_manager,tt7448208|tt0397742|tt0155997|tt0816382
+nm1568319,Kannan Iyer,\N,\N,writer|actor|director,tt0118931|tt2406676|tt1170411|tt8364658
+nm1568794,Sachin Bajaj,\N,\N,director|assistant_director|miscellaneous,tt0206921|tt0813540
+nm1571874,Tushar Hiranandani,\N,\N,writer|miscellaneous|director,tt0813540|tt8108206|tt1980986|tt5235880
+nm1573395,Sushil Malik,\N,\N,assistant_director|director|sound_department,tt0359457|tt0284456|tt1028545|tt0070947
+nm1574172,Rajatesh Nayyar,\N,\N,assistant_director|director|writer,tt0293342|tt1224454|tt0218533
+nm1575013,Abhiyan Rajhans,\N,\N,assistant_director|director,tt0218533|tt0466965|tt0347332|tt0319736
+nm1576990,Kunal Vijaykar,\N,\N,actor|director|writer,tt1166100|tt0402014|tt1634329|tt0265148
+nm1583171,R. Kannan,\N,\N,director|writer|producer,tt4047132|tt1621424|tt8023700|tt7087934
+nm1583603,Pankaj Advani,\N,2010,writer|director|editor,tt1080568|tt1784715|tt0110222|tt1252614
+nm1586089,Maruti,\N,1981,actor|director|writer,tt0215898|tt0378068|tt0386567|tt0357769
+nm1586798,Sanjeev Reddy,\N,\N,writer|director|assistant_director,tt0338477|tt4512266|tt1579625|tt2188805
+nm1587012,Dinesh Saxena,\N,\N,assistant_director|director,tt2637582|tt0066758|tt0074503|tt1543205
+nm1587254,Shrey Srivastava,\N,\N,director|writer,tt1099982|tt0405046
+nm1588773,Vinod Talwar,\N,\N,director|actor|producer,tt0374151|tt2622286|tt0424491|tt0455140
+nm1590451,Ashoke Pandit,\N,\N,director|actor|producer,tt0116950|tt0410954|tt1852961|tt6986710
+nm1595330,Rakesh Sharma,\N,\N,actor|director|camera_department,tt0402178|tt1187043|tt0248126|tt2773596
+nm1597634,M.M. Baig,\N,\N,assistant_director|actor|director,tt0976027|tt0359186|tt0348078|tt0231140
+nm1598320,Deepak Ramsay,\N,\N,assistant_director|director,tt0478868|tt0989605|tt0259877|tt0260494
+nm1598874,Vikram Chopra,\N,\N,miscellaneous|director|writer,tt0109010|tt0456413|tt5943306|tt0326600
+nm1599403,Raj Purohit,\N,\N,director|writer|editor,tt2976172|tt4010306|tt0109010
+nm1600835,Manish Robin,\N,\N,director,tt0409068
+nm1618126,Chander H. Bahl,\N,\N,director|assistant_director|writer,tt6805396|tt0798761|tt1039900|tt0373965
+nm1618161,Rohit Manash,\N,\N,director,tt0409068
+nm1618188,Santram Varma,\N,\N,assistant_director|director,tt3426342|tt7154568|tt1491938|tt7454420
+nm1618856,Glen Barreto,\N,\N,director|assistant_director|writer,tt10270250|tt1538210|tt10289786|tt0827714
+nm1622140,Ajay Mehra,\N,\N,director|actor|assistant_director,tt3854246|tt2084863|tt0158047|tt0407274
+nm1628153,Anand Gandhi,1980,\N,writer|producer|director,tt1124322|tt0410521|tt8239946|tt1773764
+nm1629116,Shabah Shamsi,\N,\N,assistant_director|writer|director,tt0350613|tt0466367|tt0250122|tt0453367
+nm1633551,Karan Malhotra,\N,\N,assistant_director|director|writer,tt0347473|tt0449994|tt1849718|tt0367110
+nm1634367,Sushil Gupta,\N,\N,director|assistant_director,tt0056806|tt3353592|tt0384216
+nm1636742,Leena Yadav,1971,\N,director|producer|writer,tt3043252|tt1183917|tt8772898|tt0409527
+nm1637520,Adeep Singh,\N,\N,director|assistant_director,tt0109010|tt2435680
+nm1644474,Anup Kurian,\N,\N,director|writer|producer,tt0415144|tt2009592
+nm1644496,Saurab Narang,\N,2010,director,tt7418204|tt0416282
+nm1644733,Vicky Tejwani,\N,\N,producer|director,tt0489028|tt1825801|tt0419992|tt0414503
+nm1646390,Gurdip Singh,\N,\N,assistant_director|producer|miscellaneous,tt0097045|tt0225566|tt0085456|tt0823607
+nm1656504,Shatrujit Paul,\N,\N,producer|writer|director,tt0213879|tt0072632|tt0207320
+nm1657475,Ashok Chopra,\N,\N,miscellaneous|director,tt0961069|tt0373683|tt0363896
+nm1662213,Shashi Ranjan,\N,\N,actor|director|producer,tt4651394|tt0430030|tt1238735|tt0454461
+nm1662277,Shreyas Talpade,1976,\N,actor|producer|soundtrack,tt1024943|tt1806913|tt0824316|tt0453729
+nm1665004,Imtiaz Ali,1971,\N,writer|director|actor,tt1839596|tt1275863|tt1093370|tt2980794
+nm1665362,Ajit Pal Mangat,\N,\N,actor|director|writer,tt0157730|tt0102119|tt1170411|tt3323640
+nm1665978,Rajeev Jhaveri,\N,\N,writer|editor|director,tt4022278|tt1391544|tt4819546|tt0348662
+nm1667633,Anil V. Kumar,\N,\N,director|producer,tt2816764|tt7134830|tt7437464|tt8996230
+nm1668634,Prakash Kovelamudi,1975,\N,director|actor|writer,tt8108196|tt4959326|tt0810364|tt1621994
+nm1672050,V. Ravindra,\N,\N,director,tt0366295
+nm1680452,Puja Bedi,\N,\N,producer|writer|miscellaneous,tt0365847|tt0379370|tt0382534|tt2175671
+nm1687944,Rahat Kazmi,1946,\N,producer|actor|writer,tt6869706|tt8371204|tt9603216|tt5569160
+nm1693210,Sanjay Bhatia,\N,\N,writer|actor|director,tt7781526|tt4387040|tt3405236|tt4430212
+nm1715502,Vijay Krishna Acharya,\N,\N,writer|director|soundtrack,tt5970844|tt0422091|tt0441048|tt1833673
+nm1723225,Nishikant Kamat,\N,\N,actor|director|writer,tt1166809|tt1266583|tt4430212|tt0833444
+nm1739317,Kookie Gulati,\N,\N,director|assistant_director|writer,tt9614452|tt1455816|tt0422236|tt7639372
+nm1739402,Vinnil Markan,\N,\N,director|assistant_director,tt1455816|tt3721462|tt2622130|tt8325250
+nm1743389,Charudutt Acharya,\N,\N,writer|director|music_department,tt1618430|tt7387596|tt2499778|tt2871010
+nm1751780,Rajesh Nanda,\N,\N,director,tt0429652|tt0428875|tt3611400
+nm1752583,Anil Kumar,\N,\N,producer|director,tt0362147|tt3558162|tt2652112|tt0477255
+nm1760859,Amit Chandra Sahay,\N,\N,director|producer,tt0426863
+nm1761965,Gauravv K. Chawla,\N,\N,director|writer|assistant_director,tt6514196|tt1618430|tt6084582|tt0476527
+nm1768188,Kader Kashmiri,\N,\N,director|writer,tt0140377|tt0364201|tt0432536
+nm1768798,Janmendra Ahuja,\N,\N,director|assistant_director,tt0274019|tt1236470
+nm1769322,J. Hemambar,\N,\N,director|miscellaneous,tt0273452|tt0907619|tt0155072|tt0099869
+nm1773569,Shonali Bose,\N,\N,director|writer|producer,tt8902990|tt2929690|tt1785333|tt0414713
+nm1773757,Bedabrata Pain,\N,\N,producer|director|writer,tt2509326|tt0414713|tt1785333
+nm1777967,A.L. Vijay,\N,\N,director|writer|producer,tt2617676|tt7695522|tt1857670|tt1365030
+nm1779900,Anupam Sinha,\N,\N,director|writer,tt4965846|tt0435390
+nm1780730,Chandrakant Joshi,\N,\N,director|actor|assistant_director,tt0091512|tt0350177|tt1414851|tt0343048
+nm1794338,Aryeman Ramsay,\N,\N,actor|director|writer,tt5151622|tt0102846|tt8333800|tt0437182
+nm1803649,Dinesh Vijan,\N,\N,producer|director|music_department,tt5764096|tt8108202|tt3678782|tt1275863
+nm1804614,Ali Abbas Zafar,\N,\N,director|writer|assistant_director,tt2574698|tt5956100|tt4832640|tt7721800
+nm1805326,Mrighdeep Lamba,\N,\N,assistant_director|director|writer,tt1867070|tt6712014|tt0461936|tt2806788
+nm1805430,Ahishor Solomon,\N,\N,writer|assistant_director|director,tt0443208|tt0399942|tt8333978|tt2699840
+nm1819881,Rohit Jugraj,\N,\N,director|writer|assistant_director,tt1178657|tt7177642|tt1784589|tt0454481
+nm1820549,Vara Prasad,\N,\N,director|camera_department,tt0940710|tt0282883
+nm1823221,Subhankar Ghosh,\N,\N,director,tt0102701|tt0444983|tt0453335
+nm1825239,Rahul Aggarwal,1980,\N,producer|director|actor,tt2308937|tt1245732|tt0405121|tt0317153
+nm1834214,Shripal Morakhia,\N,\N,producer|director|writer,tt1577050|tt0443594|tt4469016|tt1213928
+nm1834218,A. Nairang,\N,\N,director|writer|producer,tt0428820|tt0445085
+nm1834891,Maneesh Sharma,\N,\N,assistant_director|producer|director,tt3495026|tt3495030|tt1610452|tt0439662
+nm1835066,Roshan Abbas,\N,\N,director|actor|writer,tt0116308|tt10712112|tt1937092|tt11046836
+nm1840921,Radhika Rao,\N,\N,director|assistant_director|writer,tt5255710|tt1620719|tt0449306|tt3595298
+nm1843238,Suresh Kumar Sharma,\N,\N,producer|director|writer,tt0296705|tt0364196
+nm1848132,Sanjiv Jaiswal,\N,\N,writer|director|producer,tt2236494|tt7228072|tt1883330|tt0444820
+nm1856787,Rajesh Pillai,1974,2016,director|producer,tt1821682|tt0448543|tt5324456|tt2939912
+nm1865534,Mohamed Al Daradji,1978,\N,producer|director|writer,tt1772915|tt3312762|tt0854114|tt1415290
+nm1865933,Kukoo Kapoor,\N,\N,director|writer|producer,tt0816701|tt0089582|tt0482669|tt3505982
+nm1870310,Surya Prakash,\N,\N,director|cinematographer,tt0273776|tt0447890
+nm1871268,Nikhil Saini,1956,\N,writer|director|miscellaneous,tt0367116|tt1084972|tt0254927|tt1282055
+nm1873287,Amitabha Singh,\N,\N,cinematographer|producer|director,tt0466460|tt0860454|tt0453842|tt4505006
+nm1873953,Samar Shaikh,\N,\N,director|art_department|assistant_director,tt0871510|tt3359290|tt1833673|tt0439662
+nm1877067,S. Srivastava,\N,\N,producer|director|cinematographer,tt0449923|tt3562392|tt0067403|tt0042207
+nm1881079,Ishaan Trivedi,\N,\N,writer|director|actor,tt1587424|tt0453582|tt5780570|tt1801521
+nm1883284,Bindu Shukla,\N,\N,assistant_director|director,tt0213773|tt0148691|tt0115616|tt0423313
+nm1885232,Paritosh Painter,\N,\N,script_department|producer|writer,tt0845448|tt7639372|tt1176961|tt1943898
+nm1885534,Samar Khan,\N,\N,producer|director|writer,tt0453748|tt6868278|tt1101665|tt5165688
+nm1887138,Mohit Suri,\N,\N,director|writer|assistant_director,tt9877170|tt1753640|tt2203308|tt0499041
+nm1889984,Vishram Sawant,\N,\N,director|writer,tt0845529|tt0454435|tt2599878
+nm1892252,Vivek Agnihotri,\N,\N,director|writer|producer,tt0454431|tt1890363|tt2801992|tt8108268
+nm1893457,Siddharth Anand,\N,\N,director|writer|producer,tt0456165|tt1182972|tt6912162|tt7430722
+nm1899403,Devang Dholakia,\N,\N,director|producer|writer,tt4887776|tt1253583|tt4272420|tt2137850
+nm1901991,Jijy Philip,\N,\N,director|assistant_director,tt0451824|tt2792284|tt3568970|tt4068208
+nm1903006,Gauri Shinde,\N,\N,director|writer|producer,tt2181931|tt1838739|tt0456153|tt5946128
+nm1907581,Rajesh Mapuskar,\N,\N,producer|director|writer,tt2122340|tt0456144|tt1187043|tt6120548
+nm1910832,Jayant Gilatar,\N,\N,director|writer|producer,tt10080996|tt2008530|tt4600778|tt0458204
+nm1913302,Manish Gupta,\N,\N,writer|director|producer,tt0432047|tt3337550|tt1825801|tt1183946
+nm1913900,Onkar Nath Mishra,\N,\N,writer|actor|director,tt0273513|tt0432506|tt0275806|tt3387088
+nm1918059,Vaibhav Misra,\N,\N,assistant_director|writer|director,tt5209420|tt0451850|tt1562871|tt1024943
+nm1934641,Imran Khalid,\N,\N,director,tt2679304|tt2009571|tt2008624|tt2006148
+nm1941973,Devashish Makhija,\N,\N,writer|director|miscellaneous,tt2830226|tt8476998|tt6471054|tt4939690
+nm1945271,N.S. Raj Bharath,\N,\N,director|writer,tt0778881|tt0186806|tt0089582
+nm1949089,Mukul Abhyankar,\N,\N,director|writer|producer,tt3847072|tt7383926|tt7387538|tt7384848
+nm1954247,Goutam Pawar,\N,\N,director,tt0395463
+nm1956768,Satish Duggal,\N,\N,assistant_director|director|actor,tt0318584|tt0983994|tt0464995|tt0284481
+nm1958399,Zunaid Memon,1975,\N,producer|writer|director,tt0466546|tt0977659|tt2388817|tt0387678
+nm1959662,Vishal Pandya,\N,\N,director|assistant_director|writer,tt5325684|tt4865436|tt1388424|tt5638474
+nm1962200,Abhigyan Jha,\N,\N,director|writer|producer,tt0466965
+nm1962313,Dibakar Banerjee,1969,\N,director|writer|music_department,tt1608777|tt0466460|tt3447364|tt2072227
+nm1964923,Habib Faisal,\N,\N,writer|director|actor,tt2308773|tt1610452|tt1714832|tt3495026
+nm1966139,Sachin Yardi,\N,\N,writer|director,tt10243678|tt2027138|tt0456500|tt1170399
+nm1981610,Sashi Kumar,\N,\N,actor|director|producer,tt4888834|tt4882692|tt1521023|tt0470399
+nm1996654,P.D. Shenoy,\N,\N,writer|director|producer,tt0378751|tt0312712|tt0063111|tt1399087
+nm1999473,Shoojit Sircar,\N,\N,director|producer|actor,tt2317337|tt2855648|tt3767372|tt5571734
+nm2003381,Babloo Seshadri,\N,\N,assistant_director|director|editor,tt3766798|tt0290940|tt0290839|tt0156663
+nm2024446,Aditya Datt,\N,\N,director|writer,tt0814082|tt1961330|tt2229842|tt0477253
+nm2030810,Shahrukh Mirza,\N,2007,writer|director|producer,tt0350030|tt0077792|tt0823252|tt0403276
+nm2031002,Kabeer Kaushik,\N,\N,director|writer,tt2339549|tt1465493|tt0477857|tt1266545
+nm2032473,Adarsh Jain,\N,\N,director,tt1057878|tt0477574|tt2679108|tt5500266
+nm2033549,Mahrukh Mirza,\N,\N,writer|director|producer,tt0403276|tt0350030|tt0077792|tt0823252
+nm2039261,Ashok Nanda,\N,\N,director|producer|writer,tt8130558|tt0479592|tt0342428|tt1643242
+nm2042095,Hameed Alam,\N,\N,director,tt2732696|tt0479718|tt3822494
+nm2051629,Vivek Shah,\N,\N,editor|director,tt0454435|tt0845529|tt0476649|tt0456549
+nm2055188,Aspi Irani,1911,1986,director|producer|writer,tt0129370|tt0155161|tt0154189|tt0068620
+nm2065710,Pranavanand,\N,\N,director|assistant_director,tt0214178|tt0401899|tt7756494
+nm2067985,Sanjay M. Khanduri,\N,\N,director|assistant_director|writer,tt0995718|tt2402131|tt2375256|tt5728694
+nm2069886,Andaleeb Sultanpuri,\N,\N,director|assistant_director,tt0226847|tt0109117
+nm2073234,Feroz Abbas Khan,\N,\N,director|writer,tt9127232|tt0459293|tt3672618
+nm2083605,Manish Sharma,1973,\N,director,tt0409068|tt0485466
+nm2087302,Shujaat Saudagar,\N,\N,director|producer|writer,tt8585426|tt0487249|tt6844142|tt2137241
+nm2093619,Pawan Gill,\N,\N,producer|writer|assistant_director,tt2112978|tt5891348|tt3449788|tt0441048
+nm2095729,Ricardo Freitas,\N,\N,producer|director|editor,tt0489914|tt0923156|tt1225958|tt1925393
+nm2098883,Partho Mitra,\N,\N,director,tt8747458|tt0488840|tt1888332|tt1267410
+nm2100922,V.G. Samant,\N,\N,director,tt0488836
+nm2103347,Sarovar Banka,\N,\N,director|writer|producer,tt6023252|tt0489038|tt1704680
+nm2104585,Kewal Singh,\N,\N,assistant_director|director|actor,tt7274816|tt7279078|tt0485535|tt4411828
+nm2116437,Kanwar Jagdish,\N,\N,actor|director,tt2377938|tt2622302|tt0420332|tt1191138
+nm2122625,Dhirendra Bohra,\N,\N,director|producer,tt0090674|tt0493354
+nm2124532,Manoj Tiwari,\N,\N,assistant_director|director|writer,tt0345043|tt3590416|tt10816510|tt0813540
+nm2132775,Manish Srivastav,1970,\N,assistant_director|director|writer,tt0361411|tt0433116|tt1016177|tt2190820
+nm2134187,Ram Lakhan,\N,\N,director|actor|producer,tt4635372|tt1704145|tt0494924
+nm2134474,Vikas Bahl,1971,\N,producer|writer|director,tt1327035|tt1841542|tt4007558|tt3322420
+nm2144007,Kangana Ranaut,1987,\N,actress|director|writer,tt1694542|tt1029231|tt3322420|tt2140465
+nm2147526,Asrani,1941,\N,actor|director|writer,tt0242519|tt0073707|tt0237022|tt0075825
+nm2155722,Shailendra Shukla,\N,\N,director|assistant_director|producer,tt0400584|tt9056988
+nm2157413,Sumbul Gazi,\N,\N,director|writer|producer,tt0497887|tt1270768
+nm2161908,Qamar Narvi,\N,\N,director|writer|actor,tt9355126|tt2894356|tt0176327|tt0384822
+nm2165634,Ravi Jadhav,\N,\N,director|writer|producer,tt3446426|tt10122504|tt5755606|tt1590129
+nm2168111,Nupur Asthana,\N,\N,director|actress|writer,tt7151596|tt3483646|tt1392744|tt2057441
+nm2172049,Sudarshan K. Rattan,\N,\N,writer|director|producer,tt0359368|tt2603462|tt1333130
+nm2177665,Sunil Kumar Agrawal,\N,\N,assistant_director|writer|director,tt1010048|tt0348656|tt0292552|tt1084972
+nm2193526,Girish Girija Joshi,\N,\N,assistant_director|director,tt0347332|tt1479857|tt0319736
+nm2199272,Raama Mehra,\N,\N,miscellaneous|actor|assistant_director,tt2663818|tt0926187|tt0246729|tt8876008
+nm2203486,Madan Bawaria,\N,\N,director|assistant_director,tt0318584|tt7456806
+nm2203853,Param Gill,\N,\N,writer|director|producer,tt4052500|tt3498590
+nm2207254,Rakesh Sawant,\N,\N,director,tt0783730|tt3840026|tt2298856|tt1372304
+nm2209781,Ayan Mukherjee,\N,\N,actor|director|writer,tt0367110|tt1324059|tt6277462|tt2178470
+nm2212399,Jayesh Pradhan,\N,\N,miscellaneous|director,tt0827714|tt2555958|tt1179781|tt1305797
+nm2223387,Saawan Kumar Tak,\N,\N,director|producer|music_department,tt0178212|tt0087586|tt0109391|tt0102835
+nm2236048,Sanjay Zaveri,\N,\N,director|assistant_director,tt8306742|tt0348824|tt8859830|tt0497620
+nm2243602,Shivam Nair,\N,\N,director|producer,tt3619710|tt0831840|tt6170954|tt1334254
+nm2244634,Musavir Jaleel,\N,\N,director|assistant_director|script_department,tt1900937|tt0486531|tt0349620|tt1213928
+nm2247401,Kamal,\N,\N,miscellaneous|actor|director,tt0359059|tt0079584|tt0271023|tt0413984
+nm2253160,Vishesh Bhatt,\N,\N,producer|director|writer,tt0495032|tt0833484|tt3848938|tt1216300
+nm2256232,Bappaditya Bandopadhyay,1970,2015,director|writer|cinematographer,tt5303406|tt5465450|tt3778178|tt1091794
+nm2260731,Kunal Deshmukh,\N,\N,director|writer|assistant_director,tt2319889|tt3483712|tt1216300|tt1522329
+nm2260872,Farhad Samji,\N,\N,writer|director|music_department,tt4535650|tt2112124|tt2978626|tt1728986
+nm2262560,Vishal Mahadkar,\N,\N,director|assistant_director|writer,tt1020937|tt0499041|tt3720634|tt2246595
+nm2264108,Karan Arora,\N,\N,producer|actor|director,tt2063745|tt1667823|tt2190820|tt0480002
+nm2265536,Soumik Sen,\N,\N,writer|director|music_department,tt9179414|tt2573750|tt1314367|tt5912310
+nm2269798,Kanwal Biala,\N,\N,director|writer|producer,tt3286586|tt0152509|tt0308538
+nm2279430,Amit Ravindernath Sharma,\N,\N,director|producer,tt3398048|tt0410732|tt7725596|tt5747326
+nm2287772,Aniruddha Roy Chowdhury,\N,\N,director|writer|producer,tt5571734|tt3754704|tt0814012|tt1359552
+nm2291548,Vibhu Puri,\N,\N,writer|director|assistant_director,tt3004774|tt4338154|tt2187972|tt1438298
+nm2298953,M.N. Yasin,\N,\N,director|writer|assistant_director,tt0230141|tt2145873|tt0230684|tt0366656
+nm2300142,A.S. Ravindra Babu,\N,\N,director|assistant_director,tt1579801|tt0305173
+nm2306985,Himmat Dave,\N,\N,director|assistant_director,tt0045524|tt0867252|tt1833077|tt2784720
+nm2312263,Faisal Saif,1976,\N,writer|director|producer,tt5534054|tt1563732|tt0852989|tt0819777
+nm2321771,Smeep Kang,\N,\N,actor|writer|director,tt8206708|tt5270366|tt2245544|tt2053483
+nm2322617,Jasmeet Dhodhi,\N,\N,assistant_director|director,tt0823451|tt0488906|tt0430381
+nm2327068,Sahil Sangha,\N,\N,director|writer|producer,tt3359290|tt1877691|tt0485272|tt9359492
+nm2329841,Ajai Sinha,\N,\N,director|writer,tt1801521|tt2224254|tt8765164|tt0400977
+nm2336352,Ajay Kumar,\N,\N,director|assistant_director,tt0459605|tt0456144|tt1199534|tt4571832
+nm2336554,Aditya Dhar,\N,\N,writer|director|music_department,tt1706317|tt0770214|tt1708453|tt8291224
+nm2342835,Lucky Kohli,\N,\N,producer|director,tt0841096|tt1255873
+nm2347893,Vishwamitra,\N,\N,director|producer,tt0833978|tt0283934
+nm2349060,Bejoy Nambiar,1979,\N,producer|writer|director,tt1836912|tt6613814|tt0315642|tt2358412
+nm2352043,Raaghav Dar,\N,\N,writer|director|assistant_director,tt2191627|tt1309561|tt5935704|tt1512220
+nm2356415,Akshat Verma,\N,\N,writer|director|actor,tt6102396|tt1934231|tt8427926|tt0835826
+nm2358632,Arif Ali,\N,\N,writer|director,tt6871422|tt0831840|tt3716142|tt2366871
+nm2366197,Faruk Kabir,\N,\N,director|writer|assistant_director,tt7715102|tt1292642|tt10118064
+nm2366663,Kedar Shinde,\N,\N,director|writer|producer,tt5914500|tt0845554|tt7651202|tt1634331
+nm2378914,Advait Chandan,\N,\N,assistant_director|director|miscellaneous,tt6108090|tt1433810|tt1373098|tt0986264
+nm2379292,Dheeraj Kumar,\N,\N,producer|director,tt1137434|tt11199474|tt1715300|tt1454765
+nm2380794,Amar Butala,\N,\N,producer|director|writer,tt5882970|tt4467202|tt3863552|tt0857385
+nm2381428,Surendra Kumar Bohra,\N,\N,director,tt0173156
+nm2388843,Afzal Khan,\N,\N,writer|producer|director,tt0320097|tt0289686|tt1234250|tt0251194
+nm2391751,Abhishek Pathak,1987,\N,producer|assistant_director|director,tt7363076|tt0488414|tt7363104|tt4430212
+nm2395487,Anshul Sharma,\N,\N,assistant_director|miscellaneous|director,tt1926313|tt1327035|tt0488414|tt2857500
+nm2396167,Shlok Sharma,\N,\N,director|assistant_director|actor,tt1327035|tt6149820|tt2361746|tt1954470
+nm2399862,Aanand L. Rai,\N,\N,producer|director|music_department,tt6484982|tt2359810|tt6527426|tt2140465
+nm2410557,Akarsh Khurana,\N,\N,writer|actor|director,tt1029231|tt7919680|tt1198101|tt0432637
+nm2411665,Ashish R. Mohan,\N,\N,assistant_director|actor|casting_director,tt4023852|tt1948150|tt2166214|tt0444769
+nm2414127,Mudassar Aziz,\N,\N,writer|music_department|soundtrack,tt1182884|tt0814082|tt1152845|tt5472758
+nm2414507,Harryy W. Fernaandes,\N,\N,director|writer|assistant_director,tt0874854|tt5473982|tt5216766|tt5216392
+nm2418372,Nikhil Bhat,\N,\N,director|writer|assistant_director,tt10919304|tt2796318|tt6514010|tt1370437
+nm2429994,Lovely Singh,\N,\N,assistant_director|director|casting_director,tt0374271|tt0887753|tt0489560|tt5600714
+nm2432049,Glenn,\N,\N,director|writer,tt0827714
+nm2434677,Ankush,\N,\N,director|writer,tt0827714
+nm2436882,Surindara Suri,\N,\N,director,tt0078739
+nm2439708,Shakun Batra,\N,\N,assistant_director|director|actor,tt1703958|tt0473367|tt1230165|tt4900716
+nm2480204,Navdeep Singh,\N,\N,director|writer|actor,tt0920464|tt5502766|tt9052960|tt3742284
+nm2484181,Tariq Khan,\N,\N,director|writer|art_department,tt9007142|tt1420539|tt1261047|tt0347332
+nm2500215,Ajay Kanchan,\N,\N,director,tt0465376
+nm2528230,Bhagwan Thakur,\N,\N,director|composer,tt2016931|tt0950681
+nm2528557,Milind Rau,\N,\N,assistant_director|director|producer,tt10973118|tt7471004|tt0382383|tt5459644
+nm2531550,Sudhish Kamath,\N,\N,writer|producer|director,tt6825762|tt5207116|tt0950715|tt1740745
+nm2535507,Mukesh Chhabra,\N,\N,casting_director|casting_department|actor,tt5074352|tt3863552|tt3390572|tt1839596
+nm2539328,Rohit Dhawan,\N,\N,writer|director|assistant_director,tt1985981|tt3679060|tt0807758|tt0461936
+nm2540281,Sharique Minhaj,\N,\N,director|writer,tt0487148|tt5021968
+nm2549435,Ajay Sharma,\N,\N,director|producer|writer,tt7415678|tt2613424|tt0451614|tt0427527
+nm2553888,Pradeep Mani,\N,\N,director,tt0296705
+nm2557280,Akshay Shere,\N,\N,assistant_director|director,tt0476649|tt0432047|tt1649760|tt0831816
+nm2557565,Sarmad Sultan Khoosat,\N,\N,director|actor,tt5451208|tt4943992|tt2403201|tt1636696
+nm2559488,Deva Katta,\N,\N,director|writer|music_department,tt2224057|tt1603362|tt4697076|tt0971222
+nm2571203,Sharankumar Chand,\N,\N,director,tt0284383|tt0378645
+nm2577595,Deepak S. Shivdasani,\N,\N,director|writer|producer,tt0449892|tt0366696|tt0292740|tt1228726
+nm2581582,Sanjay Sharma,\N,\N,director|writer|producer,tt4413354|tt1742307|tt0979902|tt6232448
+nm2589174,M. Parvez,\N,\N,writer|director,tt0172617|tt0482671|tt0101742|tt0404797
+nm2590023,Amrit Sagar,\N,\N,producer|director,tt4471622|tt2416294|tt0983990|tt5201864
+nm2590202,Sachin Kundalkar,\N,\N,director|writer,tt0984107|tt1587676|tt4443924|tt6078304
+nm2597152,Hemant Madhukar,\N,\N,writer|director|assistant_director,tt2691010|tt0988655|tt1781948|tt9605894
+nm2623713,Ajay Bhuyan,\N,\N,director|assistant_director|writer,tt3822600|tt1954381|tt4766254|tt5745872
+nm2625699,Sagar Ballary,\N,\N,director|writer|assistant_director,tt1014672|tt8016380|tt2034011|tt1939654
+nm2637116,Pravesh Bhardwaj,\N,\N,assistant_director|director|writer,tt0286505|tt0317985|tt2459170|tt1646217
+nm2637544,Rakesh Nahata,\N,\N,director|producer|miscellaneous,tt1252544|tt0374117|tt3486536
+nm2669564,R. Balki,\N,\N,writer|director|producer,tt2181931|tt5946128|tt0976026|tt1532957
+nm2678319,Sajid,\N,\N,writer|music_department|director,tt2978626|tt1728986|tt4535650|tt2112124
+nm2680506,Sharat Katariya,1978,\N,writer|director|actor,tt7147540|tt3495030|tt3495026|tt1667460
+nm2683141,Bhavna Talwar,\N,\N,director|producer|writer,tt1285301|tt1047459|tt4621398|tt5942346
+nm2692281,Hasan Tariq,\N,\N,director,tt1627028|tt0448373|tt1989448|tt0234328
+nm2709116,Chetan Desai,\N,\N,visual_effects|director|animation_department,tt0238936|tt0254481|tt2354560|tt3886444
+nm2710488,Rajiv S. Ruia,\N,\N,director|writer|soundtrack,tt1339313|tt8028076|tt2929840|tt0404240
+nm2718412,Sunil R. Prasad,\N,\N,director,tt4896462|tt5216498|tt6386084|tt1068660
+nm2720840,Kaushik Roy,\N,\N,director|writer|producer,tt1073097
+nm2735803,Saurabh Varma,\N,\N,director|miscellaneous|writer,tt4365060|tt2796318|tt0490170|tt4364998
+nm2742399,Raj Pendurkar,\N,\N,director,tt1083988|tt2497024
+nm2771884,Alankrita Shrivastava,\N,\N,director|writer|assistant_director,tt6494622|tt1666184|tt4807830|tt9176296
+nm2783503,Dilip Sood,\N,\N,director|writer,tt1108831|tt3789538
+nm2785963,S. Soni,\N,\N,director,tt1107308
+nm2792110,Ritesh Menon,\N,\N,producer|director|assistant_director,tt4094820|tt7782432|tt7799486|tt1213928
+nm2793225,Pammi Somal,\N,\N,director|writer|producer,tt2066925|tt1112725|tt2073038
+nm2807963,Sudipto Chattopadhyay,\N,\N,writer|director|actor,tt0823451|tt1124386|tt2250620|tt4594050
+nm2808767,Akash Jain,\N,\N,director|assistant_director,tt0482045|tt2637656|tt2784992|tt0480572
+nm2811863,Jyoti Singh,\N,\N,actress|producer|production_manager,tt3386264|tt3476576|tt1806740|tt4910010
+nm2813440,Muazzam Beg,\N,\N,writer|director|actor,tt1126516|tt1941638|tt1839596|tt0984122
+nm2828859,Anil Kumar Sharma,\N,\N,producer|director,tt0366658|tt1980970|tt6445398
+nm2831530,Abhishek Varman,\N,\N,assistant_director|director|writer,tt0449994|tt2372678|tt0238936|tt1188996
+nm2857344,Abhinav Shiv Tiwari,\N,\N,director|writer|assistant_director,tt0816206|tt2137171|tt5207116|tt2086847
+nm2859182,Nitin Kakkar,\N,\N,director|writer|assistant_director,tt9105014|tt2417560|tt9248952|tt8852558
+nm2862844,Harshavardhan Kulkarni,\N,\N,writer|director|producer,tt1073097|tt3173910|tt1366686|tt4333674
+nm2864164,Mahesh Nair,\N,\N,director|actor|writer,tt0433605|tt5680206|tt1570417|tt1111869
+nm2885983,Kanu Behl,\N,\N,director|producer|writer,tt8414820|tt3019620|tt1608777|tt11069674
+nm2898003,Prem Soni,\N,\N,writer|director,tt0490170|tt1986040|tt1174041
+nm2903076,Ashwani Dhir,\N,\N,writer|producer|director,tt2178508|tt5864184|tt1578116|tt8772742
+nm2912011,Keshhav Panneriy,\N,\N,director|writer|editor,tt2153500|tt2731150|tt2179336|tt2731276
+nm2936175,Ajit Sinha,\N,\N,director|editorial_department|assistant_director,tt0133024|tt0106333|tt2327956|tt0404537
+nm2941662,Dipesh Jain,\N,\N,writer|editor|producer,tt2369357|tt1518185|tt2302416|tt2188649
+nm2945270,Anand Tiwari,1983,\N,actor|producer|director,tt2082197|tt1010048|tt2436516|tt0977855
+nm2955107,Raj Kumar Gupta,\N,\N,director|writer|producer,tt2246724|tt1241195|tt1734110|tt7363076
+nm2963987,Willy,\N,\N,director,tt3743514|tt0271996
+nm2964065,Raja,\N,\N,director,tt1621166|tt3325444|tt1801831|tt0271996
+nm2967962,Sohail Tatari,\N,\N,director|music_department,tt8682658|tt4742490|tt2912578|tt1260689
+nm2980812,Anil Senior,\N,\N,director|writer,tt10305992|tt1218345|tt4362346|tt6969506
+nm2981154,Shailesh Verma,\N,\N,writer|director,tt1217642|tt1185412|tt2767712
+nm2986415,Arindam Nandy,\N,\N,director|writer|soundtrack,tt1220718
+nm2989170,Ayush Raina,\N,\N,director|writer,tt9077626|tt3644222|tt1221142|tt3177332
+nm3009758,Sushil Rajpal,\N,\N,cinematographer|director|writer,tt8380128|tt0985636|tt1722425|tt10399702
+nm3035236,Vasan Bala,\N,\N,writer|actor|director,tt5662932|tt8055888|tt2350496|tt2198101
+nm3041478,Chand Mehta,\N,\N,assistant_director|director|editor,tt1483815|tt0381090
+nm3051114,Anthony D'Souza,\N,\N,director|writer|producer,tt11022324|tt1223922|tt6017906|tt2571140
+nm3054406,Jaiveer,\N,\N,writer|actor|director,tt4387040|tt2438764|tt9624498|tt1465488
+nm3056909,Dayanand,\N,\N,director|costume_department,tt2706372|tt1252292|tt2855066
+nm3058370,Rajesh Ram Singh,\N,\N,director|producer,tt0326745|tt3418990|tt4806056|tt6016672
+nm3060331,Luv Ranjan,\N,\N,producer|writer|director,tt4430136|tt7581902|tt1926313|tt1327035
+nm3075046,Supavitra Babul,\N,\N,director|writer|producer,tt1241195|tt2347289|tt7743400|tt5915502
+nm3085237,Milind Gadagkar,\N,\N,writer|director|soundtrack,tt1016177|tt1201557|tt1267500|tt1612611
+nm3109648,Shree Narayan Singh,\N,\N,editor|director|editorial_department,tt2377938|tt3848892|tt5785170|tt1280558
+nm3109770,Neeraj Pandey,\N,\N,writer|editorial_department|director,tt4169250|tt3848892|tt1280558|tt2377938
+nm3114227,Sanjay Puransingh Chauhan,\N,\N,director|writer,tt1285245
+nm3124342,Manish Harishankar,\N,\N,assistant_director|director|writer,tt2615584|tt1252596|tt3021244|tt5289170
+nm3125271,Shashant Shah,\N,\N,director|producer,tt2848824|tt1884268|tt1288638|tt7275814
+nm3140608,Sunaina Bhatnagar,\N,\N,assistant_director|director|writer,tt1275863|tt6033536|tt1839596|tt1093370
+nm3172019,Sourabh Shrivastava,\N,\N,director|writer,tt1312135|tt7282762|tt5013008
+nm3214585,Mukesh Saigal,\N,\N,director,tt0897413
+nm3218978,Abhinay Deo,\N,\N,director|producer,tt1934231|tt2792284|tt6972140|tt1772872
+nm3221483,Navaniat Singh,\N,\N,director|assistant_director|producer,tt3607226|tt1904875|tt2821880|tt1694561
+nm3258929,Sai Kabir,\N,\N,writer|director,tt2338862|tt3290688|tt10766374|tt5784864
+nm3262433,Raj Mehta,\N,\N,assistant_director|actor|director,tt4900716|tt8504014|tt2402131|tt1545082
+nm3262773,Ashish R. Shukla,1981,\N,director|writer|miscellaneous,tt7111656|tt7099330|tt1327035|tt2401719
+nm3283556,Kushal Ruia,\N,\N,art_department|director|producer,tt2317103|tt2661448|tt1946563|tt2677096
+nm3283906,Nishtha Jain,\N,\N,director|writer|producer,tt1360797|tt2393725|tt2196638|tt2678148
+nm3328918,Jehangir Surti,1971,\N,director|assistant_director|miscellaneous,tt1372681|tt1334254|tt1929237
+nm3351620,Vijay Lalwani,\N,\N,writer|director|producer,tt1373156
+nm3357569,Manoj Amarnani,\N,\N,actor|director|writer,tt1389126|tt3881136|tt1188996
+nm3362991,Ashter Syed,\N,\N,producer|director|editor,tt5543746
+nm3378055,Sheershak Anand,\N,\N,writer|director|editor,tt2404519|tt4853926|tt1372681|tt2229842
+nm3378345,Shantanu Ray Chhibber,\N,\N,writer|director|actor,tt2229842|tt4853926|tt2404519|tt1372681
+nm3386152,Anshai Lal,\N,\N,assistant_director|director,tt1185420|tt5502766|tt0871510|tt2344678
+nm3387699,B. Padmanabham,\N,\N,assistant_director|director,tt0284056|tt0055949|tt0060689|tt0154630
+nm3389135,Navinder Pal Singh,\N,\N,assistant_director|director|actor,tt3449788|tt11046300|tt1201557|tt0378072
+nm3391111,Saad Khan,\N,\N,writer|director|cinematographer,tt2191164|tt5281432|tt1493820|tt1773282
+nm3392871,Anup Das,\N,\N,director|writer,tt1745753|tt2781512
+nm3442103,Chakri Toleti,\N,\N,director|actor|writer,tt0086231|tt1417299|tt1891755|tt3757186
+nm3454973,Jaswant Gangani,\N,\N,writer|director|music_department,tt1435585|tt4760750|tt7288082
+nm3462170,Qaushiq Mukherjee,\N,\N,director|writer|cinematographer,tt7981260|tt5240748|tt2261700|tt3724898
+nm3463234,Raja Sen,\N,\N,writer|director|actor,tt1740745|tt1370429|tt5207116|tt2436516
+nm3464122,Faraz Haider,\N,\N,director|actor|writer,tt5738464|tt3129282|tt1292703|tt7412738
+nm3469020,Sonam Nair,\N,\N,director|writer|actor,tt10365978|tt1324059|tt2814372|tt6337878
+nm3470556,Anusha Rizvi,\N,\N,writer|director,tt1447508|tt3779396
+nm3479561,Rajesh Sethi,\N,\N,director,tt1445563|tt0360693|tt1486321|tt7963766
+nm3481531,Rahul Dahiya,\N,\N,writer|director|actor,tt0995823|tt3542186|tt1585630|tt4307132
+nm3508781,Abhinav Kashyap,\N,\N,writer|director|actor,tt1385824|tt1620719|tt0289725|tt2576450
+nm3536895,Amit Masurkar,\N,\N,writer|director|music_department,tt6484982|tt2191641|tt2679480|tt2429640
+nm3538058,Amit Rai,\N,\N,director|writer,tt1471247
+nm3540484,M. Madhusudhana Rao,\N,\N,director,tt0186799
+nm3558297,Indrajit Nattoji,\N,\N,director|visual_effects|animation_department,tt3447364|tt1479667
+nm3563150,Rakesh Kakaria,\N,\N,director,tt1483815|tt4417710|tt4203766|tt3734198
+nm3573399,Prashant Nair,\N,\N,director|writer|producer,tt2614722
+nm3578603,Manish Tiwary,\N,\N,director|writer,tt2215163|tt1099196|tt8555626
+nm3583700,Agneya Singh,\N,\N,director|producer|cinematographer,tt1730348|tt2963974|tt1496795|tt1730235
+nm3588814,Arup Dutta,\N,\N,director|composer|writer,tt2404187|tt8543412|tt1501301
+nm3590210,Baljit Singh Deo,\N,\N,director|editor|cinematographer,tt2357211|tt4984868|tt1500815|tt4846926
+nm3592235,Ritesh Batra,1979,\N,director|writer|producer,tt4827986|tt2051839|tt7778680|tt2350496
+nm3597507,Swapna Joshi,\N,\N,director,tt4910308|tt4471622|tt7976536|tt1503640
+nm3603873,Amar Kaushik,\N,\N,assistant_director|director|actor,tt2436516|tt9420648|tt8108202|tt6110822
+nm3672165,Aijaz Khan,\N,\N,director,tt4177040|tt1539331|tt7527082|tt2248939
+nm3672712,Shubhashish Bhutiani,\N,\N,writer|director|producer,tt3082844|tt2190024|tt5997928|tt4459836
+nm3704744,Rajesh Bajaj,\N,\N,director|writer|producer,tt1255873|tt3176310|tt10529494|tt2560098
+nm3710212,Tony,\N,\N,director,tt1079967
+nm3720444,Arnab Chaudhuri,\N,\N,director,tt2404027
+nm3721662,Nilesh Maniyar,\N,\N,writer|assistant_director|casting_director,tt2929690|tt1274295|tt4322066
+nm3746062,Suresh Triveni,\N,\N,director|writer|music_department,tt6791730|tt9024610|tt1579383|tt8303588
+nm3749594,Aditya Om,\N,\N,actor|director|writer,tt2318401|tt5175604|tt4550794|tt4859526
+nm3754410,Shekhar S. Jha,\N,\N,director|writer,tt1577048|tt6499258|tt2753528|tt8569206
+nm3758267,Anand Gaekwad,\N,\N,director|producer,tt0978726
+nm3758453,Radha Krishna Jagarlamudi,\N,\N,director|writer|actor,tt5137380|tt2499856|tt5832544|tt1583256
+nm3764951,Indrajit Lankesh,\N,\N,director|writer|producer,tt1579812|tt4647014|tt3227016|tt2979334
+nm3796324,Jagdish Rajpurohit,\N,\N,actor|director|writer,tt2979920|tt2265191|tt2424988|tt1532957
+nm3797575,Srijit Mukherji,1977,\N,writer|director|actor,tt10217550|tt7822320|tt4115752|tt10834986
+nm3805636,Akashaditya Lama,\N,\N,writer|director,tt4472754|tt2346744|tt5537602
+nm3826513,Ranjit Tiwari,\N,\N,assistant_director|director|writer,tt5697870|tt2385104|tt4467202|tt4467262
+nm3827190,Vijay Pal,\N,\N,editor|director,tt4994210|tt7284048|tt1611834|tt7288592
+nm3828156,Ashok Kheny,\N,\N,director|actor|producer,tt1964837|tt1610418
+nm3830958,Rajesh Ranshinge,\N,\N,director|writer,tt1943898|tt3919008|tt0401916|tt1612573
+nm3867923,Sartaj Singh Pannu,\N,\N,director|writer|actor,tt7177642|tt1630613|tt5017192
+nm3870994,Pankaj Batra,\N,\N,director|writer|producer,tt6750962|tt7762982|tt1636842|tt10984686
+nm3876286,Jagbir Dahiya,\N,\N,director|producer,tt1637692
+nm3882793,K.D. Satyam,\N,\N,writer|director|producer,tt5216810|tt1643224|tt2156785|tt7296496
+nm3886871,Mohammed Israr Ansari,\N,\N,producer|director|writer,tt1643224
+nm3896655,Rakesh Mehta,\N,\N,director|writer|producer,tt1644622|tt8316026|tt2327389|tt5532888
+nm3908851,Sunil Prem Vyas,\N,\N,director|writer|actor,tt2368456|tt1874505|tt4384270|tt2361116
+nm3912281,Saahil Prem,\N,\N,actor|director|writer,tt3814100|tt1784632|tt0795434|tt2609218
+nm3962028,Kushal Srivastava,\N,\N,writer|director|producer,tt10990796|tt6275262|tt8503154|tt1950094
+nm3963684,Hemant Gaba,\N,\N,director|writer|producer,tt5032504|tt1679290|tt5207116|tt9064242
+nm3971343,Gopi Puthran,\N,\N,writer|director|assistant_director,tt1606267|tt3495000|tt5668770
+nm3975202,Tanuj Bhramar,\N,\N,director|actor,tt1685685|tt8265146|tt5615116|tt4069964
+nm3982140,Madan,\N,\N,director|producer|writer,tt0139237|tt0415082
+nm3990464,R.S. Ghelan,\N,\N,director,tt1692213
+nm3996936,S. Manasvi,\N,\N,writer|director,tt4299952|tt7972346|tt1907660|tt1695793
+nm4058904,Chaitanya Tamhane,\N,\N,writer|producer|director,tt1719631|tt3717068
+nm4083927,Manoj K. Jha,\N,\N,assistant_director|writer|director,tt1904875|tt4846926|tt1620933|tt8406866
+nm4105024,Karan Butani,\N,\N,director|writer|assistant_director,tt3094390|tt2073070|tt8338746|tt1735504
+nm4118651,Sachin P. Karande,\N,\N,director|producer,tt1740017|tt1899342|tt5032524|tt5032564
+nm4136040,Sattwik Mohanty,\N,\N,writer|assistant_director|director,tt1512220|tt7154994|tt4117066
+nm4138262,Ribhu Dasgupta,\N,\N,director|writer,tt4814290|tt8069036|tt8907992|tt1754202
+nm4145594,Manu Warrier,\N,\N,writer|director,tt3770660|tt3666258|tt1756673|tt10751548
+nm4191586,Vidhi Kasliwal,\N,\N,producer|director|assistant_director,tt1781838|tt5988306|tt9044540|tt6417788
+nm4199076,Sandeep Mohan,\N,\N,director|writer|cinematographer,tt1784526|tt5207116|tt6892468|tt3444018
+nm4205110,Adesh Prasad,\N,\N,assistant_director|editorial_department|director,tt1608777|tt1773764|tt8239946|tt1772332
+nm4244515,Nila Madhab Panda,\N,\N,director|producer|writer,tt3477214|tt6143422|tt8136908|tt1805263
+nm4250442,Srikanth Velagaleti,\N,\N,writer|director,tt1809399
+nm4258925,Shankhadeep,\N,\N,director|writer,tt1814619
+nm4264671,Shashank Khaitan,\N,\N,director|writer|actor,tt9053392|tt6277440|tt7638344|tt3678938
+nm4273332,Vishal Aryan Singh,\N,\N,director|writer,tt1821692
+nm4286800,Atlanta Nagendra,\N,\N,writer|director,tt1826763
+nm4288676,Dhananjay Mishra,\N,\N,composer|director|music_department,tt5177986|tt5216490|tt5216596|tt5216486
+nm4318159,Nitesh Tiwari,\N,\N,writer|director|music_department,tt5074352|tt1841542|tt6967980|tt3531852
+nm4335706,Rono Mukherjee,\N,\N,director|composer,tt1847735
+nm4339734,Sudhir R. Nair,\N,\N,director,tt1849067
+nm4355606,Ashima Chibber,\N,\N,director|assistant_director|writer,tt0871510|tt2323964|tt1198101|tt1839596
+nm4366835,Vick Krishna,\N,\N,actor|editor|director,tt6581468|tt3749900|tt7130830|tt2741602
+nm4376891,Sanghamitra Chaudhuri,\N,\N,director|writer,tt2279622|tt1867064
+nm4408957,Vineet Khetrapal,\N,\N,director|actor|producer,tt1886663
+nm4415009,Pawan Kripalani,\N,\N,director|writer,tt5743656|tt1890513|tt3449320|tt9766256
+nm4420679,Sanjoy Nag,\N,\N,actor|director|producer,tt7791496|tt1895476|tt5351378|tt6148812
+nm4425804,Aman Mihani,\N,\N,director|producer,tt1900937
+nm4428456,Sachindra Sharma,\N,\N,writer|director,tt4954486|tt1807978|tt3720438|tt4355892
+nm4446096,Bumpy,\N,\N,producer|director|actor,tt1918927|tt8305218|tt5508864|tt3611266
+nm4466728,Manish Vatssalya,\N,\N,actor|director|producer,tt2759338|tt2294685|tt10801314|tt1643224
+nm4533509,Rakesh Ranjan Kumar,\N,\N,director|writer,tt1980970|tt7624840
+nm4541258,Ravindra Gautam,\N,\N,director|producer,tt7762954|tt7154568|tt7598598|tt8925254
+nm4556524,Akhilesh Jaiswal,\N,\N,writer|director,tt3431714|tt2882328|tt10427918|tt1954470
+nm4559842,Sanjivan Lal,\N,\N,director|writer,tt8615806|tt8571888|tt8615834|tt2012576
+nm4562662,Mandeep Kumar,\N,\N,director|assistant_director,tt1694561|tt2014260|tt5565818|tt2130242
+nm4726754,Delwar Jahan Jhantu,\N,\N,writer|director|music_department,tt7272794|tt6532862|tt5515490|tt0114175
+nm4735289,Avinash Kumar Singh,\N,\N,director|writer|cinematographer,tt2224313|tt3033936|tt3766912|tt3114866
+nm4737894,Atanu Mukherjee,\N,\N,editor|director|writer,tt4121522|tt4016908|tt3389030|tt7341406
+nm4766248,Pia Sukanya,\N,\N,actress|music_department|director,tt2679480|tt4971258|tt2084863|tt9741682
+nm4766683,Japinder Kaur Baweja,\N,\N,director|writer|miscellaneous,tt2800452|tt1848771|tt2107858
+nm4784536,Neeraj Ghaywan,\N,\N,director|writer|assistant_director,tt2119517|tt4635372|tt6077448|tt1954470
+nm4788557,Naseem,\N,\N,director,tt0385978
+nm4819186,Dharmendra Suresh Desai,\N,\N,assistant_director|director,tt0278315|tt2377938|tt5165344|tt0273535
+nm4827297,Brahmanand S. Singh,\N,\N,director|writer|producer,tt2152803|tt6597248|tt7482222|tt7743400
+nm4857370,Pratim D. Gupta,1981,\N,writer|director|producer,tt2187003|tt10574498|tt4943558|tt5207116
+nm4858383,Joe Rajan,\N,\N,director|producer,tt2188811
+nm4877064,Baadal,\N,\N,director|writer,tt2211133
+nm4877866,Kirshan Kumar,\N,\N,director|writer|producer,tt2211133
+nm4885675,Amit Khanna,\N,\N,director|writer|producer,tt8090138|tt4511416|tt5671138|tt2224541
+nm4894328,Akshay Akkineni,\N,\N,assistant_director|director|writer,tt0315642|tt2358412|tt2233949|tt3794302
+nm4897775,Prashant Singh,\N,\N,director|assistant_director|miscellaneous,tt4068208|tt8785426|tt1694542|tt2359810
+nm4897879,Prem Prakash Modi,\N,\N,assistant_director|director|actor,tt0454391|tt7571718|tt6107292|tt1398391
+nm4962135,Navneet Behal,\N,\N,director|writer|visual_effects,tt7395466|tt2317135
+nm4996262,Navin Batra,\N,\N,director|writer,tt2353775|tt2375567|tt7591498
+nm5014824,Mikhil Musale,\N,\N,director|writer|assistant_director,tt8983180|tt3590482|tt2365873|tt5979920
+nm5021208,Yash Dave,\N,\N,director|writer,tt2378057
+nm5021698,Allyson Patel,\N,\N,director,tt2378057
+nm5040636,Cherag Ruparel,\N,\N,assistant_director|director|writer,tt1606267|tt2308773|tt3398052|tt10443846
+nm5059583,Gitanjali Sinha,\N,\N,director|writer,tt2402745
+nm5068738,Naman Nitin Mukesh,\N,\N,assistant_director|director,tt9176260|tt7926004|tt2759338|tt2404519
+nm5074529,Anand Kumar,\N,\N,producer|director,tt5420484|tt6149998|tt3877652|tt2171454
+nm5082788,Suhas Kadav,\N,\N,director|animation_department|writer,tt8242412|tt0381772|tt2649730|tt6278732
+nm5088926,Prateek Chakravorty,\N,\N,producer|assistant_director|writer,tt1146325|tt2185084|tt9552702|tt4959358
+nm5104917,Saandesh Nayak,\N,\N,actor|director|writer,tt2208248|tt0151150|tt6494578|tt5130348
+nm5113220,Zeishan Quadri,\N,\N,producer|actor|writer,tt1954470|tt9883006|tt4117066|tt10366052
+nm5118627,Shuja Ali,\N,\N,director|writer,tt3475862|tt2222716
+nm5120912,Ajay Bahl,\N,\N,director|writer|cinematographer,tt2408040
+nm5137243,Manish Manikpuri,\N,\N,director,tt2243336
+nm5148918,Vickrant Mahajan,\N,\N,director|actor|writer,tt2251552
+nm5151261,Shamin Desai,\N,\N,director|writer,tt4911068|tt6177406|tt2256514
+nm5160867,Adeeb Rais,\N,\N,director|actor|writer,tt10400330|tt8917560|tt2216852|tt3006094
+nm5194324,Aman Sachdeva,\N,\N,director,tt2290762|tt9861342|tt6020166|tt2998196
+nm5197715,Vikram Veturi,\N,\N,animation_department|director,tt4673986|tt2321492|tt10608760|tt4352362
+nm5211567,Shaurya Singh,\N,\N,actor|director|writer,tt2332570|tt3426342|tt6611040|tt7681514
+nm5218083,Rajesh. K.,\N,\N,director|writer|actor,tt1783352|tt2571418|tt2517776|tt2337292
+nm5234003,Karan Darra,\N,\N,director|assistant_director,tt2203308|tt8507568|tt2246595|tt3886444
+nm5240719,Pritish Chakraborty,\N,\N,director|writer|assistant_director,tt2367056|tt6451298|tt10107284|tt10107380
+nm5265679,Mahesh Kodiyal,\N,\N,director|writer,tt2389486
+nm5301256,Zaid Ali Khan,\N,\N,director|producer,tt2429930
+nm5310667,Vishwas Patil,\N,\N,director|writer,tt2438764
+nm5326250,Anurag Singh,\N,\N,director|writer|assistant_director,tt3607198|tt5891348|tt6264938|tt5195856
+nm5366274,Karthik Subbaraj,\N,\N,director|writer|producer,tt3569782|tt8959820|tt10661848|tt2585562
+nm5412321,Jaideep Chopra,\N,\N,producer|director|writer,tt7376546|tt2554042|tt8427496|tt8461406
+nm5437013,Rajesh Bhatt,\N,\N,assistant_director|director,tt2703684|tt3673988|tt0317569|tt0400571
+nm5443224,Ashish Bhavsar,\N,\N,director|writer|producer,tt2585654
+nm5445941,Shiv Kumar,\N,\N,director,tt2753344|tt0446905|tt0378105|tt0062670
+nm5455809,Shammi Chhabra,\N,\N,director|writer,tt2612924
+nm5459869,Jiten,\N,\N,director,tt2619760
+nm5479546,Rajeev-Neelabh,\N,\N,director,tt2644446
+nm5498803,Mustafa Engineer,\N,\N,director,tt4332856|tt2668860
+nm5535238,Dipankar Senapati,\N,\N,assistant_director|director,tt1801098|tt5896934|tt2356426|tt3080284
+nm5556806,Asit Sen,1922,2001,director|writer|assistant_director,tt0398193|tt0148692|tt0321968|tt1524567
+nm5579635,Jagan Shakti,\N,\N,assistant_director|director,tt7770158|tt2556308|tt5946128|tt2181931
+nm5581835,Abhishek Dogra,\N,\N,assistant_director|director|writer,tt1532957|tt4332114|tt0493417|tt7526836
+nm5592581,Rajiv Chilaka,\N,\N,director|producer|writer,tt6543086|tt2798620|tt4570986|tt4171600
+nm5596139,Prerna Wadhawan,\N,\N,producer|director|writer,tt2802062|tt4896462
+nm5648841,Siddharth Malhotra,\N,\N,director|writer|assistant_director,tt1428459|tt0189633|tt6588966
+nm5649895,Samir Tewari,\N,\N,director,tt2876408
+nm5650589,Nalan Kumarasamy,\N,\N,writer|director|actor,tt2877108|tt4741412|tt5200962|tt7019942
+nm5714434,Aban Raza,\N,\N,director|camera_department,tt2963974
+nm5777473,Rakhee Sandilya,\N,\N,director|writer|assistant_director,tt6997642|tt2216852
+nm5778075,Shekhar Ghosh,\N,\N,director|writer|producer,tt3005850|tt6571258
+nm5783340,Krishan Hooda,\N,\N,writer|director|producer,tt8952648|tt3641820|tt6915020|tt6914936
+nm5801372,Sandeep A. Varma,\N,\N,director|writer|producer,tt3056632|tt9271450|tt9015860|tt5897230
+nm5883328,Karan Anshuman,\N,\N,writer|producer|director,tt3422462|tt6112414|tt6473300|tt3065040
+nm5926064,Tarun Madan Chopra,\N,\N,director|writer,tt3166542
+nm5932553,Vinil Mathew,\N,\N,director|writer,tt10980724|tt3173910|tt9185242|tt4874948
+nm6016331,Madhureeta Anand,\N,\N,director,tt3261022
+nm6062667,Dinesh P. Bhonsle,\N,\N,director|writer,tt7028142|tt3311236|tt5040904
+nm6085179,Gurmmeet Singh,\N,\N,assistant_director|director|producer,tt0449994|tt0461936|tt6112414|tt6473300
+nm6087261,Vats Amit,\N,\N,director,tt3309844
+nm6121143,Mrityunjay Devvrat,\N,\N,director|writer,tt3369670
+nm6182370,Anil Ballani,\N,\N,director,tt4579982|tt3431756
+nm6204476,Shefali Bhushan,\N,\N,actor|writer|producer,tt5837424|tt4874314|tt3453964|tt5178120
+nm6216458,Rajesh Pandey,\N,\N,director|assistant_director,tt3465488|tt10856158
+nm6235677,Umesh Bist,\N,\N,writer|director,tt3483596|tt5076268|tt4467202
+nm6269768,Syed Ahmad Afzal,\N,\N,writer|director|cinematographer,tt7390718|tt6582458|tt5600714|tt3514330
+nm6295660,Sanamjit Singh Talwar,\N,\N,director|writer|music_department,tt3539966
+nm6322632,Sabir,\N,\N,director,tt3565354
+nm6345090,Mahesh Vaijnath Doijode,\N,\N,writer|director|producer,tt3585758
+nm6350459,Tanushri Chattrji Bassu,\N,\N,director|writer,tt3681414
+nm6372816,Nicholas Kharkongor,\N,\N,director,tt3611062|tt8747548|tt5046500
+nm6379626,Vikramjit Singh,\N,\N,writer|cinematographer|director,tt4985254|tt2976182|tt0083452
+nm6405127,Ivan Ayr,\N,\N,director|writer|editor,tt5270166|tt3645896|tt5174726|tt6078866
+nm6436658,Ashwiny Iyer Tiwari,\N,\N,director|writer|miscellaneous,tt5832922|tt8983166|tt5005684|tt6967980
+nm6455554,Nitin Chandra,\N,\N,director|writer,tt8852426|tt5487250|tt5344460|tt3693936
+nm6463414,Sunil Sanjan,\N,\N,writer|producer|director,tt4493550|tt3701072
+nm6468326,Avinash Das,1976,\N,miscellaneous|director|writer,tt2360717|tt3705084|tt6058394
+nm6482555,Vivek b Agrawal,\N,\N,producer|assistant_director|director,tt0857381|tt6077448|tt3322420|tt2882328
+nm6504950,Harish Chawla,\N,\N,director,tt0381321
+nm6544018,Tabrez Hashmi,\N,\N,director|production_manager,tt1234250|tt0116153|tt0476550
+nm6576798,Afzal Ahmed,\N,\N,director,tt0317699|tt4332952|tt3811418
+nm6630093,Sunil Subramani,\N,\N,assistant_director|director,tt1198101|tt2082197|tt0495032|tt4129428
+nm6658775,V.K. Singh,\N,\N,director|writer,tt3893476
+nm6682160,Sujeeth,\N,\N,writer|director|assistant_director,tt6836936|tt3916700|tt5849466
+nm6706863,Sanjay Patel,\N,\N,writer|producer|director,tt6395306|tt3959638
+nm6754527,Abhijit Panse,\N,\N,director|writer,tt7777196|tt4019578
+nm6795773,Sukumar Nair,\N,\N,director,tt4063584
+nm6808897,Abhishek Bindal,\N,\N,writer|director|actor,tt3169676|tt2006233
+nm6832369,Gurmeet Ram Rahim Singh,1967,\N,writer|music_department|miscellaneous,tt4921860|tt6642396|tt6467380|tt4107858
+nm6970465,Kamal Master,\N,\N,director,tt0359059
+nm6993762,Shivaji Lotan Patil,\N,\N,director|writer|producer,tt4288730|tt9841876|tt5511856|tt4386684
+nm7014744,Mahesh Bhatt,\N,\N,writer|director|producer,tt4309284
+nm7039575,Samir Soni,\N,\N,director|writer|producer,tt4335954
+nm7060527,Kamal Raj Bhasin,\N,\N,director,tt0368825
+nm7066534,Milann Ajmera,\N,\N,director,tt2872050
+nm7110450,Qasim Khallow,\N,\N,camera_department|writer|actor,tt3495026|tt10017956|tt2574698|tt2016894
+nm7113817,Prem Sagar,\N,\N,producer|director,tt0378071|tt8435290|tt8230598
+nm7125624,Aarun Nagar,\N,\N,actor|director|writer,tt4451552|tt9795264|tt4541102|tt1517792
+nm7156665,Suzad Iqbal Khan,\N,\N,director|writer|actor,tt5456810|tt4485366|tt8157072|tt5937870
+nm7169171,Bobby Khan,\N,\N,director|writer,tt4500734
+nm7207144,Jasbir Bhaati,\N,\N,director|writer,tt1450737|tt5978194|tt11102876|tt4541102
+nm7222185,Shadaab Mirza,\N,\N,director|writer,tt4556848
+nm7229397,Giresh Naik,\N,\N,director,tt4565796
+nm7243220,Shakir Khan,\N,\N,director|writer,tt4581722
+nm7248306,Aanand Raut,\N,\N,director,tt4594848
+nm7278299,Anu Menon,\N,\N,writer|director,tt8242548|tt2064849|tt4818930|tt5207116
+nm7299654,Anirudh Chawla,\N,\N,writer|director|actor,tt4654760
+nm7315088,Munindra,\N,\N,director,tt4671212
+nm7326029,Kapri Vinod,\N,\N,director,tt4707940
+nm7344577,Kirti Kumar,\N,\N,director|actor|music_department,tt0118654|tt0363666|tt0105209|tt0119760
+nm7354230,Munish Bhardwaj,\N,\N,actor|writer|director,tt3614516|tt3743158|tt5343678|tt6768582
+nm7381564,Biswajeet Bora,\N,\N,director|writer|actor,tt4760900|tt6367610
+nm7393769,Honeypreet Insan,\N,\N,actress|assistant_director|director,tt6642396|tt6040012|tt4107858|tt6467380
+nm7435455,Deepak Chandra,\N,\N,editor|miscellaneous|editorial_department,tt4906960|tt2976182|tt4500734|tt5759244
+nm7444979,Dedipya Joshii,\N,\N,director|writer|producer,tt4844708|tt9055312
+nm7447165,Raaj Shaandilyaa,\N,\N,writer|director,tt9248940|tt6265988|tt2150177|tt5943306
+nm7498460,Ruchika Oberoi,\N,\N,writer|director,tt4916048
+nm7562796,Irshad Khan,\N,\N,producer|director,tt4995402|tt8856006
+nm7591029,Lom Harsh,\N,\N,director|writer|actor,tt8016496|tt8484464|tt5525846|tt6577566
+nm7609904,Shashank Udapurkar,\N,\N,director|actor|writer,tt6170046|tt9642630|tt6118134|tt5058136
+nm7630832,Krishnadev Yagnik,\N,\N,director|writer,tt8831284|tt5909308|tt5086104|tt6771678
+nm7665605,Rohit Naiyar,\N,\N,assistant_director|director,tt0933175|tt1252594|tt0409068|tt1499935
+nm7752309,Rajeev Chaudhari,\N,\N,director|writer|music_department,tt5227468
+nm7884640,Arjun Mukerjee,\N,\N,director,tt4552546
+nm7898757,K. Mishra,\N,\N,director,tt0447559
+nm7922790,Shailendra Pandey,\N,\N,director|actor|writer,tt0488836|tt5463608
+nm7943703,Subroto Paul,\N,\N,director|assistant_director|editorial_department,tt7277150|tt5154096|tt5632164
+nm7951585,Pankaj Sharma,\N,\N,director|producer,tt8823390|tt6449730
+nm7987302,Sachin Gupta,\N,\N,director|writer|producer,tt7722184|tt2907156|tt4859310|tt8499798
+nm8033571,Rajiv Dhingra,\N,\N,miscellaneous|director|writer,tt4846952|tt3402548|tt7549484|tt5569468
+nm8119703,Ravi Udyawar,\N,\N,director|writer,tt5690142
+nm8169127,Jitendra Tiwari,\N,\N,director,tt5752374
+nm8169229,Monjoy Joy Mukerji,\N,\N,director|writer,tt5752458
+nm8174390,Rajesh Butalia,\N,\N,director|writer,tt5760490
+nm8254923,Pranav Singh,\N,\N,director,tt5752374
+nm8393092,Shekhar Sirrinn,\N,\N,director|writer|composer,tt7189494|tt7548968
+nm8623146,Sankalp Reddy,\N,\N,director|writer,tt6299040
+nm8645748,Vishal Mishra,\N,\N,director|writer,tt8706852|tt6334874|tt7871054
+nm8698556,Aziz Zee,\N,\N,director|actor,tt6409494|tt7997334|tt7403550
+nm8737501,Aparnaa Singh,\N,\N,director,tt6467738
+nm8744023,Lalit Mohan,\N,\N,director|writer,tt5919914|tt8163874|tt6862542|tt6477736
+nm8784283,Ajay Pannalal,\N,\N,director,tt6537508
+nm8852813,Kunal v Singh,\N,\N,director|writer,tt6656806
+nm9049092,Vijay Ratnakar Gutte,\N,\N,director,tt6986710
+nm9057289,Ovais Khan,\N,\N,director|cinematographer,tt11007050|tt6985880
+nm9133927,Ahmed Faisal Inam,\N,\N,miscellaneous|director|writer,tt1740017|tt1999199|tt10210258|tt10210090
+nm9140649,Tanvi Jain,\N,\N,writer|assistant_director|miscellaneous,tt10340664|tt1578116|tt7743400|tt6597248
+nm9142437,Gulbahar Singh,\N,\N,director,tt6752836
+nm9179246,R.S. Prasanna,\N,\N,director|writer,tt3381754|tt6971752
+nm9179427,Dhwanil Mehta,\N,\N,director|writer,tt7340684
+nm9180204,Dhiraj Kumar,\N,\N,director|writer|producer,tt7274806|tt7220688|tt6371946
+nm9216110,Pradeep Rangwani,\N,\N,director|producer,tt7277150
+nm9227039,Sandeep Reddy Vanga,\N,\N,writer|director|actor,tt7294534|tt8983202|tt1582524|tt8303612
+nm9243389,A.A. Darpan,\N,\N,director|producer,tt0423844
+nm9280062,Sardar Talukdar,\N,\N,director|writer|assistant_director,tt0482034|tt0360227|tt0343048|tt4616354
+nm9323057,Ratnaa Sinha,\N,\N,director,tt7469726
+nm9389257,Naresh Lalwani,\N,\N,director|writer|producer,tt7585620
+nm9559655,Arvind Tripathi,\N,\N,director,\N
+nm9623915,Aleya Sen,\N,\N,writer|producer|director,tt7725596|tt6071752
+nm9631744,Sajid Ali,\N,\N,nan,\N
+nm9636533,Desh Deepak,\N,\N,director|actor,tt0341455|tt0439641
+nm9742183,Deb Medhekar,\N,\N,director|writer,tt8223250
+nm9751348,Rahi Anil Barve,\N,\N,director|writer,tt8239946
+nm9793365,Sudip Bandyopadhyay,\N,\N,director|writer,tt8324474
