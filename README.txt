@@ -87,3 +87,7 @@ Attribution:
 > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
 > IMDB  https://datasets.imdbws.com/
 > Wikipedia https://wikimediafoundation.org/support/
+
+License:
+All the scripts are licensed under MIT License
+For database licensing see the Attribution section
