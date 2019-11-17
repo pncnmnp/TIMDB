@@ -4,12 +4,14 @@ An initiative to curate a well structured database for Indian movies
 Current status: movies from 1950-2019 
                (can be used in both: content-based and collaborative filtering approaches)
 
-The project is divided into five directories based on the year of release and type of approach:
-    >> "collaborative"
-    >> "1950-2019"
-    >> "1950-1989"
-    >> "1990-2009"
-    >> "2010-2019"
+Database size: 8.5 MB
+
+The project is divided into five directories based on the year of release and type of ML approach:
+    >> "collaborative" (2.5 MB)
+    >> "1950-2019" (586.5 kB)
+    >> "1950-1989" (2.4 MB)
+    >> "1990-2009" (2.0 MB)
+    >> "2010-2019" (1.0 MB)
 
 Attributes present:
     IN ALL THE DATABASE PROVIDES 35 UNIQUE ATTRIBUTES TO TINKER WITH!
@@ -53,11 +55,13 @@ Attributes present:
 
 NOTE: 
 From MovieLens database:
-    The leading zeros are removed for imdb_id, which are not removed for the rest of the database(i.e for "1950-1989", "1990-2009", "2010-2019" and "1950-2019").
+    The leading zeros are removed for imdb_id, which are not removed for the rest of the 
+    database(i.e for "1950-1989", "1990-2009", "2010-2019" and "1950-2019").
     Example: in links.csv if imdb_id is 123456,
              it can be tt0123456 in imdb_id col in the datasets in "1950-1989", "1990-2009" and "2010-2019".
 
-    The ratings(MovieLens) for collaborative filtering were from "Full" dataset available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
+    The ratings(MovieLens) for collaborative filtering were from "Full" dataset,  
+    available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
 
     The genome-scores were available for very few movies (64 in total) from "Full" MovieLens dataset.
 
