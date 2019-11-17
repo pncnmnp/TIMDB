@@ -54,50 +54,50 @@ Attributes present:
             relevance, imdb_id, user_id, rating, timestamp, title
 
 NOTE: 
-From MovieLens database:
-    The leading zeros are removed for imdb_id, which are not removed for the rest of the 
-    database(i.e for "1950-1989", "1990-2009", "2010-2019" and "1950-2019").
-    Example: in links.csv if imdb_id is 123456,
-             it can be tt0123456 in imdb_id col in the datasets in "1950-1989", "1990-2009" and "2010-2019".
+    From MovieLens database:
+        The leading zeros are removed for imdb_id, which are not removed for the rest of the 
+        database(i.e for "1950-1989", "1990-2009", "2010-2019" and "1950-2019").
+        Example: in links.csv if imdb_id is 123456,
+                 it can be tt0123456 in imdb_id col in the datasets in "1950-1989", "1990-2009" and "2010-2019".
 
-    The ratings(MovieLens) for collaborative filtering were from "Full" dataset,  
-    available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
+        The ratings(MovieLens) for collaborative filtering were from "Full" dataset,  
+        available at http://files.grouplens.org/datasets/movielens/ml-latest.zip
 
-    The genome-scores were available for very few movies (64 in total) from "Full" MovieLens dataset.
+        The genome-scores were available for very few movies (64 in total) from "Full" MovieLens dataset.
 
-In 'bollywood_ratings.csv' if:
-    value is NaN -> it means the film is yet to be released
-    value is 0 -> No rating was given to the film
+    In 'bollywood_ratings.csv' if:
+        value is NaN -> it means the film is yet to be released
+        value is 0 -> No rating was given to the film
 
-In 'bollywood_meta.csv' if:
-    A title is missing, chances are the title had no info in the imdb dump
-    Or the title is yet to be released
-    (indicated by \N)
+    In 'bollywood_meta.csv' if:
+        A title is missing, chances are the title had no info in the imdb dump
+        Or the title is yet to be released
+        (indicated by \N)
 
-    As of this commit, all the is_adult values are 0.
+        As of this commit, all the is_adult values are 0.
 
-In 'bollywood_text.csv':
-    Some inconsistencies are removed, as of this commit some inconsistencies are left to find!
+    In 'bollywood_text.csv':
+        Some inconsistencies are removed, as of this commit some inconsistencies are left to find!
 
-    To separate multiple actors: '|' is used
-    
-    'text delimiter' has to be 'None' to view the dataset in LibreOffice Calc
-        as the attributes like story and summary contain "" and '' in them
+        To separate multiple actors: '|' is used
+        
+        'text delimiter' has to be 'None' to view the dataset in LibreOffice Calc
+            as the attributes like story and summary contain "" and '' in them
 
-In bollywood_crew.csv, bollywood_crew_data.csv and bollywood_writers_data.csv:
-    To separate multiple directors, writers and known_for titles and professions: '|' is used
+    In bollywood_crew.csv, bollywood_crew_data.csv and bollywood_writers_data.csv:
+        To separate multiple directors, writers and known_for titles and professions: '|' is used
 
-In 'src' directory:
-    The paths mentioned in the script are relative, see ./src/PATHS.py
+    In 'src' directory:
+        The paths mentioned in the script are relative, see ./src/PATHS.py
 
 Future Scope:
     Plans on curating movies for other languages, like 'Gujarati', 'Tamil', 'Telugu', etc.
 
 Attribution:
-> F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
-> IMDB  https://datasets.imdbws.com/
-> Wikipedia https://wikimediafoundation.org/support/
+    > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+    > IMDB  https://datasets.imdbws.com/
+    > Wikipedia https://wikimediafoundation.org/support/
 
 License:
-All the scripts are licensed under MIT License
-For database licensing see the Attribution section
+    All the scripts are licensed under MIT License
+    For database licensing see the Attribution section
