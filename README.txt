@@ -4,25 +4,25 @@ An initiative to curate a well structured database for Indian movies
 CURRENT STATUS: movies from 1950-2019 
                (can be used in both: content-based and collaborative filtering approaches)
 
-DATABASE SIZE: 8.5 MB
+DATABASE SIZE: 13.7 MB
 
     The project is divided into five directories based on the year of release and type of ML approach:
         >> "collaborative" (2.5 MB)
-        >> "1950-2019" (586.5 kB)
-        >> "1950-1989" (2.4 MB)
-        >> "1990-2009" (2.0 MB)
-        >> "2010-2019" (1.0 MB)
+        >> "1950-2019"     (5.7 MB)
+        >> "1950-1989"     (2.4 MB)
+        >> "1990-2009"     (2.0 MB)
+        >> "2010-2019"     (1.0 MB)
 
 ATTRIBUTES PRESENT:
     IN ALL THE DATABASE PROVIDES 35 UNIQUE ATTRIBUTES TO TINKER WITH!
 
     In "1950-1989", "1990-2009" and "2010-2019":
-        './x/bollywood.csv': title, imdb_id, poster_path,wiki_link
-        './x/bollywood_meta.csv': imdb_id, title, original_title, is_adult, year_of_release, runtime, genres
+        './x/bollywood.csv':         title, imdb_id, poster_path,wiki_link
+        './x/bollywood_meta.csv':    imdb_id, title, original_title, is_adult, year_of_release, runtime, genres
         './x/bollywood_ratings.csv': imdb_id, imdb_rating, imdb_votes
-        './x/bollywood_text.csv': imdb_id, story, summary, tagline, actors, wins_nominations, release_date
+        './x/bollywood_text.csv':    imdb_id, story, summary, tagline, actors, wins_nominations, release_date
 
-        where x = ["1990-2009", "2010-2019"]
+        where x = ["1950-1989", "1990-2009", "2010-2019"]
 
         UNIQUE (18 attributes):
             title(wiki), imdb_id, poster_path, wiki_link, original_title,
@@ -30,12 +30,18 @@ ATTRIBUTES PRESENT:
             imdb_rating, imdb_votes, story, summary, tagline,
             actors, wins_nominations, release_date
 
+    IMPORTANT:
+        For a dataset which merges values from the 3 directories:
+            SEE "./1950-2019/bollywood_full.csv"
+            (This dataset is merged ON "imdb_id", 
+             hence if you find a niche-movie missing, see the respective year's directory).
+
     In "1950-2019":
-        './x/bollywood_crew.csv': imdb_id, directors, writers
+        './x/bollywood_crew.csv':             imdb_id, directors, writers
         For Director(s) info:
-            './x/bollywood_crew_data.csv': crew_id, name, born_year, death_year, profession, known_for
+            './x/bollywood_crew_data.csv':    crew_id, name, born_year, death_year, profession, known_for
         For Writer(s) info:
-            './x/bollywood_writers_data.csv': crew_id, name, born_year, death_year, profession, known_for
+            './x/bollywood_writers_data.csv': crew_id, name, born_year, death_year, profession, known_for    
 
         UNIQUE (7 attributes):
             crew_id ('directors' and 'writers' column in bollywood_crew.csv contains their respective crew_id),
@@ -43,11 +49,11 @@ ATTRIBUTES PRESENT:
 
     In "collaborative":
         './x/genome_scores.csv': movie_id, tag_id, relevance
-        './x/genome_tags.csv': tag_id, tag
-        './x/links.csv': movie_id, imdb_id
-        './x/ratings.csv': user_id, movie_id, rating, timestamp
-        './x/tags.csv': user_id, movie_id, tag, timestamp
-        './x/titles.csv': movie_id, title
+        './x/genome_tags.csv':   tag_id, tag
+        './x/links.csv':         movie_id, imdb_id
+        './x/ratings.csv':       user_id, movie_id, rating, timestamp
+        './x/tags.csv':          user_id, movie_id, tag, timestamp
+        './x/titles.csv':        movie_id, title
 
         UNIQUE (10 attributes):
             movie_id, tag (from genome_tags.csv), tag (from tags.csv), tag_id,
