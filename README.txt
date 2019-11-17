@@ -1,19 +1,19 @@
 TIMDB - The Indian Movie Database
 An initiative to curate a well structured database for Indian movies
 
-Current status: movies from 1950-2019 
+CURRENT STATUS: movies from 1950-2019 
                (can be used in both: content-based and collaborative filtering approaches)
 
-Database size: 8.5 MB
+DATABASE SIZE: 8.5 MB
 
-The project is divided into five directories based on the year of release and type of ML approach:
-    >> "collaborative" (2.5 MB)
-    >> "1950-2019" (586.5 kB)
-    >> "1950-1989" (2.4 MB)
-    >> "1990-2009" (2.0 MB)
-    >> "2010-2019" (1.0 MB)
+    The project is divided into five directories based on the year of release and type of ML approach:
+        >> "collaborative" (2.5 MB)
+        >> "1950-2019" (586.5 kB)
+        >> "1950-1989" (2.4 MB)
+        >> "1990-2009" (2.0 MB)
+        >> "2010-2019" (1.0 MB)
 
-Attributes present:
+ATTRIBUTES PRESENT:
     IN ALL THE DATABASE PROVIDES 35 UNIQUE ATTRIBUTES TO TINKER WITH!
 
     In "1950-1989", "1990-2009" and "2010-2019":
@@ -90,15 +90,24 @@ NOTE:
     In 'src' directory:
         The paths mentioned in the script are relative, see ./src/PATHS.py
 
-Future Scope:
+FUTURE SCOPE:
     Plans on curating movies for other languages, like 'Gujarati', 'Tamil', 'Telugu', etc.
 
-Attribution:
-    > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 
-      5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+ATTRIBUTION:
+    > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. 
+      ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
     > IMDB  https://datasets.imdbws.com/
     > Wikipedia https://wikimediafoundation.org/support/
 
-License:
-All the scripts are licensed under MIT License
-For database licensing see the Attribution section
+LICENSE:
+    All the scripts are licensed under MIT License
+    For database licensing see the Attribution section
+
+CONTRIBUTION:
+    If you find a bollywood movie is missing from the appropriate directory, 
+    please send a pull request appending the movie information at the end of the appropriate file.
+
+    If a movie "ABC DEF" was released in "yyyy" year,
+    the pull request should be send to the appropriate directory.
+    For example:
+        A movie released in 1993 belongs to "1990-2009" directory.
