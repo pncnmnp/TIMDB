@@ -30,7 +30,10 @@ Attributes present:
 
     In "1950-2019":
         './x/bollywood_crew.csv': imdb_id, directors, writers
-        './x/bollywood_crew_data.csv': crew_id, name, born_year, death_year, profession, known_for
+        For Director(s) info:
+            './x/bollywood_crew_data.csv': crew_id, name, born_year, death_year, profession, known_for
+        For Writer(s) info:
+            './x/bollywood_writers_data.csv': crew_id, name, born_year, death_year, profession, known_for
 
         UNIQUE (7 attributes):
             crew_id ('directors' and 'writers' column in bollywood_crew.csv contains their respective crew_id),
@@ -48,7 +51,7 @@ Attributes present:
             movie_id, tag (from genome_tags.csv), tag (from tags.csv), tag_id,
             relevance, imdb_id, user_id, rating, timestamp, title
 
-Note: 
+NOTE: 
 From MovieLens database:
     The leading zeros are removed for imdb_id, which are not removed for the rest of the database(i.e for "1950-1989", "1990-2009", "2010-2019" and "1950-2019").
     Example: in links.csv if imdb_id is 123456,
@@ -77,8 +80,11 @@ In 'bollywood_text.csv':
     'text delimiter' has to be 'None' to view the dataset in LibreOffice Calc
         as the attributes like story and summary contain "" and '' in them
 
-In bollywood_crew.csv and bollywood_crew.csv:
-    To separate multiple directors, writers and known_for titles and professions: '|' is used        
+In bollywood_crew.csv, bollywood_crew_data.csv and bollywood_writers_data.csv:
+    To separate multiple directors, writers and known_for titles and professions: '|' is used
+
+In 'src' directory:
+    The paths mentioned in the script are relative, see ./src/PATHS.py
 
 Future Scope:
     Plans on curating movies for other languages, like 'Gujarati', 'Tamil', 'Telugu', etc.

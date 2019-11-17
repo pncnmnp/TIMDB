@@ -12,7 +12,10 @@
 
 #1950-2019
 # imdb_ids_path = "./wiki_dump/imdb_ids_1950-2019.json"
+# crew_ids_path contains DIRECTOR IDS
 # crew_ids_path = "./wiki_dump/crew_ids_1950-2019.json"
+# writer_ids_path contains WRITER(S) IDS
+writer_ids_path = "./wiki_dump/writer_ids_1950-2019.json"
 
 movielens_match_imdb = "./wiki_dump/movielens_matched_ids_imdb.json"
 movielens_match_movieid = "./wiki_dump/movielens_matched_mids.json"
