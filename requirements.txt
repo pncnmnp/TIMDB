@@ -1,4 +1,4 @@
 requests==2.20.0
 pandas==0.25.1
-Scrapy==1.8.1
+Scrapy==2.6.1
 beautifulsoup4==4.8.1
